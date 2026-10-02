@@ -1,0 +1,33 @@
+Hamburg Airlines – Route Evaluation & Market Research
+Overview
+This market research and data analytics project evaluates flight routes and airport passenger volumes across European secondary hubs to identify underserved routes and commercial growth opportunities for Hamburg Airlines.
+
+Key Analysis Parameters
+Target Airport Segment: Mid-tier commercial passenger hubs
+Passenger Volume Band: 10,000 to 40,000 mean passenger volume per period
+Route Capacity: 10 to 200 operational flight routes
+Geographic Scope: European hubs and Schengen countries 
+Tech Stack
+Languages & Frameworks: Python 3.x, Jupyter Notebook
+Data Manipulation & Requests: Pandas, Requests (API-Ninjas Airports endpoint)
+Data Visualization & Mapping: Matplotlib, Seaborn, Plotly (Scattergeo route mapping)
+Presentation: Google Slides
+
+
+Data Files (data/)
+airports.csv: Global and European airport reference dataset containing IATA/ICAO codes, geographic coordinates, and metadata.
+estat_ttr00017 (1).tsv: Raw Eurostat air passenger transport time-series dataset.
+clean_air_traffic_2025.csv: Cleaned flight frequencies and air traffic flow metrics.
+clean_passengers.csv: Cleaned passenger volume statistics across European commercial airports.
+clean_routes.csv: Cleaned origin-destination airport route pairs and operational network data.
+Notebooks & Scripts (notebooks/)
+API.ipynb: Route mapping script fetching airport coordinates (latitude and longitude) by IATA code via API-Ninjas, generating interactive flight path visualizations with Plotly Scattergeo (e.g., HER to MAD).
+Wrangling_Final.ipynb: Data cleaning, standardizing IATA airport codes, reshaping Eurostat TSV data, and merging datasets.
+Analysis_Final.ipynb: Exploratory data analysis, threshold filtering (mid-tier hubs: 10k–40k passengers, 10–200 routes), statistical aggregations, and high-resolution chart exports.
+Deliverables & Visualizations
+Hamburg Airlines - New Route - Market Research.gslides: Executive presentation deck detailing route gap evaluation and route recommendations.
+Execution Workflow
+API Ingestion & Geospatial Mapping: Execute API.ipynb to retrieve airport coordinates for target IATA origin-destination pairs and plot flight routes using Plotly.
+Data Wrangling: Run Wrangling_Final.ipynb to transform estat_ttr00017 (1).tsv and airports.csv into the cleaned CSV datasets (clean_air_traffic_2025.csv, clean_passengers.csv, clean_routes.csv).
+Market Analysis & Visualizations: Execute Analysis_Final.ipynb to filter mid-tier passenger volume and route criteria, mapping IATA codes to standardized names and generating publication-ready figures.
+Strategy Synthesis: Compile findings and route recommendations into Hamburg Airlines - New Route - Market Research.
