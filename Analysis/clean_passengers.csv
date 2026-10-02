@@ -1,0 +1,349 @@
+airport,country,mean,total,name,municipality
+LFPG,France,6038.785900000001,72465.4308,Charles de Gaulle International Airport,"Paris (Roissy-en-France, Val-d'Oise)"
+LEMD,Spain,5736.871,68842.452,Adolfo Suárez Madrid–Barajas Airport,Madrid
+EHAM,Netherlands,5705.2525,68463.03,Amsterdam Airport Schiphol,Amsterdam
+EDDF,Germany,5234.0435,62808.522,Frankfurt Main Airport,Frankfurt am Main
+LEBL,Spain,4815.955818181818,57791.469818181824,Josep Tarradellas Barcelona-El Prat Airport,Barcelona
+LIRF,Italy,4238.210916666667,50858.531,Rome–Fiumicino Leonardo da Vinci International Airport,Rome
+EDDM,Germany,3591.21125,43094.534999999996,Munich Airport,Munich
+LPPT,Portugal,3030.9517,36371.4204,Lisbon Humberto Delgado Airport,Lisbon
+LFPO,France,2952.3639,35428.366799999996,Paris-Orly Airport,"Paris (Orly, Val-de-Marne)"
+LGAV,Greece,2859.674727272727,34316.09672727273,Athens Eleftherios Venizelos International Airport,Spata-Artemida
+LEPA,Spain,2796.9465454545452,33563.35854545454,Palma de Mallorca Airport,Palma de Mallorca
+EKCH,Denmark,2782.4309166666667,33389.171,Copenhagen Kastrup Airport,Copenhagen
+LSZH,Switzerland,2763.0128333333337,33156.154,Zürich Airport,Zurich
+LOWW,Austria,2685.786,32229.432,Vienna International Airport,Vienna
+LIMC,Italy,2583.4896666666664,31001.875999999997,Milan Malpensa International Airport,Ferno (VA)
+ENGM,Norway,2257.4635,27089.561999999998,Oslo-Gardermoen International Airport,Oslo (Gardermoen)
+LEMG,Spain,2239.115,26869.379999999997,Málaga-Costa del Sol Airport,Málaga
+EDDB,Germany,2155.9935833333334,25871.923000000003,Berlin Brandenburg Airport,Berlin
+ESSA,Sweden,2078.274,24939.288,Stockholm-Arlanda Airport,Stockholm
+EPWA,Poland,2048.272,24579.264,Warsaw Chopin Airport,Warsaw
+EBBR,Belgium,2021.1598000000001,24253.9176,Brussels Airport,Zaventem
+EDDL,Germany,1763.25975,21159.117,Düsseldorf Airport,Düsseldorf
+LEAL,Spain,1676.96,20123.52,Alicante-Elche Miguel Hernández Airport,Alicante
+LHBP,Hungary,1643.4670833333332,19721.605,Budapest Liszt Ferenc International Airport,Budapest
+LKPR,Czechia,1508.22975,18098.756999999998,Václav Havel Airport Prague,Prague
+LSGG,Switzerland,1484.8891666666668,17818.670000000002,Geneva International Airport,Geneva
+EFHK,Finland,1448.9655,17387.586,Helsinki Vantaa Airport,Helsinki (Vantaa)
+LIME,Italy,1436.0934166666668,17233.121000000003,Il Caravaggio International Airport,Orio al Serio (BG)
+LPPR,Portugal,1433.3527,17200.2324,Francisco de Sá Carneiro Airport,Porto
+LROP,Romania,1406.1352727272726,16873.623272727273,Bucharest Henri Coandă International Airport,Otopeni
+GCLP,Spain,1314.951909090909,15779.42290909091,Gran Canaria Airport,Gran Canaria Island
+LFMN,France,1294.2335,15530.802,Nice-Côte d'Azur Airport,"Nice, Alpes-Maritimes"
+EDDH,Germany,1240.0715833333334,14880.859,Hamburg Helmut Schmidt Airport,Hamburg
+GCTS,Spain,1156.1743636363635,13874.092363636362,Tenerife Sur Airport,Tenerife
+EPKK,Poland,1148.0616666666667,13776.740000000002,Kraków John Paul II International Airport,Balice
+LIRN,Italy,1130.5376666666668,13566.452000000001,Naples International Airport,Napoli
+LICC,Italy,1028.8238333333334,12345.886,Catania-Fontanarossa Airport,Catania
+LIPZ,Italy,1008.10875,12097.305,Venice Marco Polo Airport,Venezia (VE)
+LEVC,Spain,990.7077272727273,11888.492727272727,Valencia Airport,Valencia
+LIML,Italy,962.6275,11551.53,Milano Linate Airport,Segrate (MI)
+EBCI,Belgium,953.1176999999999,11437.4124,Brussels South Charleroi Airport,Charleroi
+LIPE,Italy,945.1628333333334,11341.954000000002,Bologna Guglielmo Marconi Airport,Bologna
+LFML,France,928.668,11144.016,Marseille Provence Airport,"Marignane, Bouches-du-Rhône"
+LFLL,France,888.7065,10664.478,Lyon Saint-Exupéry Airport,"Colombier-Saugnieu, Rhône"
+LPFR,Portugal,877.5695,10530.833999999999,Faro - Gago Coutinho International Airport,Faro
+LMML,Malta,872.262,10467.144,Malta International Airport,Valletta
+LGIR,Greece,861.8636363636364,10342.363636363636,Heraklion International Nikos Kazantzakis Airport,Heraklion
+EDDK,Germany,840.39575,10084.749,Cologne Bonn Airport,Köln (Cologne)
+LEZL,Spain,819.0474545454546,9828.569454545455,Seville Airport,Seville
+EDDS,Germany,802.0085,9624.102,Stuttgart Airport,Stuttgart
+LICJ,Italy,786.8268333333334,9441.922,Falcone–Borsellino Airport,Palermo
+LEIB,Spain,769.1722727272727,9230.067272727272,Ibiza Airport,Ibiza (Eivissa)
+GCRR,Spain,741.1964545454546,8894.357454545454,César Manrique-Lanzarote Airport,San Bartolomé
+LBSF,Bulgaria,710.8614166666666,8530.337,Sofia Airport,Sofia
+LFSB,Switzerland,704.4436666666667,8453.324,EuroAirport Basel–Mulhouse–Freiburg,Bâle / Mulhouse
+LIBD,Italy,683.7711666666667,8205.254,Bari Karol Wojtyła International Airport,Bari
+LGTS,Greece,672.3998181818182,8068.797818181818,Thessaloniki Macedonia International Airport,Thessaloniki
+BIKF,Iceland,663.1986666666667,7958.384,Keflavik International Airport,Reykjavík
+LFBO,France,629.2634,7551.160800000001,Toulouse-Blagnac Airport,Toulouse/Blagnac
+EPGD,Poland,626.542,7518.504000000001,Gdańsk Lech Wałęsa Airport,Gdańsk
+EPKT,Poland,615.8305,7389.966,Katowice Wojciech Korfanty International Airport,Katowice
+LGRP,Greece,610.8881818181818,7330.658181818182,"Rhodes International Airport ""Diagoras""",Rhodes
+GCXO,Spain,600.896090909091,7210.753090909091,Tenerife Norte-Ciudad de La Laguna Airport,Tenerife
+LFRS,France,596.0119,7152.1428,Nantes Atlantique Airport,Nantes
+LEBB,Spain,593.0473636363637,7116.568363636365,Bilbao Airport,Bilbao
+EHEH,Netherlands,592.1355,7105.626,Eindhoven Airport,Eindhoven
+EVRA,Latvia,589.6946666666666,7076.335999999999,Riga International Airport,Riga
+GCFV,Spain,564.5689090909091,6774.826909090909,Fuerteventura Airport,El Matorral
+ENBR,Norway,548.9584166666666,6587.500999999999,"Bergen Airport, Flesland",Bergen
+LFOB,France,535.9692,6431.6304,Beauvais-Tillé airport,Beauvais
+LIRP,Italy,504.9663333333333,6059.596,Pisa International Airport,Pisa (PI)
+LFBD,France,502.06559999999996,6024.7872,Bordeaux–Mérignac Airport,Bordeaux
+ESGG,Sweden,466.42359999999996,5597.083199999999,Göteborg Landvetter Airport,Göteborg
+LPMA,Portugal,450.5922,5407.1064,Cristiano Ronaldo International Airport,Funchal
+EDDV,Germany,448.90541666666667,5386.865,Hannover Airport,Hannover
+ELLX,Luxembourg,448.69525,5384.343,Luxembourg-Findel International Airport,Luxembourg
+LIMF,Italy,442.5396666666667,5310.476000000001,Turin Airport,Caselle Torinese (TO)
+LIEE,Italy,442.47425,5309.691,Cagliari Elmas Airport,Cagliari
+EYVI,Lithuania,436.4065,5236.878,Vilnius International Airport,Vilnius
+EPWR,Poland,427.1234166666667,5125.481,Copernicus Wrocław Airport,Wrocław
+LGKR,Greece,404.7370909090909,4856.845090909091,Corfu Ioannis Kapodistrias International Airport,Kerkyra (Corfu)
+LDZA,Croatia,395.2045833333333,4742.455,Zagreb Franjo Tuđman International Airport,Velika Gorica
+EDDN,Germany,382.1870833333333,4586.245,Nuremberg Airport,Nuremberg
+LGSA,Greece,360.95918181818183,4331.510181818182,Chania International Airport,Souda
+LEMH,Spain,358.723,4304.676,Menorca Airport,Mahón (Maó)
+LIEO,Italy,348.88975,4186.677,Olbia Costa Smeralda Airport,Olbia (SS)
+EPPO,Poland,345.59825,4147.179,Poznań-Ławica Airport,Poznań
+LIPX,Italy,345.56775,4146.813,Verona Villafranca Valerio Catullo Airport,Caselle (VR)
+ENVA,Norway,341.65233333333333,4099.8279999999995,"Trondheim Airport, Værnes",Trondheim
+LIRA,Italy,331.9519166666667,3983.4230000000007,Ciampino–G. B. Pastine International Airport,Rome
+LIRQ,Italy,327.00975,3924.117,"Florence Airport, Peretola",Firenze (FI)
+LDSP,Croatia,321.9591666666667,3863.51,Split Saint Jerome Airport,Split
+ENZV,Norway,314.7298333333333,3776.758,"Stavanger Airport, Sola",Stavanger
+EDJA,Germany,310.77091666666666,3729.251,Memmingen Allgau Airport,Memmingen
+LRCL,Romania,299.6787272727273,3596.144727272728,Avram Iancu Cluj International Airport,Cluj-Napoca
+EETN,Estonia,294.21925,3530.631,Lennart Meri Tallinn Airport,Tallinn
+LIBR,Italy,292.91875,3515.0249999999996,Brindisi Airport,Brindisi
+LGKO,Greece,281.99754545454545,3383.9705454545456,"Kos International Airport ""Ippokratis""",Kos Island
+EDLW,Germany,273.26625,3279.195,Dortmund Airport,Dortmund
+LIPH,Italy,267.34458333333333,3208.135,Treviso Airport,Treviso (TV)
+LICA,Italy,260.37075,3124.4489999999996,Lamezia Terme Sant'Eufemia International Airport,Lamezia Terme (CZ)
+LDDU,Croatia,257.78875,3093.465,Dubrovnik Ruđer Bošković Airport,Dubrovnik
+LZIB,Slovakia,254.17533333333336,3050.1040000000003,M. R. Štefánik Airport,Bratislava
+ENTC,Norway,248.209,2978.508,Tromsø Airport,Tromsø
+EKBI,Denmark,248.0605,2976.7259999999997,Billund Airport,Billund
+LEST,Spain,239.88663636363634,2878.639636363636,Santiago-Rosalía de Castro Airport,Santiago de Compostela
+FMEE,France,237.8279,2853.9348,Roland Garros Airport,Sainte-Marie
+LPPD,Portugal,233.05079999999998,2796.6096,João Paulo II Airport,Ponta Delgada
+LGSR,Greece,209.73318181818183,2516.798181818182,Santorini International Airport,Santorini Island
+LGZA,Greece,204.59681818181818,2455.161818181818,Zakynthos International Airport Dionysios Solomos,Zakynthos
+EHRD,Netherlands,200.21116666666666,2402.5339999999997,Rotterdam The Hague Airport,Rotterdam
+EPMO,Poland,196.39158333333333,2356.699,Warsaw Modlin Airport,Nowy Dwór Mazowiecki
+EDLV,Germany,194.12758333333335,2329.531,Weeze (Niederrhein) Airport,Weeze
+EDSB,Germany,193.63033333333334,2323.5640000000003,Karlsruhe Baden-Baden Airport,Rheinmünster
+LRIA,Romania,185.07118181818183,2220.854181818182,Iaşi International Airport,Iaşi
+LEGE,Spain,180.14472727272727,2161.736727272727,Girona-Costa Brava Airport,Girona
+EDFH,Germany,176.766,2121.192,Frankfurt-Hahn Airport,Frankfurt am Main (Lautzenhausen)
+LEAS,Spain,172.49454545454543,2069.934545454545,Asturias Airport,Ranón
+TFFR,France,172.1075,2065.29,Maryse Condé International Airport,Pointe-à-Pitre
+EDDP,Germany,170.02475,2040.297,Leipzig/Halle Airport,Schkeuditz
+ENBO,Norway,166.90183333333334,2002.8220000000001,Bodø Airport,Bodø
+EDDW,Germany,162.74191666666667,1952.903,Bremen Airport,Bremen
+LBWN,Bulgaria,160.75075,1929.009,Varna Airport,Varna
+LOWS,Austria,151.53866666666664,1818.4639999999997,Salzburg Airport,Salzburg
+TFFF,France,150.3435,1804.122,Martinique Aimé Césaire International Airport,Fort-de-France
+LBBG,Bulgaria,149.14366666666666,1789.724,Burgas Airport,Burgas
+LIEA,Italy,149.05166666666665,1788.62,Alghero-Fertilia Airport,Alghero
+ENTO,Norway,146.84275,1762.1129999999998,"Sandefjord Airport, Torp",Sandefjord(Torp)
+LFQQ,France,140.7741,1689.2892000000002,Lille Airport,Lesquin
+LIPQ,Italy,140.37016666666665,1684.4419999999998,Trieste Airport,Ronchi dei Legionari/Trieste
+LFKJ,France,139.57760000000002,1674.9312000000002,Ajaccio Napoléon Bonaparte airport,Ajaccio
+LGMK,Greece,138.78581818181817,1665.429818181818,Mykonos Island National Airport,Mykonos
+LFMT,France,138.77939999999998,1665.3527999999997,Montpellier-Méditerranée Airport,Montpellier/Méditerranée
+LIMJ,Italy,137.99875,1655.9850000000001,Genoa Cristoforo Colombo Airport,Genova (GE)
+LJLJ,Slovenia,137.88516666666666,1654.6219999999998,Ljubljana Jože Pučnik Airport,Zgornji Brnik
+LDZD,Croatia,136.05633333333336,1632.6760000000004,Zadar Airport,Zadar
+LFKB,France,134.20829999999998,1610.4995999999996,Bastia-Poretta International airport,Bastia
+EYKA,Lithuania,133.93241666666665,1607.1889999999999,Kaunas International Airport,Kaunas
+EKYT,Denmark,127.36558333333333,1528.387,Aalborg Airport,Aalborg
+GCLA,Spain,126.86618181818183,1522.394181818182,La Palma Airport,"Sta Cruz de la Palma, La Palma Island"
+LRTR,Romania,126.64609090909092,1519.753090909091,Timișoara Traian Vuia International Airport,Timişoara
+LERS,Spain,110.65736363636363,1327.8883636363635,Reus Airport,Reus
+LECO,Spain,109.14863636363637,1309.7836363636366,A Coruña Airport,Culleredo
+LFST,France,106.7337,1280.8044,Strasbourg Airport,Strasbourg
+LIBP,Italy,104.27425,1251.291,Abruzzo Airport,Pescara
+EDDG,Germany,104.22733333333333,1250.728,Münster Osnabrück Airport,Greven
+EPRZ,Poland,101.89258333333333,1222.711,Rzeszów-Jasionka Airport,Jasionka
+EFRO,Finland,100.90816666666667,1210.8980000000001,Rovaniemi Airport,Rovaniemi
+LEGR,Spain,97.14627272727272,1165.7552727272725,F.G.L. Airport Granada-Jaén Airport,Granada
+ESPA,Sweden,94.7613,1137.1356,Luleå Airport,Luleå
+LEVX,Spain,92.77054545454546,1113.2465454545454,Vigo Airport,Vigo
+LICT,Italy,90.42516666666667,1085.102,Vincenzo Florio Airport Trapani-Birgi,Trapani (TP)
+LEXJ,Spain,87.37827272727272,1048.5392727272726,Seve Ballesteros-Santander Airport,Santander
+ENAL,Norway,84.61708333333333,1015.405,Ålesund Airport,Ålesund
+LPLA,Portugal,84.48689999999999,1013.8427999999999,Lajes Airport,Praia da Vitória
+LFKF,France,82.1693,986.0316,Figari Sud-Corse Airport,Figari
+LICR,Italy,81.381,976.572,Reggio Calabria Airport,Reggio Calabria
+LEMI,Spain,80.86763636363636,970.4116363636364,Region of Murcia International Airport,Corvera
+LFBZ,France,79.5745,954.894,Biarritz Pays Basque airport,Biarritz
+LGKF,Greece,79.57227272727272,954.8672727272726,Kefallinia Airport,Kefallinia Island
+LGPZ,Greece,78.40209090909092,940.8250909090909,Aktion National Airport,Preveza
+ENEV,Norway,78.087,937.0440000000001,Harstad/Narvik Airport,Evenes
+LOWI,Austria,76.80733333333333,921.688,Innsbruck Airport,Innsbruck
+LZKZ,Slovakia,75.4405,905.2860000000001,Košice International Airport,Košice
+LFRB,France,74.8639,898.3668,Brest Bretagne airport,Brest
+LEJR,Spain,74.42418181818182,893.0901818181819,Jerez Airport,Jerez de la Frontera
+ESMS,Sweden,72.7349,872.8188,Malmö Sturup Airport,Malmö
+LRSV,Romania,70.758,849.096,Suceava Ștefan cel Mare International Airport,Suceava
+LOWG,Austria,70.52525,846.303,Graz Airport,Feldkirchen bei Graz
+EDDC,Germany,69.82491666666667,837.899,Dresden Airport,Dresden
+ENCN,Norway,69.60616666666667,835.274,Kristiansand Airport,Kristiansand(Kjevik)
+LEAM,Spain,67.148,805.776,Almería Airport,Almería
+LRSB,Romania,62.23009090909091,746.761090909091,Sibiu International Airport,Sibiu
+ESNU,Sweden,61.7256,740.7072000000001,Umeå Airport,Umeå
+LKTB,Czechia,59.83533333333334,718.0240000000001,Brno-Tuřany Airport,Brno
+LEZG,Spain,58.35645454545455,700.2774545454546,Zaragoza Airport,Zaragoza
+LGSK,Greece,57.713545454545454,692.5625454545454,Skiathos Island National Airport,Skiathos
+EDLP,Germany,56.434583333333336,677.215,Paderborn Lippstadt Airport,Büren
+LRCV,Romania,56.30318181818182,675.6381818181818,Craiova International Airport,Craiova
+LIRZ,Italy,52.9245,635.094,Perugia San Francesco d'Assisi – Umbria International Airport,Perugia (PG)
+LGMT,Greece,50.32336363636364,603.8803636363637,Mytilene International Airport,Mytilene
+LIPY,Italy,50.26275,603.153,Marche Airport,Falconara Marittima (AN)
+LFBT,France,48.7768,585.3216,Tarbes-Lourdes-Pyrénées Airport,Tarbes/Lourdes/Pyrénées
+SOCA,France,48.595699999999994,583.1483999999999,Cayenne – Félix Eboué Airport,Matoury
+ENHD,Norway,46.81125,561.735,"Haugesund Airport, Karmøy",Karmøy
+EFOU,Finland,46.409416666666665,556.913,Oulu Airport,Oulu / Oulunsalo
+EKAH,Denmark,45.17675,542.121,Aarhus Airport,Aarhus
+LDPL,Croatia,44.95283333333334,539.4340000000001,Pula Airport,Pula
+GEML,Spain,44.51745454545454,534.2094545454545,Melilla Airport,Melilla
+LGSM,Greece,43.45709090909091,521.4850909090909,Samos Airport,Samos Island
+LFRN,France,41.270300000000006,495.2436000000001,Rennes-Saint-Jacques Airport,"Saint-Jacques-de-la-Lande, Ille-et-Vilaine"
+EPLL,Poland,41.233333333333334,494.8,Łódź Władysław Reymont Airport,Łódź
+LKMT,Czechia,40.367916666666666,484.41499999999996,Leoš Janáček Airport Ostrava,Mošnov
+EPLB,Poland,40.21091666666666,482.53099999999995,Lublin Airport,Lublin
+LFMP,France,39.8311,477.9732,Perpignan-Rivesaltes (Llabanère) Airport,Perpignan/Rivesaltes
+FMCZ,France,39.3366,472.03919999999994,Dzaoudzi Pamandzi International Airport,Dzaoudzi
+LESO,Spain,39.13781818181818,469.6538181818182,San Sebastián Airport,Hondarribia
+EPBY,Poland,38.50941666666667,462.113,Ignacy Jan Paderewski Bydgoszcz Airport,Bydgoszcz
+EYPA,Lithuania,37.68933333333334,452.27200000000005,Palanga International Airport,Palanga
+LRBC,Romania,37.60836363636364,451.3003636363637,Bacău George Enescu International  Airport,Bacău
+EPSC,Poland,37.60816666666666,451.29799999999994,Solidarity Szczecin–Goleniów Airport,Szczecin(Glewice)
+LRBV,Romania,37.174,446.08799999999997,Brașov-Ghimbav International Airport,Brașov (Ghimbav)
+EFKT,Finland,37.13925,445.67099999999994,Kittilä International Airport,Kittilä
+LFKC,France,35.722,428.664,Calvi Sainte Catherine Airport,Calvi
+LIPR,Italy,34.70816666666666,416.49799999999993,Federico Fellini International Airport,Rimini (RN)
+EBOS,Belgium,34.073800000000006,408.88560000000007,Ostend-Bruges International Airport,Oostende
+LGKL,Greece,31.68481818181818,380.2178181818182,Kalamata Airport,Kalamata
+ENAT,Norway,31.50708333333333,378.085,Alta Airport,Alta
+LIBC,Italy,30.146,361.752,Crotone Sant'Anna Pythagoras Airport,Isola di Capo Rizzuto (KR)
+LICD,Italy,30.059083333333334,360.709,Lampedusa Airport,Lampedusa
+LGPA,Greece,29.664363636363635,355.97236363636364,Paros National Airport,Paros
+ESKN,Sweden,28.881400000000003,346.57680000000005,Stockholm Skavsta Airport,Nyköping
+LGKV,Greece,28.835454545454546,346.0254545454545,Kavala Alexander the Great International Airport,Kavala
+ENML,Norway,27.909666666666666,334.916,"Molde Airport, Årø",Årø
+LGAL,Greece,27.882,334.584,Alexandroupoli Democritus Airport,Alexandroupolis
+ENKR,Norway,27.419083333333333,329.029,"Kirkenes Airport, Høybuktmoen",Kirkenes
+LGHI,Greece,27.049181818181818,324.5901818181818,Chios Island National Airport,Chios Island
+EFTU,Finland,26.74625,320.955,Turku Airport,Turku
+BIRK,Iceland,26.51233333333333,318.14799999999997,Reykjavík Domestic Airport,Reykjavík
+EDDR,Germany,26.3015,315.618,Saarbrücken Airport,Saarbrücken
+LFBH,France,26.238,314.856,La Rochelle Île de Ré Airport,La Rochelle
+GCHI,Spain,26.003636363636364,312.0436363636364,El Hierro Airport,El Hierro Island
+LPHR,Portugal,25.943099999999998,311.31719999999996,Horta Airport,Horta
+EDDE,Germany,25.863083333333332,310.35699999999997,Erfurt-Weimar Airport,Erfurt
+LFMK,France,25.843799999999998,310.12559999999996,Carcassonne Salvaza Airport,Carcassonne
+LEVT,Spain,25.824636363636365,309.8956363636364,Vitoria Airport,Alava
+ESNS,Sweden,25.2365,302.83799999999997,Skellefteå Airport,Skellefteå
+LFRK,France,25.0042,300.0504,Caen Carpiquet airport,Caen
+ENKB,Norway,24.30475,291.657,"Kristiansund Airport, Kvernberget",Kvernberget
+LFMU,France,23.928900000000002,287.14680000000004,Béziers Vias airport,Béziers
+ESSV,Sweden,23.452,281.42400000000004,Visby Airport,Visby
+LFBL,France,22.925,275.1,Limoges Airport,Limoges/Bellegarde
+LGKP,Greece,22.90481818181818,274.8578181818182,Karpathos Airport,Karpathos Island
+LROD,Romania,22.018636363636364,264.2236363636364,Oradea International Airport,Oradea
+LPPS,Portugal,21.4622,257.5464,Porto Santo Airport,Vila Baleira
+LOWL,Austria,21.341416666666667,256.097,Linz-Hörsching Airport,Linz
+EFIV,Finland,21.32475,255.89700000000002,Ivalo Airport,Ivalo
+EDNY,Germany,21.023,252.276,Bodensee Airport Friedrichshafen,Friedrichshafen
+LFBE,France,20.920099999999998,251.04119999999998,Bergerac Dordogne-Périgord airport,Bergerac
+LPPI,Portugal,20.732400000000002,248.78880000000004,Pico Airport,Pico Island
+ESNQ,Sweden,20.6831,248.1972,Kiruna Airport,Kiruna
+ESNZ,Sweden,20.5532,246.6384,Åre Östersund Airport,Östersund
+LFTH,France,19.7454,236.9448,Toulon-Hyères Airport,"Hyères, Var"
+LFTW,France,19.6715,236.05800000000002,Nîmes-Arles-Camargue Airport,Nîmes/Garons
+LEPP,Spain,19.623545454545457,235.4825454545455,Pamplona Airport,Pamplona
+LFBP,France,19.480900000000002,233.7708,Pau Pyrénées Airport,Pau/Pyrénées (Uzein)
+LGNX,Greece,19.396363636363635,232.75636363636363,Naxos Island National Airport,Naxos
+LFLC,France,19.3762,232.51440000000002,Clermont-Ferrand Auvergne airport,Clermont-Ferrand
+EBAW,Belgium,18.9068,226.8816,Antwerp International Airport (Deurne),Antwerp
+LBPD,Bulgaria,18.67075,224.04900000000004,Plovdiv International Airport,Plovdiv
+BIAR,Iceland,18.01233333333333,216.14799999999997,Akureyri International Airport,Akureyri
+LKPD,Czechia,17.82325,213.87900000000002,Pardubice Airport,Pardubice
+LICG,Italy,17.658916666666666,211.90699999999998,Pantelleria Airport,Pantelleria (TP)
+TFFG,France,17.495900000000002,209.95080000000002,Grand Case-l'Espérance Airport,Grand Case
+ENDU,Norway,17.401083333333332,208.813,Bardufoss Airport,Målselv
+LFLS,France,17.2121,206.5452,Grenoble Alpes Isère Airport,Grenoble
+ENSB,Norway,16.43125,197.17499999999998,"Svalbard Airport, Longyear",Longyearbyen
+LHDC,Hungary,16.297583333333336,195.57100000000003,Debrecen International Airport,Debrecen
+LICB,Italy,15.750416666666666,189.005,Comiso Airport,Comiso
+LGRX,Greece,15.46509090909091,185.5810909090909,Patras Araxos Agamemnon Airport,Patras
+LFOT,France,15.2419,182.90279999999998,Tours Val de Loire Airport,"Tours, Indre-et-Loire"
+LGLM,Greece,14.797545454545453,177.57054545454542,Limnos Airport,Limnos Island
+LOWK,Austria,14.365833333333335,172.39000000000001,Klagenfurt Airport,Klagenfurt am Wörthersee
+EFVA,Finland,14.26925,171.231,Vaasa Airport,Vaasa
+ESTA,Sweden,14.1783,170.1396,Ängelholm-Helsingborg Airport,Ängelholm
+ENLK,Norway,13.9195,167.034,Leknes Airport,Leknes
+ENOV,Norway,13.290666666666667,159.488,"Ørsta-Volda Airport, Hovden",Ørsta
+LFLB,France,13.086200000000002,157.0344,Chambéry Aix les Bains airport,Chambéry
+EHBK,Netherlands,12.867583333333334,154.411,Maastricht Aachen Airport,Maastricht
+LGIO,Greece,12.833545454545455,154.00254545454544,Ioannina King Pyrrhus National Airport,Ioannina
+LDRI,Croatia,12.816833333333333,153.802,Rijeka Airport,Rijeka(Omišalj)
+EKRN,Denmark,12.517833333333334,150.214,Bornholm Airport,Rønne
+LRTM,Romania,12.03,144.35999999999999,Târgu Mureş Transilvania International Airport,Recea
+EFKU,Finland,11.801416666666666,141.617,Kuopio Airport,Kuopio / Siilinjärvi
+LIRI,Italy,11.73775,140.853,Salerno Costa d'Amalfi Airport,Salerno
+EFTP,Finland,11.722666666666665,140.67199999999997,Tampere-Pirkkala Airport,Tampere / Pirkkala
+ENHF,Norway,11.410083333333334,136.92100000000002,Hammerfest Airport,Hammerfest
+EFKS,Finland,11.394083333333334,136.729,Kuusamo Airport,Kuusamo
+LPAZ,Portugal,10.958,131.496,Santa Maria Airport,Vila do Porto
+ESMX,Sweden,10.8522,130.2264,Växjö Kronoberg Airport,Växjö
+ENSK,Norway,10.625083333333334,127.501,"Stokmarknes Airport, Skagen",Hadsel
+LPFL,Portugal,10.1401,121.6812,Flores Airport,Santa Cruz das Flores
+LGML,Greece,10.072818181818182,120.87381818181818,Milos Airport,Milos Island
+LPSJ,Portugal,9.709700000000002,116.51640000000002,São Jorge Airport,Velas
+ENRA,Norway,9.6065,115.278,"Mo i Rana Airport, Røssvoll",Mo i Rana
+ENBN,Norway,9.135666666666665,109.62799999999999,"Brønnøysund Airport, Brønnøy",Brønnøy
+EBLG,Belgium,9.112,109.344,Liège Airport,Grâce-Hollogne
+LIMP,Italy,8.86575,106.38900000000001,Parma Airport,Parma (PR)
+EHGG,Netherlands,8.63475,103.617,Groningen Airport Eelde,Groningen
+ENFL,Norway,8.564583333333333,102.775,Florø Airport,Florø
+EPSY,Poland,8.383416666666665,100.60099999999998,Olsztyn-Mazury Airport,Szymany
+ESDF,Sweden,8.2842,99.41040000000001,Ronneby Airport,Ronneby
+BIEG,Iceland,7.668416666666667,92.02100000000002,Egilsstaðir Airport,Egilsstaðir
+ESMQ,Sweden,7.5332,90.3984,Kalmar Airport,Kalmar
+ENST,Norway,7.413666666666667,88.964,"Sandnessjøen Airport, Stokka",Alstahaug
+LEVD,Spain,7.044636363636364,84.53563636363637,Valladolid Airport,Valladolid
+LPGR,Portugal,6.4338,77.2056,Graciosa Airport,Santa Cruz da Graciosa
+ENVD,Norway,6.253166666666667,75.03800000000001,Vadsø Airport,Vadsø
+ENMS,Norway,6.08975,73.077,"Mosjøen Airport, Kjærstad",Mosjøen
+LSZR,Switzerland,5.709416666666667,68.513,Sankt Gallen Altenrhein Airport,St. Gallen
+LFOK,France,5.5009,66.01079999999999,Chalons Vatry airport,Chalons en Champagne
+ENSG,Norway,5.472333333333333,65.668,"Sogndal Airport, Haukåsen",Sogndal
+LKCS,Czechia,5.427666666666667,65.132,České Budějovice South Bohemian Airport,České Budějovice
+EKSB,Denmark,5.423083333333333,65.077,Sønderborg Airport,Sønderborg
+ESNN,Sweden,5.1368,61.6416,Sundsvall-Härnösand Airport,Sundsvall/ Härnösand
+LGIK,Greece,5.060181818181818,60.722181818181824,Ikaria Airport,Ikaria Island
+LSZB,Switzerland,4.423416666666667,53.081,Bern Airport,Bern
+ESOE,Sweden,4.265899999999999,51.190799999999996,Örebro Airport,Örebro
+LGST,Greece,3.952181818181818,47.42618181818182,Sitia Airport,Crete Island
+EKEB,Denmark,3.9044166666666666,46.853,Esbjerg Airport,Esbjerg
+EFKI,Finland,3.66425,43.971000000000004,Kajaani Airport,Kajaani
+EFJO,Finland,3.5415833333333335,42.499,Joensuu Airport,Joensuu
+EFMA,Finland,3.469,41.628,Mariehamn Airport,Mariehamn
+EFKE,Finland,3.4501666666666666,41.402,Kemi-Tornio Airport,Kemi / Tornio
+LGBL,Greece,3.2696363636363635,39.23563636363636,Nea Anchialos National Airport,Nea Anchialos
+ESSB,Sweden,3.0201,36.2412,Stockholm-Bromma Airport,Stockholm
+EFKK,Finland,2.8363333333333336,34.036,Kokkola-Pietarsaari Airport,Kokkola / Kruunupyy
+LGKC,Greece,2.6576363636363634,31.89163636363636,Kithira Airport,Kithira Island
+EFJY,Finland,2.5108333333333337,30.130000000000003,Jyväskylä Airport,Jyväskylän Maalaiskunta
+BIIS,Iceland,2.3481666666666667,28.178,Ísafjörður Airport,Ísafjörður
+LGPL,Greece,2.1917272727272725,26.300727272727272,Astypalaia Airport,Astypalaia Island
+LGLE,Greece,1.8858181818181818,22.62981818181818,Leros Airport,Leros Island
+LSGS,Switzerland,1.8813333333333333,22.576,Sion Airport,Sion
+LGSO,Greece,1.755,21.06,Syros Airport,Syros Island
+LGSY,Greece,1.5832727272727272,18.999272727272725,Skiros Airport,Skiros Island
+LKKV,Czechia,1.5103333333333333,18.124,Karlovy Vary Airport,Karlovy Vary
+LPCS,Portugal,1.4483,17.3796,Cascais Airport,Cascais
+LGKY,Greece,1.0457272727272728,12.548727272727273,Kalymnos Airport,Kalymnos Island
+EFPO,Finland,1.039,12.468,Pori Airport,Pori
+LPCR,Portugal,0.9999,11.9988,Corvo Airport,Corvo
+EKRK,Denmark,0.7573333333333334,9.088000000000001,Copenhagen Roskilde Airport,Roskilde
+LFRZ,France,0.6936,8.3232,Saint-Nazaire-Montoir Airport,Saint-Nazaire/Montoir
+LGKJ,Greece,0.5986363636363636,7.183636363636364,Kastelorizo Airport,Kastelorizo Island
+LPPM,Portugal,0.5741,6.889200000000001,Portimão Airport,Portimão
+EFSA,Finland,0.5364166666666667,6.436999999999999,Savonlinna Airport,Savonlinna
+LIPO,Italy,0.3853333333333333,4.624,Brescia Gabriele d'Annunzio Airport,Montichiari (BS)
+LPBG,Portugal,0.30419999999999997,3.6503999999999994,Bragança Airport,Bragança
+LPBJ,Portugal,0.304,3.6479999999999997,Beja Airport / Airbase,Beja
+EKKA,Denmark,0.3006666666666667,3.6080000000000005,Midtjyllands Airport / Air Base Karup,Karup
+LGKZ,Greece,0.281,3.3720000000000003,Kozani National Airport Filippos,Kozani
+LGKS,Greece,0.2762727272727272,3.3152727272727267,Kasos Airport,Kasos Island
+LSZA,Switzerland,0.2583333333333333,3.0999999999999996,Lugano Airport,Agno
+LGKA,Greece,0.205,2.46,Kastoria National Airport Aristotle,Argos Orestiko
+LPVR,Portugal,0.2048,2.4576000000000002,Vila Real Airport,Vila Real
+LPVZ,Portugal,0.153,1.8359999999999999,Aerodromo Goncalves Lobato (Viseu Airport),Viseu
+EYSA,Lithuania,0.006166666666666667,0.074,Šiauliai International Airport,Šiauliai
+LGMG,Greece,0.0,0.0,Megara Air Base,Megara
+LRSM,Romania,0.0,0.0,Satu Mare International Airport,Satu Mare

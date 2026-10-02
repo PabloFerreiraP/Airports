@@ -1,0 +1,3968 @@
+icao_code,airport_city,country,month_num,month_mon,departures,arrivals,total_flights
+BIKF,Keflavik,Iceland,1,JAN,1892,1887,3779
+BIKF,Keflavik,Iceland,2,FEB,1918,1927,3845
+BIKF,Keflavik,Iceland,3,MAR,2258,2265,4523
+BIKF,Keflavik,Iceland,4,APR,2567,2574,5141
+BIKF,Keflavik,Iceland,5,MAY,2928,2927,5855
+BIKF,Keflavik,Iceland,6,JUN,3339,3356,6695
+BIKF,Keflavik,Iceland,7,JUL,3685,3680,7365
+BIKF,Keflavik,Iceland,8,AUG,3814,3823,7637
+BIKF,Keflavik,Iceland,9,SEP,3032,3028,6060
+BIKF,Keflavik,Iceland,10,OCT,2451,2435,4886
+BIKF,Keflavik,Iceland,11,NOV,2052,2053,4105
+BIKF,Keflavik,Iceland,12,DEC,2000,2007,4007
+EBAW,Antwerp,Belgium,1,JAN,393,394,787
+EBAW,Antwerp,Belgium,2,FEB,373,384,757
+EBAW,Antwerp,Belgium,3,MAR,453,463,916
+EBAW,Antwerp,Belgium,4,APR,437,434,871
+EBAW,Antwerp,Belgium,5,MAY,420,418,838
+EBAW,Antwerp,Belgium,6,JUN,488,494,982
+EBAW,Antwerp,Belgium,7,JUL,592,583,1175
+EBAW,Antwerp,Belgium,8,AUG,478,490,968
+EBAW,Antwerp,Belgium,9,SEP,568,561,1129
+EBAW,Antwerp,Belgium,10,OCT,464,456,920
+EBAW,Antwerp,Belgium,11,NOV,337,347,684
+EBAW,Antwerp,Belgium,12,DEC,366,362,728
+EBBR,Brussels,Belgium,1,JAN,7060,7057,14117
+EBBR,Brussels,Belgium,2,FEB,6677,6673,13350
+EBBR,Brussels,Belgium,3,MAR,7763,7782,15545
+EBBR,Brussels,Belgium,4,APR,8324,8329,16653
+EBBR,Brussels,Belgium,5,MAY,9037,9017,18054
+EBBR,Brussels,Belgium,6,JUN,8896,8903,17799
+EBBR,Brussels,Belgium,7,JUL,9655,9657,19312
+EBBR,Brussels,Belgium,8,AUG,9370,9369,18739
+EBBR,Brussels,Belgium,9,SEP,8963,8965,17928
+EBBR,Brussels,Belgium,10,OCT,8834,8831,17665
+EBBR,Brussels,Belgium,11,NOV,7439,7453,14892
+EBBR,Brussels,Belgium,12,DEC,7718,7720,15438
+EBCI,Brussels - Charleroi,Belgium,1,JAN,2493,2482,4975
+EBCI,Brussels - Charleroi,Belgium,2,FEB,2311,2309,4620
+EBCI,Brussels - Charleroi,Belgium,3,MAR,2747,2731,5478
+EBCI,Brussels - Charleroi,Belgium,4,APR,3126,3114,6240
+EBCI,Brussels - Charleroi,Belgium,5,MAY,3318,3313,6631
+EBCI,Brussels - Charleroi,Belgium,6,JUN,3071,3066,6137
+EBCI,Brussels - Charleroi,Belgium,7,JUL,3341,3332,6673
+EBCI,Brussels - Charleroi,Belgium,8,AUG,3376,3364,6740
+EBCI,Brussels - Charleroi,Belgium,9,SEP,3202,3204,6406
+EBCI,Brussels - Charleroi,Belgium,10,OCT,3281,3278,6559
+EBCI,Brussels - Charleroi,Belgium,11,NOV,2733,2717,5450
+EBCI,Brussels - Charleroi,Belgium,12,DEC,2888,2895,5783
+EBLG,Liège,Belgium,1,JAN,1260,1256,2516
+EBLG,Liège,Belgium,2,FEB,1239,1240,2479
+EBLG,Liège,Belgium,3,MAR,1385,1380,2765
+EBLG,Liège,Belgium,4,APR,1366,1393,2759
+EBLG,Liège,Belgium,5,MAY,1458,1448,2906
+EBLG,Liège,Belgium,6,JUN,1416,1421,2837
+EBLG,Liège,Belgium,7,JUL,1545,1539,3084
+EBLG,Liège,Belgium,8,AUG,1366,1370,2736
+EBLG,Liège,Belgium,9,SEP,1487,1491,2978
+EBLG,Liège,Belgium,10,OCT,1474,1456,2930
+EBLG,Liège,Belgium,11,NOV,1441,1442,2883
+EBLG,Liège,Belgium,12,DEC,1403,1407,2810
+EBOS,Ostend-Bruges,Belgium,1,JAN,331,323,654
+EBOS,Ostend-Bruges,Belgium,2,FEB,220,227,447
+EBOS,Ostend-Bruges,Belgium,3,MAR,212,216,428
+EBOS,Ostend-Bruges,Belgium,4,APR,283,283,566
+EBOS,Ostend-Bruges,Belgium,5,MAY,262,272,534
+EBOS,Ostend-Bruges,Belgium,6,JUN,278,289,567
+EBOS,Ostend-Bruges,Belgium,7,JUL,325,319,644
+EBOS,Ostend-Bruges,Belgium,8,AUG,327,331,658
+EBOS,Ostend-Bruges,Belgium,9,SEP,352,362,714
+EBOS,Ostend-Bruges,Belgium,10,OCT,300,301,601
+EBOS,Ostend-Bruges,Belgium,11,NOV,269,270,539
+EBOS,Ostend-Bruges,Belgium,12,DEC,324,332,656
+EDDB,Berlin - Brandenburg,Germany,1,JAN,6152,6171,12323
+EDDB,Berlin - Brandenburg,Germany,2,FEB,6674,6653,13327
+EDDB,Berlin - Brandenburg,Germany,3,MAR,7583,7587,15170
+EDDB,Berlin - Brandenburg,Germany,4,APR,8116,8114,16230
+EDDB,Berlin - Brandenburg,Germany,5,MAY,8752,8744,17496
+EDDB,Berlin - Brandenburg,Germany,6,JUN,8560,8577,17137
+EDDB,Berlin - Brandenburg,Germany,7,JUL,8582,8571,17153
+EDDB,Berlin - Brandenburg,Germany,8,AUG,8391,8406,16797
+EDDB,Berlin - Brandenburg,Germany,9,SEP,8968,8961,17929
+EDDB,Berlin - Brandenburg,Germany,10,OCT,9280,9290,18570
+EDDB,Berlin - Brandenburg,Germany,11,NOV,7585,7603,15188
+EDDB,Berlin - Brandenburg,Germany,12,DEC,7434,7417,14851
+EDDC,Dresden,Germany,1,JAN,281,286,567
+EDDC,Dresden,Germany,2,FEB,381,385,766
+EDDC,Dresden,Germany,3,MAR,444,459,903
+EDDC,Dresden,Germany,4,APR,551,564,1115
+EDDC,Dresden,Germany,5,MAY,579,593,1172
+EDDC,Dresden,Germany,6,JUN,557,559,1116
+EDDC,Dresden,Germany,7,JUL,599,602,1201
+EDDC,Dresden,Germany,8,AUG,552,554,1106
+EDDC,Dresden,Germany,9,SEP,594,612,1206
+EDDC,Dresden,Germany,10,OCT,619,638,1257
+EDDC,Dresden,Germany,11,NOV,466,473,939
+EDDC,Dresden,Germany,12,DEC,368,380,748
+EDDE,Erfurt,Germany,1,JAN,68,72,140
+EDDE,Erfurt,Germany,2,FEB,81,91,172
+EDDE,Erfurt,Germany,3,MAR,101,107,208
+EDDE,Erfurt,Germany,4,APR,197,204,401
+EDDE,Erfurt,Germany,5,MAY,174,189,363
+EDDE,Erfurt,Germany,6,JUN,224,231,455
+EDDE,Erfurt,Germany,7,JUL,203,208,411
+EDDE,Erfurt,Germany,8,AUG,213,232,445
+EDDE,Erfurt,Germany,9,SEP,222,234,456
+EDDE,Erfurt,Germany,10,OCT,281,288,569
+EDDE,Erfurt,Germany,11,NOV,139,143,282
+EDDE,Erfurt,Germany,12,DEC,77,76,153
+EDDF,Frankfurt,Germany,1,JAN,15670,15622,31292
+EDDF,Frankfurt,Germany,2,FEB,15096,15081,30177
+EDDF,Frankfurt,Germany,3,MAR,17630,17642,35272
+EDDF,Frankfurt,Germany,4,APR,19584,19593,39177
+EDDF,Frankfurt,Germany,5,MAY,21131,21136,42267
+EDDF,Frankfurt,Germany,6,JUN,20710,20726,41436
+EDDF,Frankfurt,Germany,7,JUL,21334,21325,42659
+EDDF,Frankfurt,Germany,8,AUG,21463,21483,42946
+EDDF,Frankfurt,Germany,9,SEP,21003,20994,41997
+EDDF,Frankfurt,Germany,10,OCT,21238,21240,42478
+EDDF,Frankfurt,Germany,11,NOV,18125,18120,36245
+EDDF,Frankfurt,Germany,12,DEC,17325,17386,34711
+EDDG,Muenster-Osnabrueck,Germany,1,JAN,469,493,962
+EDDG,Muenster-Osnabrueck,Germany,2,FEB,509,537,1046
+EDDG,Muenster-Osnabrueck,Germany,3,MAR,651,692,1343
+EDDG,Muenster-Osnabrueck,Germany,4,APR,821,856,1677
+EDDG,Muenster-Osnabrueck,Germany,5,MAY,892,938,1830
+EDDG,Muenster-Osnabrueck,Germany,6,JUN,860,920,1780
+EDDG,Muenster-Osnabrueck,Germany,7,JUL,925,979,1904
+EDDG,Muenster-Osnabrueck,Germany,8,AUG,885,923,1808
+EDDG,Muenster-Osnabrueck,Germany,9,SEP,914,934,1848
+EDDG,Muenster-Osnabrueck,Germany,10,OCT,908,951,1859
+EDDG,Muenster-Osnabrueck,Germany,11,NOV,583,600,1183
+EDDG,Muenster-Osnabrueck,Germany,12,DEC,472,482,954
+EDDH,Hamburg,Germany,1,JAN,3804,3817,7621
+EDDH,Hamburg,Germany,2,FEB,3940,3947,7887
+EDDH,Hamburg,Germany,3,MAR,4545,4560,9105
+EDDH,Hamburg,Germany,4,APR,5056,5057,10113
+EDDH,Hamburg,Germany,5,MAY,5667,5673,11340
+EDDH,Hamburg,Germany,6,JUN,5584,5586,11170
+EDDH,Hamburg,Germany,7,JUL,5720,5727,11447
+EDDH,Hamburg,Germany,8,AUG,5588,5595,11183
+EDDH,Hamburg,Germany,9,SEP,5731,5732,11463
+EDDH,Hamburg,Germany,10,OCT,5996,6013,12009
+EDDH,Hamburg,Germany,11,NOV,4625,4628,9253
+EDDH,Hamburg,Germany,12,DEC,4381,4373,8754
+EDDK,Cologne-Bonn,Germany,1,JAN,3622,3628,7250
+EDDK,Cologne-Bonn,Germany,2,FEB,3595,3642,7237
+EDDK,Cologne-Bonn,Germany,3,MAR,4089,4165,8254
+EDDK,Cologne-Bonn,Germany,4,APR,4888,4932,9820
+EDDK,Cologne-Bonn,Germany,5,MAY,5310,5337,10647
+EDDK,Cologne-Bonn,Germany,6,JUN,5348,5423,10771
+EDDK,Cologne-Bonn,Germany,7,JUL,5852,5892,11744
+EDDK,Cologne-Bonn,Germany,8,AUG,5696,5760,11456
+EDDK,Cologne-Bonn,Germany,9,SEP,5473,5535,11008
+EDDK,Cologne-Bonn,Germany,10,OCT,5843,5854,11697
+EDDK,Cologne-Bonn,Germany,11,NOV,4056,4085,8141
+EDDK,Cologne-Bonn,Germany,12,DEC,4031,4051,8082
+EDDL,Dusseldorf,Germany,1,JAN,4948,4947,9895
+EDDL,Dusseldorf,Germany,2,FEB,4577,4574,9151
+EDDL,Dusseldorf,Germany,3,MAR,5595,5596,11191
+EDDL,Dusseldorf,Germany,4,APR,6789,6798,13587
+EDDL,Dusseldorf,Germany,5,MAY,7678,7660,15338
+EDDL,Dusseldorf,Germany,6,JUN,7571,7581,15152
+EDDL,Dusseldorf,Germany,7,JUL,8064,8072,16136
+EDDL,Dusseldorf,Germany,8,AUG,7929,7928,15857
+EDDL,Dusseldorf,Germany,9,SEP,7856,7868,15724
+EDDL,Dusseldorf,Germany,10,OCT,8081,8076,16157
+EDDL,Dusseldorf,Germany,11,NOV,5579,5579,11158
+EDDL,Dusseldorf,Germany,12,DEC,5315,5312,10627
+EDDM,Munich,Germany,1,JAN,10962,10937,21899
+EDDM,Munich,Germany,2,FEB,10381,10399,20780
+EDDM,Munich,Germany,3,MAR,12521,12496,25017
+EDDM,Munich,Germany,4,APR,14331,14333,28664
+EDDM,Munich,Germany,5,MAY,15816,15834,31650
+EDDM,Munich,Germany,6,JUN,15674,15651,31325
+EDDM,Munich,Germany,7,JUL,15822,15828,31650
+EDDM,Munich,Germany,8,AUG,15573,15573,31146
+EDDM,Munich,Germany,9,SEP,15940,15953,31893
+EDDM,Munich,Germany,10,OCT,15476,15456,30932
+EDDM,Munich,Germany,11,NOV,12573,12575,25148
+EDDM,Munich,Germany,12,DEC,12042,12067,24109
+EDDN,Nuremberg,Germany,1,JAN,1326,1350,2676
+EDDN,Nuremberg,Germany,2,FEB,1205,1217,2422
+EDDN,Nuremberg,Germany,3,MAR,1448,1482,2930
+EDDN,Nuremberg,Germany,4,APR,1736,1779,3515
+EDDN,Nuremberg,Germany,5,MAY,1885,1908,3793
+EDDN,Nuremberg,Germany,6,JUN,2108,2143,4251
+EDDN,Nuremberg,Germany,7,JUL,2094,2093,4187
+EDDN,Nuremberg,Germany,8,AUG,2099,2146,4245
+EDDN,Nuremberg,Germany,9,SEP,2116,2135,4251
+EDDN,Nuremberg,Germany,10,OCT,2163,2184,4347
+EDDN,Nuremberg,Germany,11,NOV,1593,1608,3201
+EDDN,Nuremberg,Germany,12,DEC,1436,1430,2866
+EDDP,Leipzig-Halle,Germany,1,JAN,2505,2507,5012
+EDDP,Leipzig-Halle,Germany,2,FEB,2447,2437,4884
+EDDP,Leipzig-Halle,Germany,3,MAR,2700,2712,5412
+EDDP,Leipzig-Halle,Germany,4,APR,2925,2923,5848
+EDDP,Leipzig-Halle,Germany,5,MAY,3090,3092,6182
+EDDP,Leipzig-Halle,Germany,6,JUN,2975,2989,5964
+EDDP,Leipzig-Halle,Germany,7,JUL,3267,3283,6550
+EDDP,Leipzig-Halle,Germany,8,AUG,3089,3068,6157
+EDDP,Leipzig-Halle,Germany,9,SEP,3105,3148,6253
+EDDP,Leipzig-Halle,Germany,10,OCT,3490,3500,6990
+EDDP,Leipzig-Halle,Germany,11,NOV,2812,2777,5589
+EDDP,Leipzig-Halle,Germany,12,DEC,2670,2698,5368
+EDDR,Saarbruecken,Germany,1,JAN,114,117,231
+EDDR,Saarbruecken,Germany,2,FEB,147,148,295
+EDDR,Saarbruecken,Germany,3,MAR,190,206,396
+EDDR,Saarbruecken,Germany,4,APR,230,233,463
+EDDR,Saarbruecken,Germany,5,MAY,274,273,547
+EDDR,Saarbruecken,Germany,6,JUN,317,325,642
+EDDR,Saarbruecken,Germany,7,JUL,304,310,614
+EDDR,Saarbruecken,Germany,8,AUG,287,298,585
+EDDR,Saarbruecken,Germany,9,SEP,295,298,593
+EDDR,Saarbruecken,Germany,10,OCT,301,313,614
+EDDR,Saarbruecken,Germany,11,NOV,167,173,340
+EDDR,Saarbruecken,Germany,12,DEC,135,138,273
+EDDS,Stuttgart,Germany,1,JAN,2660,2671,5331
+EDDS,Stuttgart,Germany,2,FEB,2620,2632,5252
+EDDS,Stuttgart,Germany,3,MAR,3084,3100,6184
+EDDS,Stuttgart,Germany,4,APR,3660,3654,7314
+EDDS,Stuttgart,Germany,5,MAY,4246,4269,8515
+EDDS,Stuttgart,Germany,6,JUN,4399,4382,8781
+EDDS,Stuttgart,Germany,7,JUL,4389,4384,8773
+EDDS,Stuttgart,Germany,8,AUG,4371,4373,8744
+EDDS,Stuttgart,Germany,9,SEP,4442,4447,8889
+EDDS,Stuttgart,Germany,10,OCT,4303,4296,8599
+EDDS,Stuttgart,Germany,11,NOV,3167,3196,6363
+EDDS,Stuttgart,Germany,12,DEC,3030,3020,6050
+EDDV,Hanover,Germany,1,JAN,1504,1505,3009
+EDDV,Hanover,Germany,2,FEB,1458,1462,2920
+EDDV,Hanover,Germany,3,MAR,1788,1809,3597
+EDDV,Hanover,Germany,4,APR,2326,2326,4652
+EDDV,Hanover,Germany,5,MAY,2453,2450,4903
+EDDV,Hanover,Germany,6,JUN,2418,2426,4844
+EDDV,Hanover,Germany,7,JUL,2467,2467,4934
+EDDV,Hanover,Germany,8,AUG,2459,2455,4914
+EDDV,Hanover,Germany,9,SEP,2582,2591,5173
+EDDV,Hanover,Germany,10,OCT,2829,2855,5684
+EDDV,Hanover,Germany,11,NOV,1931,1935,3866
+EDDV,Hanover,Germany,12,DEC,1622,1627,3249
+EDDW,Bremen,Germany,1,JAN,716,719,1435
+EDDW,Bremen,Germany,2,FEB,801,819,1620
+EDDW,Bremen,Germany,3,MAR,1006,1033,2039
+EDDW,Bremen,Germany,4,APR,1043,1085,2128
+EDDW,Bremen,Germany,5,MAY,1133,1159,2292
+EDDW,Bremen,Germany,6,JUN,1056,1079,2135
+EDDW,Bremen,Germany,7,JUL,1151,1163,2314
+EDDW,Bremen,Germany,8,AUG,1135,1176,2311
+EDDW,Bremen,Germany,9,SEP,1170,1211,2381
+EDDW,Bremen,Germany,10,OCT,1144,1161,2305
+EDDW,Bremen,Germany,11,NOV,885,900,1785
+EDDW,Bremen,Germany,12,DEC,777,788,1565
+EETN,Tallinn,Estonia,1,JAN,1455,1466,2921
+EETN,Tallinn,Estonia,2,FEB,1268,1270,2538
+EETN,Tallinn,Estonia,3,MAR,1489,1496,2985
+EETN,Tallinn,Estonia,4,APR,1611,1615,3226
+EETN,Tallinn,Estonia,5,MAY,1756,1750,3506
+EETN,Tallinn,Estonia,6,JUN,1706,1705,3411
+EETN,Tallinn,Estonia,7,JUL,1698,1701,3399
+EETN,Tallinn,Estonia,8,AUG,1732,1732,3464
+EETN,Tallinn,Estonia,9,SEP,1724,1714,3438
+EETN,Tallinn,Estonia,10,OCT,1828,1833,3661
+EETN,Tallinn,Estonia,11,NOV,1527,1529,3056
+EETN,Tallinn,Estonia,12,DEC,1562,1552,3114
+EETU,Tartu,Estonia,1,JAN,56,55,111
+EETU,Tartu,Estonia,2,FEB,73,73,146
+EETU,Tartu,Estonia,3,MAR,77,78,155
+EETU,Tartu,Estonia,4,APR,72,72,144
+EETU,Tartu,Estonia,5,MAY,68,69,137
+EETU,Tartu,Estonia,6,JUN,54,54,108
+EETU,Tartu,Estonia,7,JUL,47,49,96
+EETU,Tartu,Estonia,8,AUG,57,58,115
+EETU,Tartu,Estonia,9,SEP,60,62,122
+EETU,Tartu,Estonia,10,OCT,67,66,133
+EETU,Tartu,Estonia,11,NOV,57,57,114
+EETU,Tartu,Estonia,12,DEC,71,72,143
+EFHK,Helsinki - Vantaa,Finland,1,JAN,6273,6281,12554
+EFHK,Helsinki - Vantaa,Finland,2,FEB,5799,5798,11597
+EFHK,Helsinki - Vantaa,Finland,3,MAR,6464,6462,12926
+EFHK,Helsinki - Vantaa,Finland,4,APR,6444,6443,12887
+EFHK,Helsinki - Vantaa,Finland,5,MAY,6822,6826,13648
+EFHK,Helsinki - Vantaa,Finland,6,JUN,6603,6596,13199
+EFHK,Helsinki - Vantaa,Finland,7,JUL,6559,6558,13117
+EFHK,Helsinki - Vantaa,Finland,8,AUG,6981,6985,13966
+EFHK,Helsinki - Vantaa,Finland,9,SEP,6751,6745,13496
+EFHK,Helsinki - Vantaa,Finland,10,OCT,6725,6731,13456
+EFHK,Helsinki - Vantaa,Finland,11,NOV,6268,6262,12530
+EFHK,Helsinki - Vantaa,Finland,12,DEC,6471,6479,12950
+EGAA,Belfast - Aldergrove,United Kingdom,1,JAN,1713,1704,3417
+EGAA,Belfast - Aldergrove,United Kingdom,2,FEB,1923,1922,3845
+EGAA,Belfast - Aldergrove,United Kingdom,3,MAR,2165,2158,4323
+EGAA,Belfast - Aldergrove,United Kingdom,4,APR,2314,2314,4628
+EGAA,Belfast - Aldergrove,United Kingdom,5,MAY,2491,2497,4988
+EGAA,Belfast - Aldergrove,United Kingdom,6,JUN,2575,2574,5149
+EGAA,Belfast - Aldergrove,United Kingdom,7,JUL,2678,2676,5354
+EGAA,Belfast - Aldergrove,United Kingdom,8,AUG,2539,2541,5080
+EGAA,Belfast - Aldergrove,United Kingdom,9,SEP,2468,2473,4941
+EGAA,Belfast - Aldergrove,United Kingdom,10,OCT,2463,2449,4912
+EGAA,Belfast - Aldergrove,United Kingdom,11,NOV,1988,1989,3977
+EGAA,Belfast - Aldergrove,United Kingdom,12,DEC,2108,2110,4218
+EGAC,Belfast - City Airport,United Kingdom,1,JAN,1135,1137,2272
+EGAC,Belfast - City Airport,United Kingdom,2,FEB,1075,1075,2150
+EGAC,Belfast - City Airport,United Kingdom,3,MAR,1224,1219,2443
+EGAC,Belfast - City Airport,United Kingdom,4,APR,1200,1200,2400
+EGAC,Belfast - City Airport,United Kingdom,5,MAY,1261,1261,2522
+EGAC,Belfast - City Airport,United Kingdom,6,JUN,1223,1223,2446
+EGAC,Belfast - City Airport,United Kingdom,7,JUL,1284,1286,2570
+EGAC,Belfast - City Airport,United Kingdom,8,AUG,1209,1206,2415
+EGAC,Belfast - City Airport,United Kingdom,9,SEP,1107,1107,2214
+EGAC,Belfast - City Airport,United Kingdom,10,OCT,1131,1130,2261
+EGAC,Belfast - City Airport,United Kingdom,11,NOV,1195,1194,2389
+EGAC,Belfast - City Airport,United Kingdom,12,DEC,1238,1237,2475
+EGAE,Londonderry - Eglinton,United Kingdom,1,JAN,145,146,291
+EGAE,Londonderry - Eglinton,United Kingdom,2,FEB,145,146,291
+EGAE,Londonderry - Eglinton,United Kingdom,3,MAR,162,161,323
+EGAE,Londonderry - Eglinton,United Kingdom,4,APR,160,165,325
+EGAE,Londonderry - Eglinton,United Kingdom,5,MAY,177,176,353
+EGAE,Londonderry - Eglinton,United Kingdom,6,JUN,169,170,339
+EGAE,Londonderry - Eglinton,United Kingdom,7,JUL,247,244,491
+EGAE,Londonderry - Eglinton,United Kingdom,8,AUG,181,184,365
+EGAE,Londonderry - Eglinton,United Kingdom,9,SEP,167,166,333
+EGAE,Londonderry - Eglinton,United Kingdom,10,OCT,161,162,323
+EGAE,Londonderry - Eglinton,United Kingdom,11,NOV,170,168,338
+EGAE,Londonderry - Eglinton,United Kingdom,12,DEC,169,171,340
+EGBB,Birmingham,United Kingdom,1,JAN,3092,3088,6180
+EGBB,Birmingham,United Kingdom,2,FEB,3110,3102,6212
+EGBB,Birmingham,United Kingdom,3,MAR,3714,3716,7430
+EGBB,Birmingham,United Kingdom,4,APR,3977,3986,7963
+EGBB,Birmingham,United Kingdom,5,MAY,4681,4671,9352
+EGBB,Birmingham,United Kingdom,6,JUN,4885,4882,9767
+EGBB,Birmingham,United Kingdom,7,JUL,5035,5036,10071
+EGBB,Birmingham,United Kingdom,8,AUG,4951,4949,9900
+EGBB,Birmingham,United Kingdom,9,SEP,4800,4813,9613
+EGBB,Birmingham,United Kingdom,10,OCT,4630,4623,9253
+EGBB,Birmingham,United Kingdom,11,NOV,3465,3470,6935
+EGBB,Birmingham,United Kingdom,12,DEC,3599,3596,7195
+EGCC,Manchester,United Kingdom,1,JAN,6762,6756,13518
+EGCC,Manchester,United Kingdom,2,FEB,6588,6587,13175
+EGCC,Manchester,United Kingdom,3,MAR,7550,7550,15100
+EGCC,Manchester,United Kingdom,4,APR,8288,8283,16571
+EGCC,Manchester,United Kingdom,5,MAY,9307,9287,18594
+EGCC,Manchester,United Kingdom,6,JUN,9368,9369,18737
+EGCC,Manchester,United Kingdom,7,JUL,9910,9930,19840
+EGCC,Manchester,United Kingdom,8,AUG,10118,10099,20217
+EGCC,Manchester,United Kingdom,9,SEP,9670,9689,19359
+EGCC,Manchester,United Kingdom,10,OCT,9246,9237,18483
+EGCC,Manchester,United Kingdom,11,NOV,7303,7319,14622
+EGCC,Manchester,United Kingdom,12,DEC,7776,7793,15569
+EGGD,Bristol,United Kingdom,1,JAN,2186,2178,4364
+EGGD,Bristol,United Kingdom,2,FEB,2431,2434,4865
+EGGD,Bristol,United Kingdom,3,MAR,2807,2806,5613
+EGGD,Bristol,United Kingdom,4,APR,3124,3125,6249
+EGGD,Bristol,United Kingdom,5,MAY,3598,3600,7198
+EGGD,Bristol,United Kingdom,6,JUN,3686,3687,7373
+EGGD,Bristol,United Kingdom,7,JUL,3845,3855,7700
+EGGD,Bristol,United Kingdom,8,AUG,3888,3886,7774
+EGGD,Bristol,United Kingdom,9,SEP,3761,3754,7515
+EGGD,Bristol,United Kingdom,10,OCT,3686,3691,7377
+EGGD,Bristol,United Kingdom,11,NOV,2330,2330,4660
+EGGD,Bristol,United Kingdom,12,DEC,2747,2750,5497
+EGGW,London - Luton,United Kingdom,1,JAN,4582,4604,9186
+EGGW,London - Luton,United Kingdom,2,FEB,4645,4642,9287
+EGGW,London - Luton,United Kingdom,3,MAR,5154,5169,10323
+EGGW,London - Luton,United Kingdom,4,APR,5708,5695,11403
+EGGW,London - Luton,United Kingdom,5,MAY,6157,6160,12317
+EGGW,London - Luton,United Kingdom,6,JUN,6215,6218,12433
+EGGW,London - Luton,United Kingdom,7,JUL,6494,6485,12979
+EGGW,London - Luton,United Kingdom,8,AUG,6274,6288,12562
+EGGW,London - Luton,United Kingdom,9,SEP,6120,6106,12226
+EGGW,London - Luton,United Kingdom,10,OCT,6027,6034,12061
+EGGW,London - Luton,United Kingdom,11,NOV,4617,4616,9233
+EGGW,London - Luton,United Kingdom,12,DEC,5215,5192,10407
+EGHI,Southampton,United Kingdom,1,JAN,661,667,1328
+EGHI,Southampton,United Kingdom,2,FEB,676,699,1375
+EGHI,Southampton,United Kingdom,3,MAR,779,793,1572
+EGHI,Southampton,United Kingdom,4,APR,812,819,1631
+EGHI,Southampton,United Kingdom,5,MAY,880,904,1784
+EGHI,Southampton,United Kingdom,6,JUN,860,878,1738
+EGHI,Southampton,United Kingdom,7,JUL,931,958,1889
+EGHI,Southampton,United Kingdom,8,AUG,887,909,1796
+EGHI,Southampton,United Kingdom,9,SEP,855,877,1732
+EGHI,Southampton,United Kingdom,10,OCT,826,851,1677
+EGHI,Southampton,United Kingdom,11,NOV,807,816,1623
+EGHI,Southampton,United Kingdom,12,DEC,764,784,1548
+EGKB,Biggin Hill,United Kingdom,1,JAN,667,671,1338
+EGKB,Biggin Hill,United Kingdom,2,FEB,779,779,1558
+EGKB,Biggin Hill,United Kingdom,3,MAR,783,790,1573
+EGKB,Biggin Hill,United Kingdom,4,APR,784,779,1563
+EGKB,Biggin Hill,United Kingdom,5,MAY,1013,1011,2024
+EGKB,Biggin Hill,United Kingdom,6,JUN,1164,1164,2328
+EGKB,Biggin Hill,United Kingdom,7,JUL,1344,1350,2694
+EGKB,Biggin Hill,United Kingdom,8,AUG,1076,1094,2170
+EGKB,Biggin Hill,United Kingdom,9,SEP,1071,1048,2119
+EGKB,Biggin Hill,United Kingdom,10,OCT,934,925,1859
+EGKB,Biggin Hill,United Kingdom,11,NOV,749,749,1498
+EGKB,Biggin Hill,United Kingdom,12,DEC,831,826,1657
+EGKK,London - Gatwick,United Kingdom,1,JAN,7810,7809,15619
+EGKK,London - Gatwick,United Kingdom,2,FEB,8750,8740,17490
+EGKK,London - Gatwick,United Kingdom,3,MAR,10138,10143,20281
+EGKK,London - Gatwick,United Kingdom,4,APR,11020,11027,22047
+EGKK,London - Gatwick,United Kingdom,5,MAY,12224,12200,24424
+EGKK,London - Gatwick,United Kingdom,6,JUN,12290,12313,24603
+EGKK,London - Gatwick,United Kingdom,7,JUL,13014,12989,26003
+EGKK,London - Gatwick,United Kingdom,8,AUG,13232,13245,26477
+EGKK,London - Gatwick,United Kingdom,9,SEP,12526,12534,25060
+EGKK,London - Gatwick,United Kingdom,10,OCT,11970,11963,23933
+EGKK,London - Gatwick,United Kingdom,11,NOV,8332,8329,16661
+EGKK,London - Gatwick,United Kingdom,12,DEC,9829,9836,19665
+EGLC,London - City,United Kingdom,1,JAN,1753,1747,3500
+EGLC,London - City,United Kingdom,2,FEB,1907,1906,3813
+EGLC,London - City,United Kingdom,3,MAR,2195,2196,4391
+EGLC,London - City,United Kingdom,4,APR,2166,2166,4332
+EGLC,London - City,United Kingdom,5,MAY,2223,2215,4438
+EGLC,London - City,United Kingdom,6,JUN,2228,2240,4468
+EGLC,London - City,United Kingdom,7,JUL,2201,2198,4399
+EGLC,London - City,United Kingdom,8,AUG,2060,2066,4126
+EGLC,London - City,United Kingdom,9,SEP,2297,2294,4591
+EGLC,London - City,United Kingdom,10,OCT,2351,2351,4702
+EGLC,London - City,United Kingdom,11,NOV,2124,2123,4247
+EGLC,London - City,United Kingdom,12,DEC,2028,2030,4058
+EGLF,Farnborough,United Kingdom,1,JAN,1041,1040,2081
+EGLF,Farnborough,United Kingdom,2,FEB,962,973,1935
+EGLF,Farnborough,United Kingdom,3,MAR,1063,1050,2113
+EGLF,Farnborough,United Kingdom,4,APR,1013,1009,2022
+EGLF,Farnborough,United Kingdom,5,MAY,1379,1397,2776
+EGLF,Farnborough,United Kingdom,6,JUN,1575,1600,3175
+EGLF,Farnborough,United Kingdom,7,JUL,1622,1605,3227
+EGLF,Farnborough,United Kingdom,8,AUG,1298,1304,2602
+EGLF,Farnborough,United Kingdom,9,SEP,1521,1521,3042
+EGLF,Farnborough,United Kingdom,10,OCT,1364,1361,2725
+EGLF,Farnborough,United Kingdom,11,NOV,1110,1103,2213
+EGLF,Farnborough,United Kingdom,12,DEC,1041,1021,2062
+EGLL,London - Heathrow,United Kingdom,1,JAN,19314,19315,38629
+EGLL,London - Heathrow,United Kingdom,2,FEB,17985,17981,35966
+EGLL,London - Heathrow,United Kingdom,3,MAR,19283,19329,38612
+EGLL,London - Heathrow,United Kingdom,4,APR,20262,20258,40520
+EGLL,London - Heathrow,United Kingdom,5,MAY,20831,20828,41659
+EGLL,London - Heathrow,United Kingdom,6,JUN,20111,20125,40236
+EGLL,London - Heathrow,United Kingdom,7,JUL,20836,20840,41676
+EGLL,London - Heathrow,United Kingdom,8,AUG,20874,20881,41755
+EGLL,London - Heathrow,United Kingdom,9,SEP,20192,20188,40380
+EGLL,London - Heathrow,United Kingdom,10,OCT,20690,20699,41389
+EGLL,London - Heathrow,United Kingdom,11,NOV,19452,19449,38901
+EGLL,London - Heathrow,United Kingdom,12,DEC,20035,20041,40076
+EGNT,Newcastle,United Kingdom,1,JAN,1311,1312,2623
+EGNT,Newcastle,United Kingdom,2,FEB,1344,1352,2696
+EGNT,Newcastle,United Kingdom,3,MAR,1564,1564,3128
+EGNT,Newcastle,United Kingdom,4,APR,1669,1680,3349
+EGNT,Newcastle,United Kingdom,5,MAY,2061,2060,4121
+EGNT,Newcastle,United Kingdom,6,JUN,2088,2094,4182
+EGNT,Newcastle,United Kingdom,7,JUL,2142,2149,4291
+EGNT,Newcastle,United Kingdom,8,AUG,2198,2200,4398
+EGNT,Newcastle,United Kingdom,9,SEP,2088,2098,4186
+EGNT,Newcastle,United Kingdom,10,OCT,2044,2038,4082
+EGNT,Newcastle,United Kingdom,11,NOV,1511,1521,3032
+EGNT,Newcastle,United Kingdom,12,DEC,1473,1477,2950
+EGNX,East Midlands,United Kingdom,1,JAN,1567,1560,3127
+EGNX,East Midlands,United Kingdom,2,FEB,1589,1595,3184
+EGNX,East Midlands,United Kingdom,3,MAR,1880,1887,3767
+EGNX,East Midlands,United Kingdom,4,APR,2142,2134,4276
+EGNX,East Midlands,United Kingdom,5,MAY,2661,2644,5305
+EGNX,East Midlands,United Kingdom,6,JUN,2690,2696,5386
+EGNX,East Midlands,United Kingdom,7,JUL,2835,2831,5666
+EGNX,East Midlands,United Kingdom,8,AUG,2748,2747,5495
+EGNX,East Midlands,United Kingdom,9,SEP,2642,2624,5266
+EGNX,East Midlands,United Kingdom,10,OCT,2533,2531,5064
+EGNX,East Midlands,United Kingdom,11,NOV,1791,1802,3593
+EGNX,East Midlands,United Kingdom,12,DEC,1768,1776,3544
+EGPD,Aberdeen,United Kingdom,1,JAN,1152,1155,2307
+EGPD,Aberdeen,United Kingdom,2,FEB,1417,1413,2830
+EGPD,Aberdeen,United Kingdom,3,MAR,1516,1524,3040
+EGPD,Aberdeen,United Kingdom,4,APR,1529,1540,3069
+EGPD,Aberdeen,United Kingdom,5,MAY,1644,1644,3288
+EGPD,Aberdeen,United Kingdom,6,JUN,1581,1577,3158
+EGPD,Aberdeen,United Kingdom,7,JUL,1642,1657,3299
+EGPD,Aberdeen,United Kingdom,8,AUG,1528,1528,3056
+EGPD,Aberdeen,United Kingdom,9,SEP,1576,1580,3156
+EGPD,Aberdeen,United Kingdom,10,OCT,1547,1549,3096
+EGPD,Aberdeen,United Kingdom,11,NOV,1295,1298,2593
+EGPD,Aberdeen,United Kingdom,12,DEC,1290,1289,2579
+EGPF,Glasgow,United Kingdom,1,JAN,2442,2448,4890
+EGPF,Glasgow,United Kingdom,2,FEB,2375,2381,4756
+EGPF,Glasgow,United Kingdom,3,MAR,2819,2817,5636
+EGPF,Glasgow,United Kingdom,4,APR,3033,3040,6073
+EGPF,Glasgow,United Kingdom,5,MAY,3469,3474,6943
+EGPF,Glasgow,United Kingdom,6,JUN,3521,3523,7044
+EGPF,Glasgow,United Kingdom,7,JUL,3583,3594,7177
+EGPF,Glasgow,United Kingdom,8,AUG,3455,3446,6901
+EGPF,Glasgow,United Kingdom,9,SEP,3487,3505,6992
+EGPF,Glasgow,United Kingdom,10,OCT,3441,3436,6877
+EGPF,Glasgow,United Kingdom,11,NOV,2690,2707,5397
+EGPF,Glasgow,United Kingdom,12,DEC,2679,2682,5361
+EGPH,Edinburgh,United Kingdom,1,JAN,3858,3853,7711
+EGPH,Edinburgh,United Kingdom,2,FEB,3972,3971,7943
+EGPH,Edinburgh,United Kingdom,3,MAR,4630,4633,9263
+EGPH,Edinburgh,United Kingdom,4,APR,5214,5212,10426
+EGPH,Edinburgh,United Kingdom,5,MAY,5834,5837,11671
+EGPH,Edinburgh,United Kingdom,6,JUN,5920,5921,11841
+EGPH,Edinburgh,United Kingdom,7,JUL,6213,6209,12422
+EGPH,Edinburgh,United Kingdom,8,AUG,6140,6144,12284
+EGPH,Edinburgh,United Kingdom,9,SEP,5910,5911,11821
+EGPH,Edinburgh,United Kingdom,10,OCT,5720,5718,11438
+EGPH,Edinburgh,United Kingdom,11,NOV,4411,4414,8825
+EGPH,Edinburgh,United Kingdom,12,DEC,4480,4472,8952
+EGSS,London - Stansted,United Kingdom,1,JAN,6849,6849,13698
+EGSS,London - Stansted,United Kingdom,2,FEB,7099,7099,14198
+EGSS,London - Stansted,United Kingdom,3,MAR,7987,7999,15986
+EGSS,London - Stansted,United Kingdom,4,APR,8475,8478,16953
+EGSS,London - Stansted,United Kingdom,5,MAY,9254,9224,18478
+EGSS,London - Stansted,United Kingdom,6,JUN,9173,9206,18379
+EGSS,London - Stansted,United Kingdom,7,JUL,9645,9639,19284
+EGSS,London - Stansted,United Kingdom,8,AUG,9662,9649,19311
+EGSS,London - Stansted,United Kingdom,9,SEP,9125,9142,18267
+EGSS,London - Stansted,United Kingdom,10,OCT,9125,9103,18228
+EGSS,London - Stansted,United Kingdom,11,NOV,7440,7457,14897
+EGSS,London - Stansted,United Kingdom,12,DEC,7755,7739,15494
+EHAM,Amsterdam - Schiphol,Netherlands,1,JAN,16161,16185,32346
+EHAM,Amsterdam - Schiphol,Netherlands,2,FEB,17721,17720,35441
+EHAM,Amsterdam - Schiphol,Netherlands,3,MAR,20086,20091,40177
+EHAM,Amsterdam - Schiphol,Netherlands,4,APR,20803,20805,41608
+EHAM,Amsterdam - Schiphol,Netherlands,5,MAY,22062,22059,44121
+EHAM,Amsterdam - Schiphol,Netherlands,6,JUN,21095,21078,42173
+EHAM,Amsterdam - Schiphol,Netherlands,7,JUL,22352,22378,44730
+EHAM,Amsterdam - Schiphol,Netherlands,8,AUG,22491,22491,44982
+EHAM,Amsterdam - Schiphol,Netherlands,9,SEP,21356,21350,42706
+EHAM,Amsterdam - Schiphol,Netherlands,10,OCT,21689,21680,43369
+EHAM,Amsterdam - Schiphol,Netherlands,11,NOV,19132,19123,38255
+EHAM,Amsterdam - Schiphol,Netherlands,12,DEC,19348,19344,38692
+EHBK,Maastricht-Aachen,Netherlands,1,JAN,179,191,370
+EHBK,Maastricht-Aachen,Netherlands,2,FEB,182,178,360
+EHBK,Maastricht-Aachen,Netherlands,3,MAR,334,331,665
+EHBK,Maastricht-Aachen,Netherlands,4,APR,269,277,546
+EHBK,Maastricht-Aachen,Netherlands,5,MAY,288,290,578
+EHBK,Maastricht-Aachen,Netherlands,6,JUN,310,308,618
+EHBK,Maastricht-Aachen,Netherlands,7,JUL,316,310,626
+EHBK,Maastricht-Aachen,Netherlands,8,AUG,274,270,544
+EHBK,Maastricht-Aachen,Netherlands,9,SEP,220,225,445
+EHBK,Maastricht-Aachen,Netherlands,10,OCT,276,278,554
+EHBK,Maastricht-Aachen,Netherlands,11,NOV,212,213,425
+EHBK,Maastricht-Aachen,Netherlands,12,DEC,212,207,419
+EHGG,Groningen,Netherlands,1,JAN,280,283,563
+EHGG,Groningen,Netherlands,2,FEB,337,343,680
+EHGG,Groningen,Netherlands,3,MAR,515,531,1046
+EHGG,Groningen,Netherlands,4,APR,428,431,859
+EHGG,Groningen,Netherlands,5,MAY,497,494,991
+EHGG,Groningen,Netherlands,6,JUN,537,547,1084
+EHGG,Groningen,Netherlands,7,JUL,534,540,1074
+EHGG,Groningen,Netherlands,8,AUG,436,452,888
+EHGG,Groningen,Netherlands,9,SEP,429,430,859
+EHGG,Groningen,Netherlands,10,OCT,425,432,857
+EHGG,Groningen,Netherlands,11,NOV,305,318,623
+EHGG,Groningen,Netherlands,12,DEC,354,352,706
+EHLE,Lelystad,Netherlands,1,JAN,70,65,135
+EHLE,Lelystad,Netherlands,2,FEB,108,104,212
+EHLE,Lelystad,Netherlands,3,MAR,173,161,334
+EHLE,Lelystad,Netherlands,4,APR,152,153,305
+EHLE,Lelystad,Netherlands,5,MAY,152,143,295
+EHLE,Lelystad,Netherlands,6,JUN,173,167,340
+EHLE,Lelystad,Netherlands,7,JUL,184,181,365
+EHLE,Lelystad,Netherlands,8,AUG,173,175,348
+EHLE,Lelystad,Netherlands,9,SEP,135,128,263
+EHLE,Lelystad,Netherlands,10,OCT,127,121,248
+EHLE,Lelystad,Netherlands,11,NOV,116,117,233
+EHLE,Lelystad,Netherlands,12,DEC,89,80,169
+EHRD,Rotterdam,Netherlands,1,JAN,880,885,1765
+EHRD,Rotterdam,Netherlands,2,FEB,810,820,1630
+EHRD,Rotterdam,Netherlands,3,MAR,1051,1072,2123
+EHRD,Rotterdam,Netherlands,4,APR,1061,1069,2130
+EHRD,Rotterdam,Netherlands,5,MAY,1289,1290,2579
+EHRD,Rotterdam,Netherlands,6,JUN,1253,1266,2519
+EHRD,Rotterdam,Netherlands,7,JUL,1371,1370,2741
+EHRD,Rotterdam,Netherlands,8,AUG,1360,1377,2737
+EHRD,Rotterdam,Netherlands,9,SEP,1282,1289,2571
+EHRD,Rotterdam,Netherlands,10,OCT,1121,1108,2229
+EHRD,Rotterdam,Netherlands,11,NOV,817,821,1638
+EHRD,Rotterdam,Netherlands,12,DEC,879,887,1766
+EICK,Cork,Ireland,1,JAN,843,841,1684
+EICK,Cork,Ireland,2,FEB,804,805,1609
+EICK,Cork,Ireland,3,MAR,994,993,1987
+EICK,Cork,Ireland,4,APR,1187,1186,2373
+EICK,Cork,Ireland,5,MAY,1260,1257,2517
+EICK,Cork,Ireland,6,JUN,1292,1286,2578
+EICK,Cork,Ireland,7,JUL,1332,1340,2672
+EICK,Cork,Ireland,8,AUG,1338,1333,2671
+EICK,Cork,Ireland,9,SEP,1244,1246,2490
+EICK,Cork,Ireland,10,OCT,1245,1242,2487
+EICK,Cork,Ireland,11,NOV,892,889,1781
+EICK,Cork,Ireland,12,DEC,943,944,1887
+EIDL,Donegal,Ireland,1,JAN,65,66,131
+EIDL,Donegal,Ireland,2,FEB,63,63,126
+EIDL,Donegal,Ireland,3,MAR,73,74,147
+EIDL,Donegal,Ireland,4,APR,74,74,148
+EIDL,Donegal,Ireland,5,MAY,74,74,148
+EIDL,Donegal,Ireland,6,JUN,73,73,146
+EIDL,Donegal,Ireland,7,JUL,76,78,154
+EIDL,Donegal,Ireland,8,AUG,93,90,183
+EIDL,Donegal,Ireland,9,SEP,77,78,155
+EIDL,Donegal,Ireland,10,OCT,66,64,130
+EIDL,Donegal,Ireland,11,NOV,68,64,132
+EIDL,Donegal,Ireland,12,DEC,69,68,137
+EIDW,Dublin,Ireland,1,JAN,9339,9342,18681
+EIDW,Dublin,Ireland,2,FEB,7818,7806,15624
+EIDW,Dublin,Ireland,3,MAR,9308,9312,18620
+EIDW,Dublin,Ireland,4,APR,10926,10936,21862
+EIDW,Dublin,Ireland,5,MAY,11990,11976,23966
+EIDW,Dublin,Ireland,6,JUN,11916,11932,23848
+EIDW,Dublin,Ireland,7,JUL,12302,12298,24600
+EIDW,Dublin,Ireland,8,AUG,12325,12319,24644
+EIDW,Dublin,Ireland,9,SEP,11884,11884,23768
+EIDW,Dublin,Ireland,10,OCT,11519,11533,23052
+EIDW,Dublin,Ireland,11,NOV,9670,9679,19349
+EIDW,Dublin,Ireland,12,DEC,9833,9838,19671
+EIKN,Connaught,Ireland,1,JAN,221,221,442
+EIKN,Connaught,Ireland,2,FEB,195,198,393
+EIKN,Connaught,Ireland,3,MAR,225,227,452
+EIKN,Connaught,Ireland,4,APR,295,299,594
+EIKN,Connaught,Ireland,5,MAY,335,336,671
+EIKN,Connaught,Ireland,6,JUN,321,323,644
+EIKN,Connaught,Ireland,7,JUL,339,340,679
+EIKN,Connaught,Ireland,8,AUG,338,340,678
+EIKN,Connaught,Ireland,9,SEP,310,313,623
+EIKN,Connaught,Ireland,10,OCT,319,322,641
+EIKN,Connaught,Ireland,11,NOV,229,227,456
+EIKN,Connaught,Ireland,12,DEC,242,240,482
+EIKY,Kerry - Farranfore,Ireland,1,JAN,151,154,305
+EIKY,Kerry - Farranfore,Ireland,2,FEB,147,149,296
+EIKY,Kerry - Farranfore,Ireland,3,MAR,174,170,344
+EIKY,Kerry - Farranfore,Ireland,4,APR,213,221,434
+EIKY,Kerry - Farranfore,Ireland,5,MAY,250,254,504
+EIKY,Kerry - Farranfore,Ireland,6,JUN,271,274,545
+EIKY,Kerry - Farranfore,Ireland,7,JUL,262,263,525
+EIKY,Kerry - Farranfore,Ireland,8,AUG,287,289,576
+EIKY,Kerry - Farranfore,Ireland,9,SEP,260,265,525
+EIKY,Kerry - Farranfore,Ireland,10,OCT,229,230,459
+EIKY,Kerry - Farranfore,Ireland,11,NOV,164,164,328
+EIKY,Kerry - Farranfore,Ireland,12,DEC,170,171,341
+EINN,Shannon,Ireland,1,JAN,787,796,1583
+EINN,Shannon,Ireland,2,FEB,725,735,1460
+EINN,Shannon,Ireland,3,MAR,869,872,1741
+EINN,Shannon,Ireland,4,APR,1050,1037,2087
+EINN,Shannon,Ireland,5,MAY,1150,1165,2315
+EINN,Shannon,Ireland,6,JUN,1220,1202,2422
+EINN,Shannon,Ireland,7,JUL,1220,1232,2452
+EINN,Shannon,Ireland,8,AUG,1189,1186,2375
+EINN,Shannon,Ireland,9,SEP,1202,1201,2403
+EINN,Shannon,Ireland,10,OCT,1163,1170,2333
+EINN,Shannon,Ireland,11,NOV,831,830,1661
+EINN,Shannon,Ireland,12,DEC,876,877,1753
+EISG,Sligo,Ireland,1,JAN,4,3,7
+EISG,Sligo,Ireland,2,FEB,1,1,2
+EISG,Sligo,Ireland,3,MAR,3,7,10
+EISG,Sligo,Ireland,4,APR,8,10,18
+EISG,Sligo,Ireland,5,MAY,7,7,14
+EISG,Sligo,Ireland,6,JUN,6,10,16
+EISG,Sligo,Ireland,7,JUL,6,7,13
+EISG,Sligo,Ireland,8,AUG,10,10,20
+EISG,Sligo,Ireland,9,SEP,6,7,13
+EISG,Sligo,Ireland,10,OCT,11,12,23
+EISG,Sligo,Ireland,11,NOV,4,4,8
+EISG,Sligo,Ireland,12,DEC,5,5,10
+EIWF,Waterford,Ireland,1,JAN,14,16,30
+EIWF,Waterford,Ireland,2,FEB,17,17,34
+EIWF,Waterford,Ireland,3,MAR,25,23,48
+EIWF,Waterford,Ireland,4,APR,33,35,68
+EIWF,Waterford,Ireland,5,MAY,23,23,46
+EIWF,Waterford,Ireland,6,JUN,30,30,60
+EIWF,Waterford,Ireland,7,JUL,30,32,62
+EIWF,Waterford,Ireland,8,AUG,33,34,67
+EIWF,Waterford,Ireland,9,SEP,18,18,36
+EIWF,Waterford,Ireland,10,OCT,20,20,40
+EIWF,Waterford,Ireland,11,NOV,17,15,32
+EIWF,Waterford,Ireland,12,DEC,13,13,26
+EIWT,Weston,Ireland,1,JAN,19,18,37
+EIWT,Weston,Ireland,2,FEB,12,12,24
+EIWT,Weston,Ireland,3,MAR,37,33,70
+EIWT,Weston,Ireland,4,APR,29,28,57
+EIWT,Weston,Ireland,5,MAY,52,51,103
+EIWT,Weston,Ireland,6,JUN,43,42,85
+EIWT,Weston,Ireland,7,JUL,35,32,67
+EIWT,Weston,Ireland,8,AUG,37,37,74
+EIWT,Weston,Ireland,9,SEP,49,45,94
+EIWT,Weston,Ireland,10,OCT,36,34,70
+EIWT,Weston,Ireland,11,NOV,16,18,34
+EIWT,Weston,Ireland,12,DEC,24,26,50
+EKCH,Copenhagen - Kastrup,Denmark,1,JAN,9388,9391,18779
+EKCH,Copenhagen - Kastrup,Denmark,2,FEB,8294,8296,16590
+EKCH,Copenhagen - Kastrup,Denmark,3,MAR,9592,9593,19185
+EKCH,Copenhagen - Kastrup,Denmark,4,APR,10929,10940,21869
+EKCH,Copenhagen - Kastrup,Denmark,5,MAY,11695,11709,23404
+EKCH,Copenhagen - Kastrup,Denmark,6,JUN,11889,11893,23782
+EKCH,Copenhagen - Kastrup,Denmark,7,JUL,11694,11700,23394
+EKCH,Copenhagen - Kastrup,Denmark,8,AUG,12081,12080,24161
+EKCH,Copenhagen - Kastrup,Denmark,9,SEP,11834,11829,23663
+EKCH,Copenhagen - Kastrup,Denmark,10,OCT,11980,11992,23972
+EKCH,Copenhagen - Kastrup,Denmark,11,NOV,10017,10015,20032
+EKCH,Copenhagen - Kastrup,Denmark,12,DEC,9900,9930,19830
+ELLX,Luxembourg,Luxembourg,1,JAN,2360,2356,4716
+ELLX,Luxembourg,Luxembourg,2,FEB,2345,2333,4678
+ELLX,Luxembourg,Luxembourg,3,MAR,2831,2845,5676
+ELLX,Luxembourg,Luxembourg,4,APR,3094,3093,6187
+ELLX,Luxembourg,Luxembourg,5,MAY,3241,3238,6479
+ELLX,Luxembourg,Luxembourg,6,JUN,3231,3249,6480
+ELLX,Luxembourg,Luxembourg,7,JUL,3300,3301,6601
+ELLX,Luxembourg,Luxembourg,8,AUG,3214,3216,6430
+ELLX,Luxembourg,Luxembourg,9,SEP,3289,3292,6581
+ELLX,Luxembourg,Luxembourg,10,OCT,3308,3298,6606
+ELLX,Luxembourg,Luxembourg,11,NOV,2836,2848,5684
+ELLX,Luxembourg,Luxembourg,12,DEC,2822,2819,5641
+ENAL,Alesund,Norway,1,JAN,443,444,887
+ENAL,Alesund,Norway,2,FEB,466,466,932
+ENAL,Alesund,Norway,3,MAR,543,546,1089
+ENAL,Alesund,Norway,4,APR,567,566,1133
+ENAL,Alesund,Norway,5,MAY,581,580,1161
+ENAL,Alesund,Norway,6,JUN,574,573,1147
+ENAL,Alesund,Norway,7,JUL,551,550,1101
+ENAL,Alesund,Norway,8,AUG,573,572,1145
+ENAL,Alesund,Norway,9,SEP,607,607,1214
+ENAL,Alesund,Norway,10,OCT,618,614,1232
+ENAL,Alesund,Norway,11,NOV,534,535,1069
+ENAL,Alesund,Norway,12,DEC,487,484,971
+ENAN,Andenes,Norway,1,JAN,122,122,244
+ENAN,Andenes,Norway,2,FEB,113,114,227
+ENAN,Andenes,Norway,3,MAR,132,133,265
+ENAN,Andenes,Norway,4,APR,130,130,260
+ENAN,Andenes,Norway,5,MAY,150,148,298
+ENAN,Andenes,Norway,6,JUN,132,133,265
+ENAN,Andenes,Norway,7,JUL,134,134,268
+ENAN,Andenes,Norway,8,AUG,135,137,272
+ENAN,Andenes,Norway,9,SEP,156,155,311
+ENAN,Andenes,Norway,10,OCT,143,142,285
+ENAN,Andenes,Norway,11,NOV,116,116,232
+ENAN,Andenes,Norway,12,DEC,109,109,218
+ENAT,Alta,Norway,1,JAN,373,378,751
+ENAT,Alta,Norway,2,FEB,321,319,640
+ENAT,Alta,Norway,3,MAR,363,365,728
+ENAT,Alta,Norway,4,APR,344,343,687
+ENAT,Alta,Norway,5,MAY,376,375,751
+ENAT,Alta,Norway,6,JUN,367,370,737
+ENAT,Alta,Norway,7,JUL,298,295,593
+ENAT,Alta,Norway,8,AUG,336,337,673
+ENAT,Alta,Norway,9,SEP,375,374,749
+ENAT,Alta,Norway,10,OCT,383,382,765
+ENAT,Alta,Norway,11,NOV,342,344,686
+ENAT,Alta,Norway,12,DEC,331,329,660
+ENBL,Forde Bringeland,Norway,1,JAN,138,139,277
+ENBL,Forde Bringeland,Norway,2,FEB,126,126,252
+ENBL,Forde Bringeland,Norway,3,MAR,128,128,256
+ENBL,Forde Bringeland,Norway,4,APR,125,124,249
+ENBL,Forde Bringeland,Norway,5,MAY,131,131,262
+ENBL,Forde Bringeland,Norway,6,JUN,130,129,259
+ENBL,Forde Bringeland,Norway,7,JUL,160,161,321
+ENBL,Forde Bringeland,Norway,8,AUG,140,141,281
+ENBL,Forde Bringeland,Norway,9,SEP,141,142,283
+ENBL,Forde Bringeland,Norway,10,OCT,131,131,262
+ENBL,Forde Bringeland,Norway,11,NOV,134,134,268
+ENBL,Forde Bringeland,Norway,12,DEC,127,126,253
+ENBN,Bronnoysund Bronnoy,Norway,1,JAN,301,307,608
+ENBN,Bronnoysund Bronnoy,Norway,2,FEB,282,284,566
+ENBN,Bronnoysund Bronnoy,Norway,3,MAR,316,317,633
+ENBN,Bronnoysund Bronnoy,Norway,4,APR,329,330,659
+ENBN,Bronnoysund Bronnoy,Norway,5,MAY,364,364,728
+ENBN,Bronnoysund Bronnoy,Norway,6,JUN,364,363,727
+ENBN,Bronnoysund Bronnoy,Norway,7,JUL,370,372,742
+ENBN,Bronnoysund Bronnoy,Norway,8,AUG,326,329,655
+ENBN,Bronnoysund Bronnoy,Norway,9,SEP,327,327,654
+ENBN,Bronnoysund Bronnoy,Norway,10,OCT,324,326,650
+ENBN,Bronnoysund Bronnoy,Norway,11,NOV,302,304,606
+ENBN,Bronnoysund Bronnoy,Norway,12,DEC,310,310,620
+ENBO,Bodø,Norway,1,JAN,1471,1468,2939
+ENBO,Bodø,Norway,2,FEB,1485,1488,2973
+ENBO,Bodø,Norway,3,MAR,1679,1678,3357
+ENBO,Bodø,Norway,4,APR,1646,1644,3290
+ENBO,Bodø,Norway,5,MAY,1765,1765,3530
+ENBO,Bodø,Norway,6,JUN,1773,1778,3551
+ENBO,Bodø,Norway,7,JUL,1783,1783,3566
+ENBO,Bodø,Norway,8,AUG,1752,1758,3510
+ENBO,Bodø,Norway,9,SEP,1862,1860,3722
+ENBO,Bodø,Norway,10,OCT,1774,1771,3545
+ENBO,Bodø,Norway,11,NOV,1495,1498,2993
+ENBO,Bodø,Norway,12,DEC,1454,1450,2904
+ENBR,Bergen,Norway,1,JAN,3263,3273,6536
+ENBR,Bergen,Norway,2,FEB,3115,3115,6230
+ENBR,Bergen,Norway,3,MAR,3642,3655,7297
+ENBR,Bergen,Norway,4,APR,3652,3661,7313
+ENBR,Bergen,Norway,5,MAY,3528,3533,7061
+ENBR,Bergen,Norway,6,JUN,3913,3923,7836
+ENBR,Bergen,Norway,7,JUL,3867,3872,7739
+ENBR,Bergen,Norway,8,AUG,4091,4090,8181
+ENBR,Bergen,Norway,9,SEP,4246,4237,8483
+ENBR,Bergen,Norway,10,OCT,4125,4135,8260
+ENBR,Bergen,Norway,11,NOV,3528,3528,7056
+ENBR,Bergen,Norway,12,DEC,3399,3407,6806
+ENBS,Batsfjord,Norway,1,JAN,71,71,142
+ENBS,Batsfjord,Norway,2,FEB,67,66,133
+ENBS,Batsfjord,Norway,3,MAR,76,75,151
+ENBS,Batsfjord,Norway,4,APR,67,66,133
+ENBS,Batsfjord,Norway,5,MAY,73,73,146
+ENBS,Batsfjord,Norway,6,JUN,77,77,154
+ENBS,Batsfjord,Norway,7,JUL,81,80,161
+ENBS,Batsfjord,Norway,8,AUG,75,75,150
+ENBS,Batsfjord,Norway,9,SEP,80,80,160
+ENBS,Batsfjord,Norway,10,OCT,79,78,157
+ENBS,Batsfjord,Norway,11,NOV,63,62,125
+ENBS,Batsfjord,Norway,12,DEC,66,66,132
+ENBV,Berlevåg,Norway,1,JAN,66,66,132
+ENBV,Berlevåg,Norway,2,FEB,60,60,120
+ENBV,Berlevåg,Norway,3,MAR,68,69,137
+ENBV,Berlevåg,Norway,4,APR,60,61,121
+ENBV,Berlevåg,Norway,5,MAY,68,68,136
+ENBV,Berlevåg,Norway,6,JUN,76,76,152
+ENBV,Berlevåg,Norway,7,JUL,71,71,142
+ENBV,Berlevåg,Norway,8,AUG,73,73,146
+ENBV,Berlevåg,Norway,9,SEP,74,74,148
+ENBV,Berlevåg,Norway,10,OCT,71,72,143
+ENBV,Berlevåg,Norway,11,NOV,57,58,115
+ENBV,Berlevåg,Norway,12,DEC,62,62,124
+ENCN,Kristiansand Kjevik,Norway,1,JAN,415,415,830
+ENCN,Kristiansand Kjevik,Norway,2,FEB,342,346,688
+ENCN,Kristiansand Kjevik,Norway,3,MAR,447,446,893
+ENCN,Kristiansand Kjevik,Norway,4,APR,500,498,998
+ENCN,Kristiansand Kjevik,Norway,5,MAY,509,501,1010
+ENCN,Kristiansand Kjevik,Norway,6,JUN,502,511,1013
+ENCN,Kristiansand Kjevik,Norway,7,JUL,449,443,892
+ENCN,Kristiansand Kjevik,Norway,8,AUG,490,498,988
+ENCN,Kristiansand Kjevik,Norway,9,SEP,531,528,1059
+ENCN,Kristiansand Kjevik,Norway,10,OCT,526,531,1057
+ENCN,Kristiansand Kjevik,Norway,11,NOV,470,469,939
+ENCN,Kristiansand Kjevik,Norway,12,DEC,418,415,833
+ENDU,Bardufoss,Norway,1,JAN,178,177,355
+ENDU,Bardufoss,Norway,2,FEB,119,120,239
+ENDU,Bardufoss,Norway,3,MAR,123,123,246
+ENDU,Bardufoss,Norway,4,APR,115,115,230
+ENDU,Bardufoss,Norway,5,MAY,134,138,272
+ENDU,Bardufoss,Norway,6,JUN,133,134,267
+ENDU,Bardufoss,Norway,7,JUL,120,121,241
+ENDU,Bardufoss,Norway,8,AUG,150,150,300
+ENDU,Bardufoss,Norway,9,SEP,163,162,325
+ENDU,Bardufoss,Norway,10,OCT,133,134,267
+ENDU,Bardufoss,Norway,11,NOV,152,153,305
+ENDU,Bardufoss,Norway,12,DEC,155,155,310
+ENEV,Harstad - Narvik Evenes,Norway,1,JAN,410,411,821
+ENEV,Harstad - Narvik Evenes,Norway,2,FEB,344,345,689
+ENEV,Harstad - Narvik Evenes,Norway,3,MAR,432,431,863
+ENEV,Harstad - Narvik Evenes,Norway,4,APR,434,433,867
+ENEV,Harstad - Narvik Evenes,Norway,5,MAY,517,519,1036
+ENEV,Harstad - Narvik Evenes,Norway,6,JUN,523,522,1045
+ENEV,Harstad - Narvik Evenes,Norway,7,JUL,578,581,1159
+ENEV,Harstad - Narvik Evenes,Norway,8,AUG,563,566,1129
+ENEV,Harstad - Narvik Evenes,Norway,9,SEP,509,504,1013
+ENEV,Harstad - Narvik Evenes,Norway,10,OCT,499,497,996
+ENEV,Harstad - Narvik Evenes,Norway,11,NOV,418,416,834
+ENEV,Harstad - Narvik Evenes,Norway,12,DEC,409,404,813
+ENFL,Florø,Norway,1,JAN,305,306,611
+ENFL,Florø,Norway,2,FEB,272,272,544
+ENFL,Florø,Norway,3,MAR,302,302,604
+ENFL,Florø,Norway,4,APR,285,284,569
+ENFL,Florø,Norway,5,MAY,250,252,502
+ENFL,Florø,Norway,6,JUN,275,272,547
+ENFL,Florø,Norway,7,JUL,284,286,570
+ENFL,Florø,Norway,8,AUG,255,256,511
+ENFL,Florø,Norway,9,SEP,307,308,615
+ENFL,Florø,Norway,10,OCT,327,330,657
+ENFL,Florø,Norway,11,NOV,283,285,568
+ENFL,Florø,Norway,12,DEC,280,281,561
+ENGM,Oslo - Gardermoen,Norway,1,JAN,7879,7841,15720
+ENGM,Oslo - Gardermoen,Norway,2,FEB,7668,7672,15340
+ENGM,Oslo - Gardermoen,Norway,3,MAR,9177,9176,18353
+ENGM,Oslo - Gardermoen,Norway,4,APR,9366,9381,18747
+ENGM,Oslo - Gardermoen,Norway,5,MAY,9916,9910,19826
+ENGM,Oslo - Gardermoen,Norway,6,JUN,10118,10126,20244
+ENGM,Oslo - Gardermoen,Norway,7,JUL,10116,10121,20237
+ENGM,Oslo - Gardermoen,Norway,8,AUG,10402,10381,20783
+ENGM,Oslo - Gardermoen,Norway,9,SEP,10404,10398,20802
+ENGM,Oslo - Gardermoen,Norway,10,OCT,10216,10221,20437
+ENGM,Oslo - Gardermoen,Norway,11,NOV,8574,8558,17132
+ENGM,Oslo - Gardermoen,Norway,12,DEC,8112,8121,16233
+ENHD,Haugesund,Norway,1,JAN,269,268,537
+ENHD,Haugesund,Norway,2,FEB,275,274,549
+ENHD,Haugesund,Norway,3,MAR,325,326,651
+ENHD,Haugesund,Norway,4,APR,296,296,592
+ENHD,Haugesund,Norway,5,MAY,303,302,605
+ENHD,Haugesund,Norway,6,JUN,280,280,560
+ENHD,Haugesund,Norway,7,JUL,203,204,407
+ENHD,Haugesund,Norway,8,AUG,233,235,468
+ENHD,Haugesund,Norway,9,SEP,339,339,678
+ENHD,Haugesund,Norway,10,OCT,351,350,701
+ENHD,Haugesund,Norway,11,NOV,304,306,610
+ENHD,Haugesund,Norway,12,DEC,294,291,585
+ENHF,Hammerfest,Norway,1,JAN,463,463,926
+ENHF,Hammerfest,Norway,2,FEB,407,406,813
+ENHF,Hammerfest,Norway,3,MAR,474,477,951
+ENHF,Hammerfest,Norway,4,APR,447,447,894
+ENHF,Hammerfest,Norway,5,MAY,524,525,1049
+ENHF,Hammerfest,Norway,6,JUN,497,497,994
+ENHF,Hammerfest,Norway,7,JUL,444,444,888
+ENHF,Hammerfest,Norway,8,AUG,472,471,943
+ENHF,Hammerfest,Norway,9,SEP,489,488,977
+ENHF,Hammerfest,Norway,10,OCT,464,464,928
+ENHF,Hammerfest,Norway,11,NOV,411,409,820
+ENHF,Hammerfest,Norway,12,DEC,432,433,865
+ENHV,Honningsvåg Valan,Norway,1,JAN,55,53,108
+ENHV,Honningsvåg Valan,Norway,2,FEB,43,43,86
+ENHV,Honningsvåg Valan,Norway,3,MAR,62,60,122
+ENHV,Honningsvåg Valan,Norway,4,APR,56,56,112
+ENHV,Honningsvåg Valan,Norway,5,MAY,63,64,127
+ENHV,Honningsvåg Valan,Norway,6,JUN,79,79,158
+ENHV,Honningsvåg Valan,Norway,7,JUL,64,65,129
+ENHV,Honningsvåg Valan,Norway,8,AUG,67,66,133
+ENHV,Honningsvåg Valan,Norway,9,SEP,74,73,147
+ENHV,Honningsvåg Valan,Norway,10,OCT,67,66,133
+ENHV,Honningsvåg Valan,Norway,11,NOV,59,60,119
+ENHV,Honningsvåg Valan,Norway,12,DEC,51,50,101
+ENKB,Kristiansund Kvernberget,Norway,1,JAN,417,412,829
+ENKB,Kristiansund Kvernberget,Norway,2,FEB,336,337,673
+ENKB,Kristiansund Kvernberget,Norway,3,MAR,362,366,728
+ENKB,Kristiansund Kvernberget,Norway,4,APR,401,401,802
+ENKB,Kristiansund Kvernberget,Norway,5,MAY,407,408,815
+ENKB,Kristiansund Kvernberget,Norway,6,JUN,456,460,916
+ENKB,Kristiansund Kvernberget,Norway,7,JUL,431,437,868
+ENKB,Kristiansund Kvernberget,Norway,8,AUG,413,413,826
+ENKB,Kristiansund Kvernberget,Norway,9,SEP,450,450,900
+ENKB,Kristiansund Kvernberget,Norway,10,OCT,425,426,851
+ENKB,Kristiansund Kvernberget,Norway,11,NOV,344,344,688
+ENKB,Kristiansund Kvernberget,Norway,12,DEC,387,385,772
+ENKR,Kirkenes Høybuktmoen,Norway,1,JAN,273,273,546
+ENKR,Kirkenes Høybuktmoen,Norway,2,FEB,270,271,541
+ENKR,Kirkenes Høybuktmoen,Norway,3,MAR,280,279,559
+ENKR,Kirkenes Høybuktmoen,Norway,4,APR,293,290,583
+ENKR,Kirkenes Høybuktmoen,Norway,5,MAY,306,306,612
+ENKR,Kirkenes Høybuktmoen,Norway,6,JUN,308,310,618
+ENKR,Kirkenes Høybuktmoen,Norway,7,JUL,319,321,640
+ENKR,Kirkenes Høybuktmoen,Norway,8,AUG,331,331,662
+ENKR,Kirkenes Høybuktmoen,Norway,9,SEP,306,305,611
+ENKR,Kirkenes Høybuktmoen,Norway,10,OCT,305,305,610
+ENKR,Kirkenes Høybuktmoen,Norway,11,NOV,253,253,506
+ENKR,Kirkenes Høybuktmoen,Norway,12,DEC,278,276,554
+ENLK,Leknes,Norway,1,JAN,262,262,524
+ENLK,Leknes,Norway,2,FEB,233,233,466
+ENLK,Leknes,Norway,3,MAR,244,244,488
+ENLK,Leknes,Norway,4,APR,270,270,540
+ENLK,Leknes,Norway,5,MAY,295,297,592
+ENLK,Leknes,Norway,6,JUN,324,323,647
+ENLK,Leknes,Norway,7,JUL,354,354,708
+ENLK,Leknes,Norway,8,AUG,338,339,677
+ENLK,Leknes,Norway,9,SEP,312,310,622
+ENLK,Leknes,Norway,10,OCT,302,302,604
+ENLK,Leknes,Norway,11,NOV,254,255,509
+ENLK,Leknes,Norway,12,DEC,219,219,438
+ENMH,Mehamn,Norway,1,JAN,81,82,163
+ENMH,Mehamn,Norway,2,FEB,68,68,136
+ENMH,Mehamn,Norway,3,MAR,85,86,171
+ENMH,Mehamn,Norway,4,APR,70,70,140
+ENMH,Mehamn,Norway,5,MAY,77,76,153
+ENMH,Mehamn,Norway,6,JUN,87,87,174
+ENMH,Mehamn,Norway,7,JUL,77,77,154
+ENMH,Mehamn,Norway,8,AUG,81,83,164
+ENMH,Mehamn,Norway,9,SEP,79,80,159
+ENMH,Mehamn,Norway,10,OCT,92,92,184
+ENMH,Mehamn,Norway,11,NOV,80,80,160
+ENMH,Mehamn,Norway,12,DEC,74,74,148
+ENML,Molde Årø,Norway,1,JAN,159,159,318
+ENML,Molde Årø,Norway,2,FEB,166,167,333
+ENML,Molde Årø,Norway,3,MAR,187,188,375
+ENML,Molde Årø,Norway,4,APR,178,179,357
+ENML,Molde Årø,Norway,5,MAY,187,183,370
+ENML,Molde Årø,Norway,6,JUN,176,176,352
+ENML,Molde Årø,Norway,7,JUL,142,141,283
+ENML,Molde Årø,Norway,8,AUG,164,169,333
+ENML,Molde Årø,Norway,9,SEP,224,221,445
+ENML,Molde Årø,Norway,10,OCT,199,199,398
+ENML,Molde Årø,Norway,11,NOV,174,177,351
+ENML,Molde Årø,Norway,12,DEC,175,174,349
+ENMS,Mosjøen Kjærstad,Norway,1,JAN,144,143,287
+ENMS,Mosjøen Kjærstad,Norway,2,FEB,144,144,288
+ENMS,Mosjøen Kjærstad,Norway,3,MAR,138,138,276
+ENMS,Mosjøen Kjærstad,Norway,4,APR,141,141,282
+ENMS,Mosjøen Kjærstad,Norway,5,MAY,148,146,294
+ENMS,Mosjøen Kjærstad,Norway,6,JUN,146,146,292
+ENMS,Mosjøen Kjærstad,Norway,7,JUL,164,164,328
+ENMS,Mosjøen Kjærstad,Norway,8,AUG,167,166,333
+ENMS,Mosjøen Kjærstad,Norway,9,SEP,145,146,291
+ENMS,Mosjøen Kjærstad,Norway,10,OCT,135,135,270
+ENMS,Mosjøen Kjærstad,Norway,11,NOV,110,111,221
+ENMS,Mosjøen Kjærstad,Norway,12,DEC,125,123,248
+ENNA,Lakselv Banak,Norway,1,JAN,109,109,218
+ENNA,Lakselv Banak,Norway,2,FEB,115,117,232
+ENNA,Lakselv Banak,Norway,3,MAR,115,116,231
+ENNA,Lakselv Banak,Norway,4,APR,91,91,182
+ENNA,Lakselv Banak,Norway,5,MAY,98,97,195
+ENNA,Lakselv Banak,Norway,6,JUN,98,98,196
+ENNA,Lakselv Banak,Norway,7,JUL,106,106,212
+ENNA,Lakselv Banak,Norway,8,AUG,106,106,212
+ENNA,Lakselv Banak,Norway,9,SEP,99,99,198
+ENNA,Lakselv Banak,Norway,10,OCT,115,115,230
+ENNA,Lakselv Banak,Norway,11,NOV,94,95,189
+ENNA,Lakselv Banak,Norway,12,DEC,89,89,178
+ENNM,Namsos Høknesøra,Norway,1,JAN,79,79,158
+ENNM,Namsos Høknesøra,Norway,2,FEB,66,66,132
+ENNM,Namsos Høknesøra,Norway,3,MAR,72,72,144
+ENNM,Namsos Høknesøra,Norway,4,APR,73,74,147
+ENNM,Namsos Høknesøra,Norway,5,MAY,75,75,150
+ENNM,Namsos Høknesøra,Norway,6,JUN,78,78,156
+ENNM,Namsos Høknesøra,Norway,7,JUL,82,82,164
+ENNM,Namsos Høknesøra,Norway,8,AUG,81,81,162
+ENNM,Namsos Høknesøra,Norway,9,SEP,80,80,160
+ENNM,Namsos Høknesøra,Norway,10,OCT,74,74,148
+ENNM,Namsos Høknesøra,Norway,11,NOV,71,71,142
+ENNM,Namsos Høknesøra,Norway,12,DEC,67,67,134
+ENOV,Orsta¿Volda Hovden,Norway,1,JAN,248,250,498
+ENOV,Orsta¿Volda Hovden,Norway,2,FEB,239,239,478
+ENOV,Orsta¿Volda Hovden,Norway,3,MAR,247,247,494
+ENOV,Orsta¿Volda Hovden,Norway,4,APR,252,252,504
+ENOV,Orsta¿Volda Hovden,Norway,5,MAY,247,246,493
+ENOV,Orsta¿Volda Hovden,Norway,6,JUN,260,260,520
+ENOV,Orsta¿Volda Hovden,Norway,7,JUL,268,267,535
+ENOV,Orsta¿Volda Hovden,Norway,8,AUG,268,269,537
+ENOV,Orsta¿Volda Hovden,Norway,9,SEP,281,283,564
+ENOV,Orsta¿Volda Hovden,Norway,10,OCT,249,251,500
+ENOV,Orsta¿Volda Hovden,Norway,11,NOV,217,216,433
+ENOV,Orsta¿Volda Hovden,Norway,12,DEC,233,231,464
+ENRA,Mo i Rana Røssvoll,Norway,1,JAN,237,237,474
+ENRA,Mo i Rana Røssvoll,Norway,2,FEB,184,184,368
+ENRA,Mo i Rana Røssvoll,Norway,3,MAR,206,206,412
+ENRA,Mo i Rana Røssvoll,Norway,4,APR,170,170,340
+ENRA,Mo i Rana Røssvoll,Norway,5,MAY,192,191,383
+ENRA,Mo i Rana Røssvoll,Norway,6,JUN,176,176,352
+ENRA,Mo i Rana Røssvoll,Norway,7,JUL,176,176,352
+ENRA,Mo i Rana Røssvoll,Norway,8,AUG,161,162,323
+ENRA,Mo i Rana Røssvoll,Norway,9,SEP,231,232,463
+ENRA,Mo i Rana Røssvoll,Norway,10,OCT,226,225,451
+ENRA,Mo i Rana Røssvoll,Norway,11,NOV,195,195,390
+ENRA,Mo i Rana Røssvoll,Norway,12,DEC,185,185,370
+ENRM,Rorvik Ryum,Norway,1,JAN,82,81,163
+ENRM,Rorvik Ryum,Norway,2,FEB,92,91,183
+ENRM,Rorvik Ryum,Norway,3,MAR,97,97,194
+ENRM,Rorvik Ryum,Norway,4,APR,74,73,147
+ENRM,Rorvik Ryum,Norway,5,MAY,77,79,156
+ENRM,Rorvik Ryum,Norway,6,JUN,67,68,135
+ENRM,Rorvik Ryum,Norway,7,JUL,60,64,124
+ENRM,Rorvik Ryum,Norway,8,AUG,56,55,111
+ENRM,Rorvik Ryum,Norway,9,SEP,82,83,165
+ENRM,Rorvik Ryum,Norway,10,OCT,84,84,168
+ENRM,Rorvik Ryum,Norway,11,NOV,75,74,149
+ENRM,Rorvik Ryum,Norway,12,DEC,76,74,150
+ENRO,Roros,Norway,1,JAN,50,51,101
+ENRO,Roros,Norway,2,FEB,53,53,106
+ENRO,Roros,Norway,3,MAR,54,54,108
+ENRO,Roros,Norway,4,APR,48,48,96
+ENRO,Roros,Norway,5,MAY,51,51,102
+ENRO,Roros,Norway,6,JUN,56,55,111
+ENRO,Roros,Norway,7,JUL,55,55,110
+ENRO,Roros,Norway,8,AUG,58,58,116
+ENRO,Roros,Norway,9,SEP,54,54,108
+ENRO,Roros,Norway,10,OCT,58,57,115
+ENRO,Roros,Norway,11,NOV,47,46,93
+ENRO,Roros,Norway,12,DEC,43,43,86
+ENRS,Rost,Norway,1,JAN,51,51,102
+ENRS,Rost,Norway,2,FEB,50,50,100
+ENRS,Rost,Norway,3,MAR,52,52,104
+ENRS,Rost,Norway,4,APR,49,49,98
+ENRS,Rost,Norway,5,MAY,51,51,102
+ENRS,Rost,Norway,6,JUN,56,56,112
+ENRS,Rost,Norway,7,JUL,50,49,99
+ENRS,Rost,Norway,8,AUG,55,54,109
+ENRS,Rost,Norway,9,SEP,51,51,102
+ENRS,Rost,Norway,10,OCT,56,56,112
+ENRS,Rost,Norway,11,NOV,49,49,98
+ENRS,Rost,Norway,12,DEC,47,47,94
+ENSB,Svalbard Longyear,Norway,1,JAN,67,69,136
+ENSB,Svalbard Longyear,Norway,2,FEB,56,58,114
+ENSB,Svalbard Longyear,Norway,3,MAR,77,75,152
+ENSB,Svalbard Longyear,Norway,4,APR,80,80,160
+ENSB,Svalbard Longyear,Norway,5,MAY,85,85,170
+ENSB,Svalbard Longyear,Norway,6,JUN,127,127,254
+ENSB,Svalbard Longyear,Norway,7,JUL,146,148,294
+ENSB,Svalbard Longyear,Norway,8,AUG,126,128,254
+ENSB,Svalbard Longyear,Norway,9,SEP,96,96,192
+ENSB,Svalbard Longyear,Norway,10,OCT,98,97,195
+ENSB,Svalbard Longyear,Norway,11,NOV,68,69,137
+ENSB,Svalbard Longyear,Norway,12,DEC,65,64,129
+ENSD,Sandane  Anda,Norway,1,JAN,105,105,210
+ENSD,Sandane  Anda,Norway,2,FEB,101,101,202
+ENSD,Sandane  Anda,Norway,3,MAR,115,114,229
+ENSD,Sandane  Anda,Norway,4,APR,103,104,207
+ENSD,Sandane  Anda,Norway,5,MAY,112,111,223
+ENSD,Sandane  Anda,Norway,6,JUN,100,101,201
+ENSD,Sandane  Anda,Norway,7,JUL,95,96,191
+ENSD,Sandane  Anda,Norway,8,AUG,109,109,218
+ENSD,Sandane  Anda,Norway,9,SEP,113,113,226
+ENSD,Sandane  Anda,Norway,10,OCT,100,100,200
+ENSD,Sandane  Anda,Norway,11,NOV,97,92,189
+ENSD,Sandane  Anda,Norway,12,DEC,96,96,192
+ENSG,Sogndal Haukåsen,Norway,1,JAN,219,218,437
+ENSG,Sogndal Haukåsen,Norway,2,FEB,219,219,438
+ENSG,Sogndal Haukåsen,Norway,3,MAR,232,232,464
+ENSG,Sogndal Haukåsen,Norway,4,APR,218,216,434
+ENSG,Sogndal Haukåsen,Norway,5,MAY,181,181,362
+ENSG,Sogndal Haukåsen,Norway,6,JUN,97,97,194
+ENSG,Sogndal Haukåsen,Norway,7,JUL,100,100,200
+ENSG,Sogndal Haukåsen,Norway,8,AUG,225,225,450
+ENSG,Sogndal Haukåsen,Norway,9,SEP,236,236,472
+ENSG,Sogndal Haukåsen,Norway,10,OCT,216,216,432
+ENSG,Sogndal Haukåsen,Norway,11,NOV,211,216,427
+ENSG,Sogndal Haukåsen,Norway,12,DEC,216,215,431
+ENSH,Svolvær Helle,Norway,1,JAN,138,138,276
+ENSH,Svolvær Helle,Norway,2,FEB,135,135,270
+ENSH,Svolvær Helle,Norway,3,MAR,173,172,345
+ENSH,Svolvær Helle,Norway,4,APR,156,156,312
+ENSH,Svolvær Helle,Norway,5,MAY,175,175,350
+ENSH,Svolvær Helle,Norway,6,JUN,210,210,420
+ENSH,Svolvær Helle,Norway,7,JUL,256,258,514
+ENSH,Svolvær Helle,Norway,8,AUG,235,235,470
+ENSH,Svolvær Helle,Norway,9,SEP,190,190,380
+ENSH,Svolvær Helle,Norway,10,OCT,139,139,278
+ENSH,Svolvær Helle,Norway,11,NOV,116,116,232
+ENSH,Svolvær Helle,Norway,12,DEC,155,155,310
+ENSK,Stokmarknes Skagen,Norway,1,JAN,224,224,448
+ENSK,Stokmarknes Skagen,Norway,2,FEB,217,219,436
+ENSK,Stokmarknes Skagen,Norway,3,MAR,237,236,473
+ENSK,Stokmarknes Skagen,Norway,4,APR,258,258,516
+ENSK,Stokmarknes Skagen,Norway,5,MAY,284,284,568
+ENSK,Stokmarknes Skagen,Norway,6,JUN,240,242,482
+ENSK,Stokmarknes Skagen,Norway,7,JUL,193,192,385
+ENSK,Stokmarknes Skagen,Norway,8,AUG,234,233,467
+ENSK,Stokmarknes Skagen,Norway,9,SEP,267,267,534
+ENSK,Stokmarknes Skagen,Norway,10,OCT,242,242,484
+ENSK,Stokmarknes Skagen,Norway,11,NOV,216,215,431
+ENSK,Stokmarknes Skagen,Norway,12,DEC,217,217,434
+ENSR,Sorkjosen,Norway,1,JAN,51,51,102
+ENSR,Sorkjosen,Norway,2,FEB,45,45,90
+ENSR,Sorkjosen,Norway,3,MAR,50,49,99
+ENSR,Sorkjosen,Norway,4,APR,41,41,82
+ENSR,Sorkjosen,Norway,5,MAY,60,60,120
+ENSR,Sorkjosen,Norway,6,JUN,51,51,102
+ENSR,Sorkjosen,Norway,7,JUL,50,50,100
+ENSR,Sorkjosen,Norway,8,AUG,52,52,104
+ENSR,Sorkjosen,Norway,9,SEP,54,54,108
+ENSR,Sorkjosen,Norway,10,OCT,55,55,110
+ENSR,Sorkjosen,Norway,11,NOV,47,47,94
+ENSR,Sorkjosen,Norway,12,DEC,43,43,86
+ENSS,Vardø Svartnes,Norway,1,JAN,67,67,134
+ENSS,Vardø Svartnes,Norway,2,FEB,65,65,130
+ENSS,Vardø Svartnes,Norway,3,MAR,71,71,142
+ENSS,Vardø Svartnes,Norway,4,APR,66,66,132
+ENSS,Vardø Svartnes,Norway,5,MAY,69,69,138
+ENSS,Vardø Svartnes,Norway,6,JUN,72,72,144
+ENSS,Vardø Svartnes,Norway,7,JUL,72,72,144
+ENSS,Vardø Svartnes,Norway,8,AUG,66,66,132
+ENSS,Vardø Svartnes,Norway,9,SEP,73,73,146
+ENSS,Vardø Svartnes,Norway,10,OCT,76,76,152
+ENSS,Vardø Svartnes,Norway,11,NOV,65,65,130
+ENSS,Vardø Svartnes,Norway,12,DEC,74,74,148
+ENST,Sandnessjøen Stokka,Norway,1,JAN,116,116,232
+ENST,Sandnessjøen Stokka,Norway,2,FEB,140,140,280
+ENST,Sandnessjøen Stokka,Norway,3,MAR,168,169,337
+ENST,Sandnessjøen Stokka,Norway,4,APR,157,157,314
+ENST,Sandnessjøen Stokka,Norway,5,MAY,152,150,302
+ENST,Sandnessjøen Stokka,Norway,6,JUN,182,182,364
+ENST,Sandnessjøen Stokka,Norway,7,JUL,219,219,438
+ENST,Sandnessjøen Stokka,Norway,8,AUG,177,177,354
+ENST,Sandnessjøen Stokka,Norway,9,SEP,152,152,304
+ENST,Sandnessjøen Stokka,Norway,10,OCT,166,167,333
+ENST,Sandnessjøen Stokka,Norway,11,NOV,165,167,332
+ENST,Sandnessjøen Stokka,Norway,12,DEC,149,148,297
+ENTC,Tromsø,Norway,1,JAN,2109,2106,4215
+ENTC,Tromsø,Norway,2,FEB,1915,1912,3827
+ENTC,Tromsø,Norway,3,MAR,2035,2033,4068
+ENTC,Tromsø,Norway,4,APR,1701,1700,3401
+ENTC,Tromsø,Norway,5,MAY,1777,1782,3559
+ENTC,Tromsø,Norway,6,JUN,1709,1701,3410
+ENTC,Tromsø,Norway,7,JUL,1669,1670,3339
+ENTC,Tromsø,Norway,8,AUG,1723,1722,3445
+ENTC,Tromsø,Norway,9,SEP,1773,1774,3547
+ENTC,Tromsø,Norway,10,OCT,1869,1877,3746
+ENTC,Tromsø,Norway,11,NOV,1867,1866,3733
+ENTC,Tromsø,Norway,12,DEC,2022,2028,4050
+ENVA,Trondheim,Norway,1,JAN,1934,1933,3867
+ENVA,Trondheim,Norway,2,FEB,1868,1871,3739
+ENVA,Trondheim,Norway,3,MAR,2268,2266,4534
+ENVA,Trondheim,Norway,4,APR,2208,2204,4412
+ENVA,Trondheim,Norway,5,MAY,2450,2448,4898
+ENVA,Trondheim,Norway,6,JUN,2316,2318,4634
+ENVA,Trondheim,Norway,7,JUL,1788,1785,3573
+ENVA,Trondheim,Norway,8,AUG,2109,2108,4217
+ENVA,Trondheim,Norway,9,SEP,2443,2440,4883
+ENVA,Trondheim,Norway,10,OCT,2425,2425,4850
+ENVA,Trondheim,Norway,11,NOV,2124,2124,4248
+ENVA,Trondheim,Norway,12,DEC,1929,1930,3859
+ENVD,Vadsø,Norway,1,JAN,203,204,407
+ENVD,Vadsø,Norway,2,FEB,196,196,392
+ENVD,Vadsø,Norway,3,MAR,207,207,414
+ENVD,Vadsø,Norway,4,APR,183,185,368
+ENVD,Vadsø,Norway,5,MAY,199,198,397
+ENVD,Vadsø,Norway,6,JUN,206,207,413
+ENVD,Vadsø,Norway,7,JUL,204,203,407
+ENVD,Vadsø,Norway,8,AUG,209,209,418
+ENVD,Vadsø,Norway,9,SEP,211,211,422
+ENVD,Vadsø,Norway,10,OCT,214,213,427
+ENVD,Vadsø,Norway,11,NOV,192,191,383
+ENVD,Vadsø,Norway,12,DEC,194,193,387
+ENVR,Værøy,Norway,1,JAN,46,46,92
+ENVR,Værøy,Norway,2,FEB,41,41,82
+ENVR,Værøy,Norway,3,MAR,48,48,96
+ENVR,Værøy,Norway,4,APR,51,51,102
+ENVR,Værøy,Norway,5,MAY,50,50,100
+ENVR,Værøy,Norway,6,JUN,63,62,125
+ENVR,Værøy,Norway,7,JUL,62,62,124
+ENVR,Værøy,Norway,8,AUG,54,54,108
+ENVR,Værøy,Norway,9,SEP,49,49,98
+ENVR,Værøy,Norway,10,OCT,52,53,105
+ENVR,Værøy,Norway,11,NOV,38,38,76
+ENVR,Værøy,Norway,12,DEC,43,43,86
+ENZV,Stavanger,Norway,1,JAN,2186,2192,4378
+ENZV,Stavanger,Norway,2,FEB,2053,2059,4112
+ENZV,Stavanger,Norway,3,MAR,2462,2466,4928
+ENZV,Stavanger,Norway,4,APR,2439,2442,4881
+ENZV,Stavanger,Norway,5,MAY,2634,2639,5273
+ENZV,Stavanger,Norway,6,JUN,2514,2526,5040
+ENZV,Stavanger,Norway,7,JUL,2218,2221,4439
+ENZV,Stavanger,Norway,8,AUG,2460,2466,4926
+ENZV,Stavanger,Norway,9,SEP,2669,2674,5343
+ENZV,Stavanger,Norway,10,OCT,2670,2675,5345
+ENZV,Stavanger,Norway,11,NOV,2408,2413,4821
+ENZV,Stavanger,Norway,12,DEC,2365,2366,4731
+EPBY,Bydgoszcz,Poland,1,JAN,152,155,307
+EPBY,Bydgoszcz,Poland,2,FEB,149,147,296
+EPBY,Bydgoszcz,Poland,3,MAR,168,165,333
+EPBY,Bydgoszcz,Poland,4,APR,174,174,348
+EPBY,Bydgoszcz,Poland,5,MAY,201,204,405
+EPBY,Bydgoszcz,Poland,6,JUN,260,266,526
+EPBY,Bydgoszcz,Poland,7,JUL,299,302,601
+EPBY,Bydgoszcz,Poland,8,AUG,284,278,562
+EPBY,Bydgoszcz,Poland,9,SEP,237,239,476
+EPBY,Bydgoszcz,Poland,10,OCT,236,238,474
+EPBY,Bydgoszcz,Poland,11,NOV,182,183,365
+EPBY,Bydgoszcz,Poland,12,DEC,169,168,337
+EPGD,Gdansk,Poland,1,JAN,1856,1862,3718
+EPGD,Gdansk,Poland,2,FEB,1656,1655,3311
+EPGD,Gdansk,Poland,3,MAR,1838,1848,3686
+EPGD,Gdansk,Poland,4,APR,2260,2262,4522
+EPGD,Gdansk,Poland,5,MAY,2370,2363,4733
+EPGD,Gdansk,Poland,6,JUN,2570,2573,5143
+EPGD,Gdansk,Poland,7,JUL,2736,2738,5474
+EPGD,Gdansk,Poland,8,AUG,2727,2734,5461
+EPGD,Gdansk,Poland,9,SEP,2619,2608,5227
+EPGD,Gdansk,Poland,10,OCT,2535,2543,5078
+EPGD,Gdansk,Poland,11,NOV,1938,1942,3880
+EPGD,Gdansk,Poland,12,DEC,2045,2036,4081
+EPKK,Krakow - Balice,Poland,1,JAN,3200,3204,6404
+EPKK,Krakow - Balice,Poland,2,FEB,2872,2870,5742
+EPKK,Krakow - Balice,Poland,3,MAR,3381,3385,6766
+EPKK,Krakow - Balice,Poland,4,APR,3710,3708,7418
+EPKK,Krakow - Balice,Poland,5,MAY,3853,3857,7710
+EPKK,Krakow - Balice,Poland,6,JUN,3914,3912,7826
+EPKK,Krakow - Balice,Poland,7,JUL,4130,4133,8263
+EPKK,Krakow - Balice,Poland,8,AUG,4202,4205,8407
+EPKK,Krakow - Balice,Poland,9,SEP,4034,4039,8073
+EPKK,Krakow - Balice,Poland,10,OCT,4122,4130,8252
+EPKK,Krakow - Balice,Poland,11,NOV,3620,3618,7238
+EPKK,Krakow - Balice,Poland,12,DEC,3721,3721,7442
+EPKT,Katowice - Pyrzowice,Poland,1,JAN,1451,1443,2894
+EPKT,Katowice - Pyrzowice,Poland,2,FEB,1235,1239,2474
+EPKT,Katowice - Pyrzowice,Poland,3,MAR,1390,1396,2786
+EPKT,Katowice - Pyrzowice,Poland,4,APR,1648,1648,3296
+EPKT,Katowice - Pyrzowice,Poland,5,MAY,2245,2244,4489
+EPKT,Katowice - Pyrzowice,Poland,6,JUN,2782,2794,5576
+EPKT,Katowice - Pyrzowice,Poland,7,JUL,3000,2995,5995
+EPKT,Katowice - Pyrzowice,Poland,8,AUG,2974,2978,5952
+EPKT,Katowice - Pyrzowice,Poland,9,SEP,2861,2862,5723
+EPKT,Katowice - Pyrzowice,Poland,10,OCT,2283,2291,4574
+EPKT,Katowice - Pyrzowice,Poland,11,NOV,1549,1541,3090
+EPKT,Katowice - Pyrzowice,Poland,12,DEC,1629,1634,3263
+EPLB,Lublin,Poland,1,JAN,132,132,264
+EPLB,Lublin,Poland,2,FEB,106,108,214
+EPLB,Lublin,Poland,3,MAR,133,132,265
+EPLB,Lublin,Poland,4,APR,182,179,361
+EPLB,Lublin,Poland,5,MAY,186,184,370
+EPLB,Lublin,Poland,6,JUN,259,251,510
+EPLB,Lublin,Poland,7,JUL,275,271,546
+EPLB,Lublin,Poland,8,AUG,276,276,552
+EPLB,Lublin,Poland,9,SEP,263,260,523
+EPLB,Lublin,Poland,10,OCT,230,232,462
+EPLB,Lublin,Poland,11,NOV,188,187,375
+EPLB,Lublin,Poland,12,DEC,145,144,289
+EPLL,Lodz - Lublinek,Poland,1,JAN,183,184,367
+EPLL,Lodz - Lublinek,Poland,2,FEB,182,183,365
+EPLL,Lodz - Lublinek,Poland,3,MAR,176,176,352
+EPLL,Lodz - Lublinek,Poland,4,APR,171,169,340
+EPLL,Lodz - Lublinek,Poland,5,MAY,217,225,442
+EPLL,Lodz - Lublinek,Poland,6,JUN,261,266,527
+EPLL,Lodz - Lublinek,Poland,7,JUL,293,293,586
+EPLL,Lodz - Lublinek,Poland,8,AUG,283,282,565
+EPLL,Lodz - Lublinek,Poland,9,SEP,294,296,590
+EPLL,Lodz - Lublinek,Poland,10,OCT,276,278,554
+EPLL,Lodz - Lublinek,Poland,11,NOV,207,205,412
+EPLL,Lodz - Lublinek,Poland,12,DEC,191,188,379
+EPMO,Warszawa - Modlin,Poland,1,JAN,717,718,1435
+EPMO,Warszawa - Modlin,Poland,2,FEB,350,354,704
+EPMO,Warszawa - Modlin,Poland,3,MAR,405,400,805
+EPMO,Warszawa - Modlin,Poland,4,APR,470,466,936
+EPMO,Warszawa - Modlin,Poland,5,MAY,490,491,981
+EPMO,Warszawa - Modlin,Poland,6,JUN,499,497,996
+EPMO,Warszawa - Modlin,Poland,7,JUL,492,497,989
+EPMO,Warszawa - Modlin,Poland,8,AUG,560,564,1124
+EPMO,Warszawa - Modlin,Poland,9,SEP,573,575,1148
+EPMO,Warszawa - Modlin,Poland,10,OCT,513,508,1021
+EPMO,Warszawa - Modlin,Poland,11,NOV,495,497,992
+EPMO,Warszawa - Modlin,Poland,12,DEC,714,728,1442
+EPPO,Poznan - Lawica,Poland,1,JAN,997,996,1993
+EPPO,Poznan - Lawica,Poland,2,FEB,918,921,1839
+EPPO,Poznan - Lawica,Poland,3,MAR,1055,1057,2112
+EPPO,Poznan - Lawica,Poland,4,APR,1420,1414,2834
+EPPO,Poznan - Lawica,Poland,5,MAY,1618,1612,3230
+EPPO,Poznan - Lawica,Poland,6,JUN,1789,1792,3581
+EPPO,Poznan - Lawica,Poland,7,JUL,1832,1835,3667
+EPPO,Poznan - Lawica,Poland,8,AUG,1881,1883,3764
+EPPO,Poznan - Lawica,Poland,9,SEP,1769,1770,3539
+EPPO,Poznan - Lawica,Poland,10,OCT,1577,1573,3150
+EPPO,Poznan - Lawica,Poland,11,NOV,1092,1086,2178
+EPPO,Poznan - Lawica,Poland,12,DEC,1111,1112,2223
+EPRA,Radom,Poland,1,JAN,15,15,30
+EPRA,Radom,Poland,2,FEB,30,29,59
+EPRA,Radom,Poland,3,MAR,34,36,70
+EPRA,Radom,Poland,4,APR,21,21,42
+EPRA,Radom,Poland,5,MAY,29,30,59
+EPRA,Radom,Poland,6,JUN,64,62,126
+EPRA,Radom,Poland,7,JUL,69,67,136
+EPRA,Radom,Poland,8,AUG,64,82,146
+EPRA,Radom,Poland,9,SEP,70,54,124
+EPRA,Radom,Poland,10,OCT,31,31,62
+EPRA,Radom,Poland,11,NOV,25,26,51
+EPRA,Radom,Poland,12,DEC,23,21,44
+EPRZ,Rzeszow - Jasionka,Poland,1,JAN,516,518,1034
+EPRZ,Rzeszow - Jasionka,Poland,2,FEB,528,527,1055
+EPRZ,Rzeszow - Jasionka,Poland,3,MAR,568,568,1136
+EPRZ,Rzeszow - Jasionka,Poland,4,APR,657,664,1321
+EPRZ,Rzeszow - Jasionka,Poland,5,MAY,750,752,1502
+EPRZ,Rzeszow - Jasionka,Poland,6,JUN,707,712,1419
+EPRZ,Rzeszow - Jasionka,Poland,7,JUL,731,728,1459
+EPRZ,Rzeszow - Jasionka,Poland,8,AUG,702,705,1407
+EPRZ,Rzeszow - Jasionka,Poland,9,SEP,741,748,1489
+EPRZ,Rzeszow - Jasionka,Poland,10,OCT,617,619,1236
+EPRZ,Rzeszow - Jasionka,Poland,11,NOV,529,533,1062
+EPRZ,Rzeszow - Jasionka,Poland,12,DEC,558,556,1114
+EPSC,Szczecin - Goleniów,Poland,1,JAN,177,181,358
+EPSC,Szczecin - Goleniów,Poland,2,FEB,157,155,312
+EPSC,Szczecin - Goleniów,Poland,3,MAR,200,202,402
+EPSC,Szczecin - Goleniów,Poland,4,APR,263,262,525
+EPSC,Szczecin - Goleniów,Poland,5,MAY,271,272,543
+EPSC,Szczecin - Goleniów,Poland,6,JUN,251,255,506
+EPSC,Szczecin - Goleniów,Poland,7,JUL,294,294,588
+EPSC,Szczecin - Goleniów,Poland,8,AUG,300,295,595
+EPSC,Szczecin - Goleniów,Poland,9,SEP,261,265,526
+EPSC,Szczecin - Goleniów,Poland,10,OCT,260,261,521
+EPSC,Szczecin - Goleniów,Poland,11,NOV,189,186,375
+EPSC,Szczecin - Goleniów,Poland,12,DEC,197,197,394
+EPSY,Olsztyn-Mazury,Poland,1,JAN,53,58,111
+EPSY,Olsztyn-Mazury,Poland,2,FEB,40,40,80
+EPSY,Olsztyn-Mazury,Poland,3,MAR,41,46,87
+EPSY,Olsztyn-Mazury,Poland,4,APR,63,61,124
+EPSY,Olsztyn-Mazury,Poland,5,MAY,52,52,104
+EPSY,Olsztyn-Mazury,Poland,6,JUN,66,66,132
+EPSY,Olsztyn-Mazury,Poland,7,JUL,58,61,119
+EPSY,Olsztyn-Mazury,Poland,8,AUG,63,60,123
+EPSY,Olsztyn-Mazury,Poland,9,SEP,52,53,105
+EPSY,Olsztyn-Mazury,Poland,10,OCT,57,53,110
+EPSY,Olsztyn-Mazury,Poland,11,NOV,44,45,89
+EPSY,Olsztyn-Mazury,Poland,12,DEC,49,49,98
+EPWA,Warszawa - Chopina,Poland,1,JAN,7688,7694,15382
+EPWA,Warszawa - Chopina,Poland,2,FEB,6693,6676,13369
+EPWA,Warszawa - Chopina,Poland,3,MAR,7598,7592,15190
+EPWA,Warszawa - Chopina,Poland,4,APR,8115,8103,16218
+EPWA,Warszawa - Chopina,Poland,5,MAY,8807,8801,17608
+EPWA,Warszawa - Chopina,Poland,6,JUN,9128,9113,18241
+EPWA,Warszawa - Chopina,Poland,7,JUL,9467,9456,18923
+EPWA,Warszawa - Chopina,Poland,8,AUG,9533,9538,19071
+EPWA,Warszawa - Chopina,Poland,9,SEP,9176,9184,18360
+EPWA,Warszawa - Chopina,Poland,10,OCT,8909,8912,17821
+EPWA,Warszawa - Chopina,Poland,11,NOV,7469,7459,14928
+EPWA,Warszawa - Chopina,Poland,12,DEC,7889,7900,15789
+EPWR,Wroclaw - Strachowice,Poland,1,JAN,1338,1344,2682
+EPWR,Wroclaw - Strachowice,Poland,2,FEB,1161,1162,2323
+EPWR,Wroclaw - Strachowice,Poland,3,MAR,1328,1331,2659
+EPWR,Wroclaw - Strachowice,Poland,4,APR,1666,1669,3335
+EPWR,Wroclaw - Strachowice,Poland,5,MAY,1889,1891,3780
+EPWR,Wroclaw - Strachowice,Poland,6,JUN,2025,2031,4056
+EPWR,Wroclaw - Strachowice,Poland,7,JUL,2102,2099,4201
+EPWR,Wroclaw - Strachowice,Poland,8,AUG,2161,2160,4321
+EPWR,Wroclaw - Strachowice,Poland,9,SEP,2105,2111,4216
+EPWR,Wroclaw - Strachowice,Poland,10,OCT,1624,1604,3228
+EPWR,Wroclaw - Strachowice,Poland,11,NOV,0,2,2
+EPWR,Wroclaw - Strachowice,Poland,12,DEC,1300,1315,2615
+EPZG,Zielona Gora - Babimost,Poland,1,JAN,30,31,61
+EPZG,Zielona Gora - Babimost,Poland,2,FEB,46,46,92
+EPZG,Zielona Gora - Babimost,Poland,3,MAR,43,45,88
+EPZG,Zielona Gora - Babimost,Poland,4,APR,47,48,95
+EPZG,Zielona Gora - Babimost,Poland,5,MAY,50,47,97
+EPZG,Zielona Gora - Babimost,Poland,6,JUN,51,49,100
+EPZG,Zielona Gora - Babimost,Poland,7,JUL,71,69,140
+EPZG,Zielona Gora - Babimost,Poland,8,AUG,60,59,119
+EPZG,Zielona Gora - Babimost,Poland,9,SEP,54,52,106
+EPZG,Zielona Gora - Babimost,Poland,10,OCT,57,54,111
+EPZG,Zielona Gora - Babimost,Poland,11,NOV,39,40,79
+EPZG,Zielona Gora - Babimost,Poland,12,DEC,42,42,84
+ESGG,Göteborg,Sweden,1,JAN,1642,1647,3289
+ESGG,Göteborg,Sweden,2,FEB,1754,1757,3511
+ESGG,Göteborg,Sweden,3,MAR,1983,1978,3961
+ESGG,Göteborg,Sweden,4,APR,2020,2019,4039
+ESGG,Göteborg,Sweden,5,MAY,2188,2192,4380
+ESGG,Göteborg,Sweden,6,JUN,2325,2325,4650
+ESGG,Göteborg,Sweden,7,JUL,2428,2429,4857
+ESGG,Göteborg,Sweden,8,AUG,2386,2385,4771
+ESGG,Göteborg,Sweden,9,SEP,2324,2319,4643
+ESGG,Göteborg,Sweden,10,OCT,2238,2241,4479
+ESGG,Göteborg,Sweden,11,NOV,1801,1802,3603
+ESGG,Göteborg,Sweden,12,DEC,1805,1803,3608
+ESSA,Stockholm - Arlanda,Sweden,1,JAN,6987,6977,13964
+ESSA,Stockholm - Arlanda,Sweden,2,FEB,6790,6801,13591
+ESSA,Stockholm - Arlanda,Sweden,3,MAR,8173,8153,16326
+ESSA,Stockholm - Arlanda,Sweden,4,APR,8522,8544,17066
+ESSA,Stockholm - Arlanda,Sweden,5,MAY,9176,9171,18347
+ESSA,Stockholm - Arlanda,Sweden,6,JUN,9407,9405,18812
+ESSA,Stockholm - Arlanda,Sweden,7,JUL,8740,8741,17481
+ESSA,Stockholm - Arlanda,Sweden,8,AUG,9397,9382,18779
+ESSA,Stockholm - Arlanda,Sweden,9,SEP,9399,9401,18800
+ESSA,Stockholm - Arlanda,Sweden,10,OCT,9287,9291,18578
+ESSA,Stockholm - Arlanda,Sweden,11,NOV,7818,7818,15636
+ESSA,Stockholm - Arlanda,Sweden,12,DEC,7535,7562,15097
+ESSB,Stockholm - Bromma,Sweden,1,JAN,377,386,763
+ESSB,Stockholm - Bromma,Sweden,2,FEB,268,265,533
+ESSB,Stockholm - Bromma,Sweden,3,MAR,368,375,743
+ESSB,Stockholm - Bromma,Sweden,4,APR,337,342,679
+ESSB,Stockholm - Bromma,Sweden,5,MAY,433,433,866
+ESSB,Stockholm - Bromma,Sweden,6,JUN,527,541,1068
+ESSB,Stockholm - Bromma,Sweden,7,JUL,317,314,631
+ESSB,Stockholm - Bromma,Sweden,8,AUG,411,414,825
+ESSB,Stockholm - Bromma,Sweden,9,SEP,461,458,919
+ESSB,Stockholm - Bromma,Sweden,10,OCT,450,455,905
+ESSB,Stockholm - Bromma,Sweden,11,NOV,487,483,970
+ESSB,Stockholm - Bromma,Sweden,12,DEC,426,429,855
+EVLA,Liepaja,Latvia,1,JAN,0,0,0
+EVLA,Liepaja,Latvia,2,FEB,18,18,36
+EVLA,Liepaja,Latvia,3,MAR,36,37,73
+EVLA,Liepaja,Latvia,4,APR,44,44,88
+EVLA,Liepaja,Latvia,5,MAY,55,56,111
+EVLA,Liepaja,Latvia,6,JUN,46,47,93
+EVLA,Liepaja,Latvia,7,JUL,52,55,107
+EVLA,Liepaja,Latvia,8,AUG,50,49,99
+EVLA,Liepaja,Latvia,9,SEP,24,24,48
+EVLA,Liepaja,Latvia,10,OCT,23,23,46
+EVLA,Liepaja,Latvia,11,NOV,38,37,75
+EVLA,Liepaja,Latvia,12,DEC,24,24,48
+EVRA,Riga,Latvia,1,JAN,2176,2174,4350
+EVRA,Riga,Latvia,2,FEB,2038,2041,4079
+EVRA,Riga,Latvia,3,MAR,2595,2590,5185
+EVRA,Riga,Latvia,4,APR,2582,2589,5171
+EVRA,Riga,Latvia,5,MAY,2821,2811,5632
+EVRA,Riga,Latvia,6,JUN,2774,2776,5550
+EVRA,Riga,Latvia,7,JUL,2919,2909,5828
+EVRA,Riga,Latvia,8,AUG,2882,2885,5767
+EVRA,Riga,Latvia,9,SEP,2842,2841,5683
+EVRA,Riga,Latvia,10,OCT,2833,2842,5675
+EVRA,Riga,Latvia,11,NOV,2388,2400,4788
+EVRA,Riga,Latvia,12,DEC,2487,2488,4975
+EVVA,Ventspils,Latvia,3,MAR,1,1,2
+EVVA,Ventspils,Latvia,5,MAY,1,1,2
+EVVA,Ventspils,Latvia,6,JUN,3,4,7
+EVVA,Ventspils,Latvia,7,JUL,1,3,4
+EVVA,Ventspils,Latvia,8,AUG,1,2,3
+EVVA,Ventspils,Latvia,9,SEP,0,1,1
+EVVA,Ventspils,Latvia,10,OCT,2,1,3
+EVVA,Ventspils,Latvia,11,NOV,1,1,2
+EVVA,Ventspils,Latvia,12,DEC,1,1,2
+EYKA,Kaunas,Lithuania,1,JAN,439,439,878
+EYKA,Kaunas,Lithuania,2,FEB,429,430,859
+EYKA,Kaunas,Lithuania,3,MAR,496,492,988
+EYKA,Kaunas,Lithuania,4,APR,501,503,1004
+EYKA,Kaunas,Lithuania,5,MAY,521,523,1044
+EYKA,Kaunas,Lithuania,6,JUN,503,506,1009
+EYKA,Kaunas,Lithuania,7,JUL,522,523,1045
+EYKA,Kaunas,Lithuania,8,AUG,529,532,1061
+EYKA,Kaunas,Lithuania,9,SEP,528,532,1060
+EYKA,Kaunas,Lithuania,10,OCT,578,588,1166
+EYKA,Kaunas,Lithuania,11,NOV,438,444,882
+EYKA,Kaunas,Lithuania,12,DEC,474,466,940
+EYPA,Palanga,Lithuania,1,JAN,171,172,343
+EYPA,Palanga,Lithuania,2,FEB,153,154,307
+EYPA,Palanga,Lithuania,3,MAR,181,181,362
+EYPA,Palanga,Lithuania,4,APR,187,187,374
+EYPA,Palanga,Lithuania,5,MAY,205,207,412
+EYPA,Palanga,Lithuania,6,JUN,210,209,419
+EYPA,Palanga,Lithuania,7,JUL,209,213,422
+EYPA,Palanga,Lithuania,8,AUG,202,201,403
+EYPA,Palanga,Lithuania,9,SEP,213,213,426
+EYPA,Palanga,Lithuania,10,OCT,218,219,437
+EYPA,Palanga,Lithuania,11,NOV,189,187,376
+EYPA,Palanga,Lithuania,12,DEC,177,176,353
+EYSA,Siauliai,Lithuania,1,JAN,109,116,225
+EYSA,Siauliai,Lithuania,2,FEB,143,143,286
+EYSA,Siauliai,Lithuania,3,MAR,152,152,304
+EYSA,Siauliai,Lithuania,4,APR,132,131,263
+EYSA,Siauliai,Lithuania,5,MAY,155,159,314
+EYSA,Siauliai,Lithuania,6,JUN,171,169,340
+EYSA,Siauliai,Lithuania,7,JUL,157,164,321
+EYSA,Siauliai,Lithuania,8,AUG,197,194,391
+EYSA,Siauliai,Lithuania,9,SEP,232,229,461
+EYSA,Siauliai,Lithuania,10,OCT,154,155,309
+EYSA,Siauliai,Lithuania,11,NOV,153,159,312
+EYSA,Siauliai,Lithuania,12,DEC,108,107,215
+EYVI,Vilnius,Lithuania,1,JAN,1493,1495,2988
+EYVI,Vilnius,Lithuania,2,FEB,1336,1330,2666
+EYVI,Vilnius,Lithuania,3,MAR,1585,1592,3177
+EYVI,Vilnius,Lithuania,4,APR,1804,1804,3608
+EYVI,Vilnius,Lithuania,5,MAY,1959,1956,3915
+EYVI,Vilnius,Lithuania,6,JUN,1875,1872,3747
+EYVI,Vilnius,Lithuania,7,JUL,1820,1823,3643
+EYVI,Vilnius,Lithuania,8,AUG,1889,1894,3783
+EYVI,Vilnius,Lithuania,9,SEP,1942,1947,3889
+EYVI,Vilnius,Lithuania,10,OCT,1983,1979,3962
+EYVI,Vilnius,Lithuania,11,NOV,1603,1601,3204
+EYVI,Vilnius,Lithuania,12,DEC,1604,1609,3213
+GCFV,Fuerteventura,Spain,1,JAN,2139,2136,4275
+GCFV,Fuerteventura,Spain,2,FEB,2084,2088,4172
+GCFV,Fuerteventura,Spain,3,MAR,2506,2507,5013
+GCFV,Fuerteventura,Spain,4,APR,2257,2258,4515
+GCFV,Fuerteventura,Spain,5,MAY,2124,2129,4253
+GCFV,Fuerteventura,Spain,6,JUN,2093,2095,4188
+GCFV,Fuerteventura,Spain,7,JUL,2359,2361,4720
+GCFV,Fuerteventura,Spain,8,AUG,2379,2384,4763
+GCFV,Fuerteventura,Spain,9,SEP,2241,2243,4484
+GCFV,Fuerteventura,Spain,10,OCT,2253,2258,4511
+GCFV,Fuerteventura,Spain,11,NOV,2331,2336,4667
+GCFV,Fuerteventura,Spain,12,DEC,2332,2331,4663
+GCGM,La Gomera,Spain,1,JAN,115,114,229
+GCGM,La Gomera,Spain,2,FEB,114,113,227
+GCGM,La Gomera,Spain,3,MAR,120,121,241
+GCGM,La Gomera,Spain,4,APR,117,119,236
+GCGM,La Gomera,Spain,5,MAY,124,124,248
+GCGM,La Gomera,Spain,6,JUN,120,120,240
+GCGM,La Gomera,Spain,7,JUL,124,124,248
+GCGM,La Gomera,Spain,8,AUG,126,125,251
+GCGM,La Gomera,Spain,9,SEP,122,120,242
+GCGM,La Gomera,Spain,10,OCT,126,125,251
+GCGM,La Gomera,Spain,11,NOV,120,120,240
+GCGM,La Gomera,Spain,12,DEC,117,117,234
+GCHI,Hierro,Spain,1,JAN,203,204,407
+GCHI,Hierro,Spain,2,FEB,211,211,422
+GCHI,Hierro,Spain,3,MAR,235,233,468
+GCHI,Hierro,Spain,4,APR,240,239,479
+GCHI,Hierro,Spain,5,MAY,235,235,470
+GCHI,Hierro,Spain,6,JUN,235,235,470
+GCHI,Hierro,Spain,7,JUL,298,298,596
+GCHI,Hierro,Spain,8,AUG,312,313,625
+GCHI,Hierro,Spain,9,SEP,267,267,534
+GCHI,Hierro,Spain,10,OCT,241,240,481
+GCHI,Hierro,Spain,11,NOV,231,232,463
+GCHI,Hierro,Spain,12,DEC,234,232,466
+GCLA,La Palma,Spain,1,JAN,931,935,1866
+GCLA,La Palma,Spain,2,FEB,833,837,1670
+GCLA,La Palma,Spain,3,MAR,1065,1073,2138
+GCLA,La Palma,Spain,4,APR,934,937,1871
+GCLA,La Palma,Spain,5,MAY,909,911,1820
+GCLA,La Palma,Spain,6,JUN,888,889,1777
+GCLA,La Palma,Spain,7,JUL,1072,1075,2147
+GCLA,La Palma,Spain,8,AUG,1052,1055,2107
+GCLA,La Palma,Spain,9,SEP,981,984,1965
+GCLA,La Palma,Spain,10,OCT,927,931,1858
+GCLA,La Palma,Spain,11,NOV,1026,1028,2054
+GCLA,La Palma,Spain,12,DEC,1033,1041,2074
+GCLP,Gran Canaria,Spain,1,JAN,6114,6106,12220
+GCLP,Gran Canaria,Spain,2,FEB,5700,5690,11390
+GCLP,Gran Canaria,Spain,3,MAR,6662,6647,13309
+GCLP,Gran Canaria,Spain,4,APR,6009,5999,12008
+GCLP,Gran Canaria,Spain,5,MAY,5477,5481,10958
+GCLP,Gran Canaria,Spain,6,JUN,5405,5396,10801
+GCLP,Gran Canaria,Spain,7,JUL,5678,5673,11351
+GCLP,Gran Canaria,Spain,8,AUG,5622,5618,11240
+GCLP,Gran Canaria,Spain,9,SEP,5402,5390,10792
+GCLP,Gran Canaria,Spain,10,OCT,5999,5997,11996
+GCLP,Gran Canaria,Spain,11,NOV,6295,6292,12587
+GCLP,Gran Canaria,Spain,12,DEC,6510,6503,13013
+GCRR,Lanzarote,Spain,1,JAN,2925,2923,5848
+GCRR,Lanzarote,Spain,2,FEB,2764,2761,5525
+GCRR,Lanzarote,Spain,3,MAR,3240,3239,6479
+GCRR,Lanzarote,Spain,4,APR,2956,2955,5911
+GCRR,Lanzarote,Spain,5,MAY,2855,2857,5712
+GCRR,Lanzarote,Spain,6,JUN,2815,2818,5633
+GCRR,Lanzarote,Spain,7,JUL,3123,3125,6248
+GCRR,Lanzarote,Spain,8,AUG,3232,3229,6461
+GCRR,Lanzarote,Spain,9,SEP,2915,2915,5830
+GCRR,Lanzarote,Spain,10,OCT,3033,3037,6070
+GCRR,Lanzarote,Spain,11,NOV,3061,3067,6128
+GCRR,Lanzarote,Spain,12,DEC,3132,3132,6264
+GCTS,Tenerife Sur - Reina Sofia,Spain,1,JAN,4089,4080,8169
+GCTS,Tenerife Sur - Reina Sofia,Spain,2,FEB,3948,3952,7900
+GCTS,Tenerife Sur - Reina Sofia,Spain,3,MAR,4464,4464,8928
+GCTS,Tenerife Sur - Reina Sofia,Spain,4,APR,3699,3701,7400
+GCTS,Tenerife Sur - Reina Sofia,Spain,5,MAY,3223,3219,6442
+GCTS,Tenerife Sur - Reina Sofia,Spain,6,JUN,3105,3115,6220
+GCTS,Tenerife Sur - Reina Sofia,Spain,7,JUL,3357,3371,6728
+GCTS,Tenerife Sur - Reina Sofia,Spain,8,AUG,3308,3312,6620
+GCTS,Tenerife Sur - Reina Sofia,Spain,9,SEP,3150,3158,6308
+GCTS,Tenerife Sur - Reina Sofia,Spain,10,OCT,3609,3623,7232
+GCTS,Tenerife Sur - Reina Sofia,Spain,11,NOV,4080,4084,8164
+GCTS,Tenerife Sur - Reina Sofia,Spain,12,DEC,4211,4215,8426
+GCXO,Tenerife North,Spain,1,JAN,3154,3158,6312
+GCXO,Tenerife North,Spain,2,FEB,2899,2900,5799
+GCXO,Tenerife North,Spain,3,MAR,3423,3427,6850
+GCXO,Tenerife North,Spain,4,APR,3315,3317,6632
+GCXO,Tenerife North,Spain,5,MAY,3436,3437,6873
+GCXO,Tenerife North,Spain,6,JUN,3381,3391,6772
+GCXO,Tenerife North,Spain,7,JUL,3622,3625,7247
+GCXO,Tenerife North,Spain,8,AUG,3595,3595,7190
+GCXO,Tenerife North,Spain,9,SEP,3519,3524,7043
+GCXO,Tenerife North,Spain,10,OCT,3504,3510,7014
+GCXO,Tenerife North,Spain,11,NOV,3352,3362,6714
+GCXO,Tenerife North,Spain,12,DEC,3449,3450,6899
+GEML,Melilla,Spain,1,JAN,416,418,834
+GEML,Melilla,Spain,2,FEB,411,412,823
+GEML,Melilla,Spain,3,MAR,463,462,925
+GEML,Melilla,Spain,4,APR,449,449,898
+GEML,Melilla,Spain,5,MAY,494,496,990
+GEML,Melilla,Spain,6,JUN,466,467,933
+GEML,Melilla,Spain,7,JUL,487,488,975
+GEML,Melilla,Spain,8,AUG,506,505,1011
+GEML,Melilla,Spain,9,SEP,485,484,969
+GEML,Melilla,Spain,10,OCT,520,519,1039
+GEML,Melilla,Spain,11,NOV,475,474,949
+GEML,Melilla,Spain,12,DEC,449,450,899
+GMAD,Al Massira,Morocco,1,JAN,1150,1135,2285
+GMAD,Al Massira,Morocco,2,FEB,997,996,1993
+GMAD,Al Massira,Morocco,3,MAR,1133,1142,2275
+GMAD,Al Massira,Morocco,4,APR,1010,1005,2015
+GMAD,Al Massira,Morocco,5,MAY,973,972,1945
+GMAD,Al Massira,Morocco,6,JUN,921,918,1839
+GMAD,Al Massira,Morocco,7,JUL,983,979,1962
+GMAD,Al Massira,Morocco,8,AUG,1012,1012,2024
+GMAD,Al Massira,Morocco,9,SEP,968,965,1933
+GMAD,Al Massira,Morocco,10,OCT,1070,1078,2148
+GMAD,Al Massira,Morocco,11,NOV,1159,1166,2325
+GMAD,Al Massira,Morocco,12,DEC,1208,1205,2413
+GMFF,Saïss,Morocco,1,JAN,547,543,1090
+GMFF,Saïss,Morocco,2,FEB,526,529,1055
+GMFF,Saïss,Morocco,3,MAR,583,581,1164
+GMFF,Saïss,Morocco,4,APR,624,622,1246
+GMFF,Saïss,Morocco,5,MAY,597,592,1189
+GMFF,Saïss,Morocco,6,JUN,591,594,1185
+GMFF,Saïss,Morocco,7,JUL,636,636,1272
+GMFF,Saïss,Morocco,8,AUG,625,623,1248
+GMFF,Saïss,Morocco,9,SEP,585,579,1164
+GMFF,Saïss,Morocco,10,OCT,628,624,1252
+GMFF,Saïss,Morocco,11,NOV,546,551,1097
+GMFF,Saïss,Morocco,12,DEC,566,566,1132
+GMME,Rabat-Salé,Morocco,1,JAN,989,988,1977
+GMME,Rabat-Salé,Morocco,2,FEB,763,766,1529
+GMME,Rabat-Salé,Morocco,3,MAR,728,732,1460
+GMME,Rabat-Salé,Morocco,4,APR,814,822,1636
+GMME,Rabat-Salé,Morocco,5,MAY,848,851,1699
+GMME,Rabat-Salé,Morocco,6,JUN,921,912,1833
+GMME,Rabat-Salé,Morocco,7,JUL,942,938,1880
+GMME,Rabat-Salé,Morocco,8,AUG,892,913,1805
+GMME,Rabat-Salé,Morocco,9,SEP,803,810,1613
+GMME,Rabat-Salé,Morocco,10,OCT,911,927,1838
+GMME,Rabat-Salé,Morocco,11,NOV,888,901,1789
+GMME,Rabat-Salé,Morocco,12,DEC,932,937,1869
+GMMN,Mohammed V International,Morocco,1,JAN,4319,4313,8632
+GMMN,Mohammed V International,Morocco,2,FEB,3208,3211,6419
+GMMN,Mohammed V International,Morocco,3,MAR,3171,3182,6353
+GMMN,Mohammed V International,Morocco,4,APR,3798,3788,7586
+GMMN,Mohammed V International,Morocco,5,MAY,3850,3832,7682
+GMMN,Mohammed V International,Morocco,6,JUN,3842,3847,7689
+GMMN,Mohammed V International,Morocco,7,JUL,4373,4369,8742
+GMMN,Mohammed V International,Morocco,8,AUG,4489,4486,8975
+GMMN,Mohammed V International,Morocco,9,SEP,4000,4006,8006
+GMMN,Mohammed V International,Morocco,10,OCT,4052,4026,8078
+GMMN,Mohammed V International,Morocco,11,NOV,3703,3707,7410
+GMMN,Mohammed V International,Morocco,12,DEC,4330,4322,8652
+GMMX,Menara,Morocco,1,JAN,3254,3242,6496
+GMMX,Menara,Morocco,2,FEB,2796,2796,5592
+GMMX,Menara,Morocco,3,MAR,3195,3183,6378
+GMMX,Menara,Morocco,4,APR,3180,3184,6364
+GMMX,Menara,Morocco,5,MAY,3060,3061,6121
+GMMX,Menara,Morocco,6,JUN,2741,2734,5475
+GMMX,Menara,Morocco,7,JUL,2463,2465,4928
+GMMX,Menara,Morocco,8,AUG,2510,2502,5012
+GMMX,Menara,Morocco,9,SEP,2830,2832,5662
+GMMX,Menara,Morocco,10,OCT,3356,3385,6741
+GMMX,Menara,Morocco,11,NOV,3481,3469,6950
+GMMX,Menara,Morocco,12,DEC,3503,3528,7031
+GMTT,Ibn Batouta,Morocco,1,JAN,883,884,1767
+GMTT,Ibn Batouta,Morocco,2,FEB,731,734,1465
+GMTT,Ibn Batouta,Morocco,3,MAR,791,790,1581
+GMTT,Ibn Batouta,Morocco,4,APR,921,923,1844
+GMTT,Ibn Batouta,Morocco,5,MAY,955,952,1907
+GMTT,Ibn Batouta,Morocco,6,JUN,951,948,1899
+GMTT,Ibn Batouta,Morocco,7,JUL,1151,1150,2301
+GMTT,Ibn Batouta,Morocco,8,AUG,1177,1167,2344
+GMTT,Ibn Batouta,Morocco,9,SEP,966,965,1931
+GMTT,Ibn Batouta,Morocco,10,OCT,921,928,1849
+GMTT,Ibn Batouta,Morocco,11,NOV,812,815,1627
+GMTT,Ibn Batouta,Morocco,12,DEC,907,902,1809
+LATI,Tirana,Albania,1,JAN,2161,2164,4325
+LATI,Tirana,Albania,2,FEB,1962,1965,3927
+LATI,Tirana,Albania,3,MAR,2355,2357,4712
+LATI,Tirana,Albania,4,APR,2721,2721,5442
+LATI,Tirana,Albania,5,MAY,3080,3083,6163
+LATI,Tirana,Albania,6,JUN,3418,3426,6844
+LATI,Tirana,Albania,7,JUL,3859,3858,7717
+LATI,Tirana,Albania,8,AUG,4067,4066,8133
+LATI,Tirana,Albania,9,SEP,3528,3523,7051
+LATI,Tirana,Albania,10,OCT,3084,3082,6166
+LATI,Tirana,Albania,11,NOV,2260,2254,4514
+LATI,Tirana,Albania,12,DEC,2362,2360,4722
+LBSF,Sofia,Bulgaria,1,JAN,2609,2618,5227
+LBSF,Sofia,Bulgaria,2,FEB,2342,2341,4683
+LBSF,Sofia,Bulgaria,3,MAR,2748,2746,5494
+LBSF,Sofia,Bulgaria,4,APR,2878,2877,5755
+LBSF,Sofia,Bulgaria,5,MAY,2940,2927,5867
+LBSF,Sofia,Bulgaria,6,JUN,2874,2863,5737
+LBSF,Sofia,Bulgaria,7,JUL,2946,2957,5903
+LBSF,Sofia,Bulgaria,8,AUG,3024,3027,6051
+LBSF,Sofia,Bulgaria,9,SEP,3019,3033,6052
+LBSF,Sofia,Bulgaria,10,OCT,3034,3033,6067
+LBSF,Sofia,Bulgaria,11,NOV,2519,2522,5041
+LBSF,Sofia,Bulgaria,12,DEC,2737,2719,5456
+LCLK,Larnaca,Cyprus,1,JAN,2145,2138,4283
+LCLK,Larnaca,Cyprus,2,FEB,1826,1825,3651
+LCLK,Larnaca,Cyprus,3,MAR,2197,2198,4395
+LCLK,Larnaca,Cyprus,4,APR,3179,3175,6354
+LCLK,Larnaca,Cyprus,5,MAY,3552,3549,7101
+LCLK,Larnaca,Cyprus,6,JUN,3983,3995,7978
+LCLK,Larnaca,Cyprus,7,JUL,4221,4221,8442
+LCLK,Larnaca,Cyprus,8,AUG,4413,4422,8835
+LCLK,Larnaca,Cyprus,9,SEP,3957,3952,7909
+LCLK,Larnaca,Cyprus,10,OCT,3811,3820,7631
+LCLK,Larnaca,Cyprus,11,NOV,2597,2593,5190
+LCLK,Larnaca,Cyprus,12,DEC,2439,2445,4884
+LCPH,Paphos,Cyprus,1,JAN,672,672,1344
+LCPH,Paphos,Cyprus,2,FEB,522,519,1041
+LCPH,Paphos,Cyprus,3,MAR,712,711,1423
+LCPH,Paphos,Cyprus,4,APR,1158,1156,2314
+LCPH,Paphos,Cyprus,5,MAY,1163,1163,2326
+LCPH,Paphos,Cyprus,6,JUN,1216,1217,2433
+LCPH,Paphos,Cyprus,7,JUL,1455,1454,2909
+LCPH,Paphos,Cyprus,8,AUG,1558,1556,3114
+LCPH,Paphos,Cyprus,9,SEP,1425,1427,2852
+LCPH,Paphos,Cyprus,10,OCT,1405,1408,2813
+LCPH,Paphos,Cyprus,11,NOV,915,912,1827
+LCPH,Paphos,Cyprus,12,DEC,755,749,1504
+LDZA,Zagreb,Croatia,1,JAN,1790,1798,3588
+LDZA,Zagreb,Croatia,2,FEB,1640,1637,3277
+LDZA,Zagreb,Croatia,3,MAR,1927,1932,3859
+LDZA,Zagreb,Croatia,4,APR,2267,2265,4532
+LDZA,Zagreb,Croatia,5,MAY,2285,2282,4567
+LDZA,Zagreb,Croatia,6,JUN,2290,2297,4587
+LDZA,Zagreb,Croatia,7,JUL,2478,2476,4954
+LDZA,Zagreb,Croatia,8,AUG,2406,2405,4811
+LDZA,Zagreb,Croatia,9,SEP,2394,2403,4797
+LDZA,Zagreb,Croatia,10,OCT,2397,2398,4795
+LDZA,Zagreb,Croatia,11,NOV,1902,1925,3827
+LDZA,Zagreb,Croatia,12,DEC,1887,1901,3788
+LDZL,Lučko,Croatia,2,FEB,0,1,1
+LDZL,Lučko,Croatia,4,APR,4,5,9
+LDZL,Lučko,Croatia,5,MAY,7,7,14
+LDZL,Lučko,Croatia,6,JUN,16,11,27
+LDZL,Lučko,Croatia,7,JUL,15,13,28
+LDZL,Lučko,Croatia,8,AUG,33,27,60
+LDZL,Lučko,Croatia,9,SEP,22,24,46
+LDZL,Lučko,Croatia,10,OCT,21,19,40
+LDZL,Lučko,Croatia,11,NOV,2,2,4
+LDZL,Lučko,Croatia,12,DEC,1,1,2
+LEAB,Albacete,Spain,1,JAN,39,65,104
+LEAB,Albacete,Spain,2,FEB,57,50,107
+LEAB,Albacete,Spain,3,MAR,24,28,52
+LEAB,Albacete,Spain,4,APR,25,25,50
+LEAB,Albacete,Spain,5,MAY,46,49,95
+LEAB,Albacete,Spain,6,JUN,27,32,59
+LEAB,Albacete,Spain,7,JUL,25,35,60
+LEAB,Albacete,Spain,8,AUG,17,21,38
+LEAB,Albacete,Spain,9,SEP,31,52,83
+LEAB,Albacete,Spain,10,OCT,56,48,104
+LEAB,Albacete,Spain,11,NOV,63,62,125
+LEAB,Albacete,Spain,12,DEC,34,35,69
+LEAL,Alicante,Spain,1,JAN,3755,3750,7505
+LEAL,Alicante,Spain,2,FEB,3782,3782,7564
+LEAL,Alicante,Spain,3,MAR,4692,4700,9392
+LEAL,Alicante,Spain,4,APR,5441,5440,10881
+LEAL,Alicante,Spain,5,MAY,5820,5831,11651
+LEAL,Alicante,Spain,6,JUN,5858,5855,11713
+LEAL,Alicante,Spain,7,JUL,6389,6391,12780
+LEAL,Alicante,Spain,8,AUG,6298,6290,12588
+LEAL,Alicante,Spain,9,SEP,5832,5835,11667
+LEAL,Alicante,Spain,10,OCT,5957,5956,11913
+LEAL,Alicante,Spain,11,NOV,4732,4732,9464
+LEAL,Alicante,Spain,12,DEC,4573,4575,9148
+LEAM,Almeria,Spain,1,JAN,253,255,508
+LEAM,Almeria,Spain,2,FEB,299,299,598
+LEAM,Almeria,Spain,3,MAR,326,329,655
+LEAM,Almeria,Spain,4,APR,374,378,752
+LEAM,Almeria,Spain,5,MAY,425,425,850
+LEAM,Almeria,Spain,6,JUN,451,455,906
+LEAM,Almeria,Spain,7,JUL,488,490,978
+LEAM,Almeria,Spain,8,AUG,425,431,856
+LEAM,Almeria,Spain,9,SEP,455,459,914
+LEAM,Almeria,Spain,10,OCT,398,406,804
+LEAM,Almeria,Spain,11,NOV,335,332,667
+LEAM,Almeria,Spain,12,DEC,300,304,604
+LEAS,Asturias,Spain,1,JAN,553,550,1103
+LEAS,Asturias,Spain,2,FEB,502,501,1003
+LEAS,Asturias,Spain,3,MAR,585,585,1170
+LEAS,Asturias,Spain,4,APR,607,606,1213
+LEAS,Asturias,Spain,5,MAY,672,673,1345
+LEAS,Asturias,Spain,6,JUN,706,707,1413
+LEAS,Asturias,Spain,7,JUL,738,741,1479
+LEAS,Asturias,Spain,8,AUG,733,730,1463
+LEAS,Asturias,Spain,9,SEP,705,705,1410
+LEAS,Asturias,Spain,10,OCT,709,708,1417
+LEAS,Asturias,Spain,11,NOV,572,571,1143
+LEAS,Asturias,Spain,12,DEC,608,608,1216
+LEBA,Cordoba,Spain,1,JAN,26,26,52
+LEBA,Cordoba,Spain,2,FEB,24,24,48
+LEBA,Cordoba,Spain,3,MAR,5,4,9
+LEBA,Cordoba,Spain,4,APR,32,30,62
+LEBA,Cordoba,Spain,5,MAY,25,27,52
+LEBA,Cordoba,Spain,6,JUN,27,24,51
+LEBA,Cordoba,Spain,7,JUL,32,32,64
+LEBA,Cordoba,Spain,8,AUG,37,36,73
+LEBA,Cordoba,Spain,9,SEP,37,37,74
+LEBA,Cordoba,Spain,10,OCT,33,34,67
+LEBA,Cordoba,Spain,11,NOV,39,36,75
+LEBA,Cordoba,Spain,12,DEC,28,28,56
+LEBB,Bilbao,Spain,1,JAN,1518,1519,3037
+LEBB,Bilbao,Spain,2,FEB,1642,1646,3288
+LEBB,Bilbao,Spain,3,MAR,1995,1994,3989
+LEBB,Bilbao,Spain,4,APR,2212,2214,4426
+LEBB,Bilbao,Spain,5,MAY,2585,2587,5172
+LEBB,Bilbao,Spain,6,JUN,2461,2456,4917
+LEBB,Bilbao,Spain,7,JUL,2343,2341,4684
+LEBB,Bilbao,Spain,8,AUG,2238,2236,4474
+LEBB,Bilbao,Spain,9,SEP,2392,2396,4788
+LEBB,Bilbao,Spain,10,OCT,2413,2408,4821
+LEBB,Bilbao,Spain,11,NOV,1871,1875,3746
+LEBB,Bilbao,Spain,12,DEC,1902,1892,3794
+LEBG,Burgos,Spain,1,JAN,32,27,59
+LEBG,Burgos,Spain,2,FEB,58,40,98
+LEBG,Burgos,Spain,3,MAR,64,42,106
+LEBG,Burgos,Spain,4,APR,77,61,138
+LEBG,Burgos,Spain,5,MAY,80,66,146
+LEBG,Burgos,Spain,6,JUN,48,33,81
+LEBG,Burgos,Spain,7,JUL,76,55,131
+LEBG,Burgos,Spain,8,AUG,90,58,148
+LEBG,Burgos,Spain,9,SEP,96,73,169
+LEBG,Burgos,Spain,10,OCT,87,59,146
+LEBG,Burgos,Spain,11,NOV,47,24,71
+LEBG,Burgos,Spain,12,DEC,46,31,77
+LEBL,Barcelona,Spain,1,JAN,12264,12268,24532
+LEBL,Barcelona,Spain,2,FEB,12205,12213,24418
+LEBL,Barcelona,Spain,3,MAR,14202,14212,28414
+LEBL,Barcelona,Spain,4,APR,15420,15420,30840
+LEBL,Barcelona,Spain,5,MAY,16559,16580,33139
+LEBL,Barcelona,Spain,6,JUN,16356,16349,32705
+LEBL,Barcelona,Spain,7,JUL,16834,16828,33662
+LEBL,Barcelona,Spain,8,AUG,16651,16647,33298
+LEBL,Barcelona,Spain,9,SEP,16202,16210,32412
+LEBL,Barcelona,Spain,10,OCT,16400,16407,32807
+LEBL,Barcelona,Spain,11,NOV,13381,13379,26760
+LEBL,Barcelona,Spain,12,DEC,13890,13895,27785
+LEBZ,Badajoz,Spain,1,JAN,129,135,264
+LEBZ,Badajoz,Spain,2,FEB,153,158,311
+LEBZ,Badajoz,Spain,3,MAR,116,123,239
+LEBZ,Badajoz,Spain,4,APR,133,142,275
+LEBZ,Badajoz,Spain,5,MAY,124,134,258
+LEBZ,Badajoz,Spain,6,JUN,129,134,263
+LEBZ,Badajoz,Spain,7,JUL,132,141,273
+LEBZ,Badajoz,Spain,8,AUG,126,131,257
+LEBZ,Badajoz,Spain,9,SEP,145,144,289
+LEBZ,Badajoz,Spain,10,OCT,159,160,319
+LEBZ,Badajoz,Spain,11,NOV,150,159,309
+LEBZ,Badajoz,Spain,12,DEC,132,140,272
+LECO,La Coruna,Spain,1,JAN,387,387,774
+LECO,La Coruna,Spain,2,FEB,398,398,796
+LECO,La Coruna,Spain,3,MAR,430,432,862
+LECO,La Coruna,Spain,4,APR,410,410,820
+LECO,La Coruna,Spain,5,MAY,460,459,919
+LECO,La Coruna,Spain,6,JUN,440,442,882
+LECO,La Coruna,Spain,7,JUL,497,495,992
+LECO,La Coruna,Spain,8,AUG,434,434,868
+LECO,La Coruna,Spain,9,SEP,455,456,911
+LECO,La Coruna,Spain,10,OCT,490,487,977
+LECO,La Coruna,Spain,11,NOV,408,409,817
+LECO,La Coruna,Spain,12,DEC,407,407,814
+LECU,Madrid - Cuatro Viento,Spain,1,JAN,79,60,139
+LECU,Madrid - Cuatro Viento,Spain,2,FEB,197,153,350
+LECU,Madrid - Cuatro Viento,Spain,3,MAR,117,98,215
+LECU,Madrid - Cuatro Viento,Spain,4,APR,163,123,286
+LECU,Madrid - Cuatro Viento,Spain,5,MAY,240,177,417
+LECU,Madrid - Cuatro Viento,Spain,6,JUN,233,179,412
+LECU,Madrid - Cuatro Viento,Spain,7,JUL,264,186,450
+LECU,Madrid - Cuatro Viento,Spain,8,AUG,250,192,442
+LECU,Madrid - Cuatro Viento,Spain,9,SEP,261,208,469
+LECU,Madrid - Cuatro Viento,Spain,10,OCT,239,207,446
+LECU,Madrid - Cuatro Viento,Spain,11,NOV,188,153,341
+LECU,Madrid - Cuatro Viento,Spain,12,DEC,120,102,222
+LEDA,Lleida - Alguaire,Spain,1,JAN,111,116,227
+LEDA,Lleida - Alguaire,Spain,2,FEB,81,89,170
+LEDA,Lleida - Alguaire,Spain,3,MAR,68,74,142
+LEDA,Lleida - Alguaire,Spain,4,APR,117,126,243
+LEDA,Lleida - Alguaire,Spain,5,MAY,175,196,371
+LEDA,Lleida - Alguaire,Spain,6,JUN,220,231,451
+LEDA,Lleida - Alguaire,Spain,7,JUL,273,277,550
+LEDA,Lleida - Alguaire,Spain,8,AUG,203,211,414
+LEDA,Lleida - Alguaire,Spain,9,SEP,194,208,402
+LEDA,Lleida - Alguaire,Spain,10,OCT,196,206,402
+LEDA,Lleida - Alguaire,Spain,11,NOV,151,153,304
+LEDA,Lleida - Alguaire,Spain,12,DEC,111,112,223
+LEGE,Gerona,Spain,1,JAN,291,331,622
+LEGE,Gerona,Spain,2,FEB,247,301,548
+LEGE,Gerona,Spain,3,MAR,354,400,754
+LEGE,Gerona,Spain,4,APR,844,915,1759
+LEGE,Gerona,Spain,5,MAY,989,1049,2038
+LEGE,Gerona,Spain,6,JUN,1152,1206,2358
+LEGE,Gerona,Spain,7,JUL,1251,1296,2547
+LEGE,Gerona,Spain,8,AUG,1314,1332,2646
+LEGE,Gerona,Spain,9,SEP,1125,1150,2275
+LEGE,Gerona,Spain,10,OCT,930,1003,1933
+LEGE,Gerona,Spain,11,NOV,292,344,636
+LEGE,Gerona,Spain,12,DEC,364,403,767
+LEGR,Granada,Spain,1,JAN,415,417,832
+LEGR,Granada,Spain,2,FEB,449,451,900
+LEGR,Granada,Spain,3,MAR,489,490,979
+LEGR,Granada,Spain,4,APR,444,448,892
+LEGR,Granada,Spain,5,MAY,466,470,936
+LEGR,Granada,Spain,6,JUN,459,476,935
+LEGR,Granada,Spain,7,JUL,431,442,873
+LEGR,Granada,Spain,8,AUG,372,379,751
+LEGR,Granada,Spain,9,SEP,385,383,768
+LEGR,Granada,Spain,10,OCT,439,441,880
+LEGR,Granada,Spain,11,NOV,429,428,857
+LEGR,Granada,Spain,12,DEC,449,446,895
+LEGT,Madrid - Getafe,Spain,1,JAN,47,42,89
+LEGT,Madrid - Getafe,Spain,2,FEB,58,57,115
+LEGT,Madrid - Getafe,Spain,3,MAR,63,59,122
+LEGT,Madrid - Getafe,Spain,4,APR,56,52,108
+LEGT,Madrid - Getafe,Spain,5,MAY,60,57,117
+LEGT,Madrid - Getafe,Spain,6,JUN,65,56,121
+LEGT,Madrid - Getafe,Spain,7,JUL,48,49,97
+LEGT,Madrid - Getafe,Spain,8,AUG,40,35,75
+LEGT,Madrid - Getafe,Spain,9,SEP,59,62,121
+LEGT,Madrid - Getafe,Spain,10,OCT,59,51,110
+LEGT,Madrid - Getafe,Spain,11,NOV,56,56,112
+LEGT,Madrid - Getafe,Spain,12,DEC,36,39,75
+LEIB,Ibiza,Spain,1,JAN,1257,1249,2506
+LEIB,Ibiza,Spain,2,FEB,1205,1211,2416
+LEIB,Ibiza,Spain,3,MAR,1524,1522,3046
+LEIB,Ibiza,Spain,4,APR,3034,3053,6087
+LEIB,Ibiza,Spain,5,MAY,4403,4429,8832
+LEIB,Ibiza,Spain,6,JUN,5484,5480,10964
+LEIB,Ibiza,Spain,7,JUL,6466,6483,12949
+LEIB,Ibiza,Spain,8,AUG,6348,6350,12698
+LEIB,Ibiza,Spain,9,SEP,5103,5103,10206
+LEIB,Ibiza,Spain,10,OCT,3844,3835,7679
+LEIB,Ibiza,Spain,11,NOV,1470,1469,2939
+LEIB,Ibiza,Spain,12,DEC,1330,1356,2686
+LEIZ,Abad,Spain,1,JAN,11,14,25
+LEIZ,Abad,Spain,2,FEB,18,12,30
+LEIZ,Abad,Spain,3,MAR,16,16,32
+LEIZ,Abad,Spain,4,APR,2,2,4
+LEIZ,Abad,Spain,5,MAY,2,2,4
+LEIZ,Abad,Spain,6,JUN,5,5,10
+LEIZ,Abad,Spain,7,JUL,2,2,4
+LEIZ,Abad,Spain,8,AUG,3,2,5
+LEIZ,Abad,Spain,9,SEP,15,15,30
+LEIZ,Abad,Spain,10,OCT,22,25,47
+LEIZ,Abad,Spain,11,NOV,38,36,74
+LEIZ,Abad,Spain,12,DEC,2,2,4
+LEJR,Jerez De La Frontera,Spain,1,JAN,524,526,1050
+LEJR,Jerez De La Frontera,Spain,2,FEB,571,570,1141
+LEJR,Jerez De La Frontera,Spain,3,MAR,675,680,1355
+LEJR,Jerez De La Frontera,Spain,4,APR,650,648,1298
+LEJR,Jerez De La Frontera,Spain,5,MAY,685,689,1374
+LEJR,Jerez De La Frontera,Spain,6,JUN,766,766,1532
+LEJR,Jerez De La Frontera,Spain,7,JUL,707,706,1413
+LEJR,Jerez De La Frontera,Spain,8,AUG,867,865,1732
+LEJR,Jerez De La Frontera,Spain,9,SEP,760,758,1518
+LEJR,Jerez De La Frontera,Spain,10,OCT,853,851,1704
+LEJR,Jerez De La Frontera,Spain,11,NOV,666,656,1322
+LEJR,Jerez De La Frontera,Spain,12,DEC,479,481,960
+LELC,Murcia San Javier,Spain,1,JAN,13,13,26
+LELC,Murcia San Javier,Spain,2,FEB,44,45,89
+LELC,Murcia San Javier,Spain,3,MAR,8,10,18
+LELC,Murcia San Javier,Spain,4,APR,5,5,10
+LELC,Murcia San Javier,Spain,5,MAY,6,10,16
+LELC,Murcia San Javier,Spain,6,JUN,35,37,72
+LELC,Murcia San Javier,Spain,7,JUL,9,13,22
+LELC,Murcia San Javier,Spain,8,AUG,1,2,3
+LELC,Murcia San Javier,Spain,9,SEP,6,12,18
+LELC,Murcia San Javier,Spain,10,OCT,9,12,21
+LELC,Murcia San Javier,Spain,11,NOV,14,19,33
+LELC,Murcia San Javier,Spain,12,DEC,7,14,21
+LELL,Sabadell,Spain,1,JAN,148,78,226
+LELL,Sabadell,Spain,2,FEB,122,52,174
+LELL,Sabadell,Spain,3,MAR,121,52,173
+LELL,Sabadell,Spain,4,APR,193,82,275
+LELL,Sabadell,Spain,5,MAY,184,114,298
+LELL,Sabadell,Spain,6,JUN,237,135,372
+LELL,Sabadell,Spain,7,JUL,187,98,285
+LELL,Sabadell,Spain,8,AUG,122,73,195
+LELL,Sabadell,Spain,9,SEP,147,92,239
+LELL,Sabadell,Spain,10,OCT,226,93,319
+LELL,Sabadell,Spain,11,NOV,195,124,319
+LELL,Sabadell,Spain,12,DEC,147,92,239
+LELN,Leon,Spain,1,JAN,45,45,90
+LELN,Leon,Spain,2,FEB,51,54,105
+LELN,Leon,Spain,3,MAR,44,45,89
+LELN,Leon,Spain,4,APR,73,74,147
+LELN,Leon,Spain,5,MAY,88,84,172
+LELN,Leon,Spain,6,JUN,76,77,153
+LELN,Leon,Spain,7,JUL,85,86,171
+LELN,Leon,Spain,8,AUG,100,101,201
+LELN,Leon,Spain,9,SEP,58,59,117
+LELN,Leon,Spain,10,OCT,73,74,147
+LELN,Leon,Spain,11,NOV,43,44,87
+LELN,Leon,Spain,12,DEC,50,50,100
+LEMD,Madrid - Barajas,Spain,1,JAN,17325,17347,34672
+LEMD,Madrid - Barajas,Spain,2,FEB,15760,15753,31513
+LEMD,Madrid - Barajas,Spain,3,MAR,17778,17779,35557
+LEMD,Madrid - Barajas,Spain,4,APR,17564,17574,35138
+LEMD,Madrid - Barajas,Spain,5,MAY,18318,18330,36648
+LEMD,Madrid - Barajas,Spain,6,JUN,18157,18163,36320
+LEMD,Madrid - Barajas,Spain,7,JUL,18965,18958,37923
+LEMD,Madrid - Barajas,Spain,8,AUG,18603,18603,37206
+LEMD,Madrid - Barajas,Spain,9,SEP,18303,18347,36650
+LEMD,Madrid - Barajas,Spain,10,OCT,19063,19054,38117
+LEMD,Madrid - Barajas,Spain,11,NOV,17606,17615,35221
+LEMD,Madrid - Barajas,Spain,12,DEC,18335,18326,36661
+LEMG,Málaga,Spain,1,JAN,5231,5220,10451
+LEMG,Málaga,Spain,2,FEB,5267,5275,10542
+LEMG,Málaga,Spain,3,MAR,6536,6542,13078
+LEMG,Málaga,Spain,4,APR,8053,8072,16125
+LEMG,Málaga,Spain,5,MAY,8760,8767,17527
+LEMG,Málaga,Spain,6,JUN,8835,8812,17647
+LEMG,Málaga,Spain,7,JUL,9667,9687,19354
+LEMG,Málaga,Spain,8,AUG,9458,9437,18895
+LEMG,Málaga,Spain,9,SEP,8628,8623,17251
+LEMG,Málaga,Spain,10,OCT,8506,8505,17011
+LEMG,Málaga,Spain,11,NOV,6159,6161,12320
+LEMG,Málaga,Spain,12,DEC,6130,6146,12276
+LEMH,Mahon,Spain,1,JAN,612,611,1223
+LEMH,Mahon,Spain,2,FEB,652,653,1305
+LEMH,Mahon,Spain,3,MAR,764,764,1528
+LEMH,Mahon,Spain,4,APR,1218,1219,2437
+LEMH,Mahon,Spain,5,MAY,1814,1823,3637
+LEMH,Mahon,Spain,6,JUN,2389,2384,4773
+LEMH,Mahon,Spain,7,JUL,2695,2701,5396
+LEMH,Mahon,Spain,8,AUG,2802,2801,5603
+LEMH,Mahon,Spain,9,SEP,2233,2230,4463
+LEMH,Mahon,Spain,10,OCT,1656,1661,3317
+LEMH,Mahon,Spain,11,NOV,729,732,1461
+LEMH,Mahon,Spain,12,DEC,627,632,1259
+LEMI,Región de Murcia International Airport,Spain,1,JAN,213,214,427
+LEMI,Región de Murcia International Airport,Spain,2,FEB,160,162,322
+LEMI,Región de Murcia International Airport,Spain,3,MAR,182,178,360
+LEMI,Región de Murcia International Airport,Spain,4,APR,343,344,687
+LEMI,Región de Murcia International Airport,Spain,5,MAY,379,381,760
+LEMI,Región de Murcia International Airport,Spain,6,JUN,379,385,764
+LEMI,Región de Murcia International Airport,Spain,7,JUL,442,444,886
+LEMI,Región de Murcia International Airport,Spain,8,AUG,425,426,851
+LEMI,Región de Murcia International Airport,Spain,9,SEP,403,405,808
+LEMI,Región de Murcia International Airport,Spain,10,OCT,369,367,736
+LEMI,Región de Murcia International Airport,Spain,11,NOV,230,232,462
+LEMI,Región de Murcia International Airport,Spain,12,DEC,215,214,429
+LEMO,Seville - Moron,Spain,1,JAN,84,91,175
+LEMO,Seville - Moron,Spain,2,FEB,95,95,190
+LEMO,Seville - Moron,Spain,3,MAR,117,109,226
+LEMO,Seville - Moron,Spain,4,APR,130,125,255
+LEMO,Seville - Moron,Spain,5,MAY,113,117,230
+LEMO,Seville - Moron,Spain,6,JUN,136,153,289
+LEMO,Seville - Moron,Spain,7,JUL,112,82,194
+LEMO,Seville - Moron,Spain,9,SEP,69,70,139
+LEMO,Seville - Moron,Spain,10,OCT,89,82,171
+LEMO,Seville - Moron,Spain,11,NOV,89,87,176
+LEMO,Seville - Moron,Spain,12,DEC,79,81,160
+LEPA,Palma de Mallorca,Spain,1,JAN,4193,4183,8376
+LEPA,Palma de Mallorca,Spain,2,FEB,4548,4554,9102
+LEPA,Palma de Mallorca,Spain,3,MAR,6257,6258,12515
+LEPA,Palma de Mallorca,Spain,4,APR,11197,11222,22419
+LEPA,Palma de Mallorca,Spain,5,MAY,13525,13542,27067
+LEPA,Palma de Mallorca,Spain,6,JUN,14453,14446,28899
+LEPA,Palma de Mallorca,Spain,7,JUL,15677,15680,31357
+LEPA,Palma de Mallorca,Spain,8,AUG,15674,15661,31335
+LEPA,Palma de Mallorca,Spain,9,SEP,14070,14068,28138
+LEPA,Palma de Mallorca,Spain,10,OCT,12822,12825,25647
+LEPA,Palma de Mallorca,Spain,11,NOV,5232,5201,10433
+LEPA,Palma de Mallorca,Spain,12,DEC,4834,4858,9692
+LEPP,Noain Pamplona,Spain,1,JAN,151,148,299
+LEPP,Noain Pamplona,Spain,2,FEB,140,140,280
+LEPP,Noain Pamplona,Spain,3,MAR,147,148,295
+LEPP,Noain Pamplona,Spain,4,APR,180,179,359
+LEPP,Noain Pamplona,Spain,5,MAY,162,164,326
+LEPP,Noain Pamplona,Spain,6,JUN,163,167,330
+LEPP,Noain Pamplona,Spain,7,JUL,179,179,358
+LEPP,Noain Pamplona,Spain,8,AUG,152,159,311
+LEPP,Noain Pamplona,Spain,9,SEP,192,188,380
+LEPP,Noain Pamplona,Spain,10,OCT,191,188,379
+LEPP,Noain Pamplona,Spain,11,NOV,150,148,298
+LEPP,Noain Pamplona,Spain,12,DEC,146,148,294
+LERE,Valencia - Requena,Spain,1,JAN,10,8,18
+LERE,Valencia - Requena,Spain,2,FEB,5,5,10
+LERE,Valencia - Requena,Spain,3,MAR,5,5,10
+LERE,Valencia - Requena,Spain,4,APR,8,7,15
+LERE,Valencia - Requena,Spain,5,MAY,17,17,34
+LERE,Valencia - Requena,Spain,6,JUN,17,12,29
+LERE,Valencia - Requena,Spain,7,JUL,18,12,30
+LERE,Valencia - Requena,Spain,8,AUG,12,13,25
+LERE,Valencia - Requena,Spain,9,SEP,21,19,40
+LERE,Valencia - Requena,Spain,10,OCT,5,5,10
+LERE,Valencia - Requena,Spain,11,NOV,11,7,18
+LERE,Valencia - Requena,Spain,12,DEC,6,7,13
+LERJ,Logrono,Spain,1,JAN,35,36,71
+LERJ,Logrono,Spain,2,FEB,33,35,68
+LERJ,Logrono,Spain,3,MAR,34,35,69
+LERJ,Logrono,Spain,4,APR,54,57,111
+LERJ,Logrono,Spain,5,MAY,43,43,86
+LERJ,Logrono,Spain,6,JUN,48,50,98
+LERJ,Logrono,Spain,7,JUL,49,47,96
+LERJ,Logrono,Spain,8,AUG,34,43,77
+LERJ,Logrono,Spain,9,SEP,60,64,124
+LERJ,Logrono,Spain,10,OCT,50,57,107
+LERJ,Logrono,Spain,11,NOV,36,41,77
+LERJ,Logrono,Spain,12,DEC,24,23,47
+LERL,Ciudad Real Central,Spain,1,JAN,5,5,10
+LERS,Reus,Spain,1,JAN,99,112,211
+LERS,Reus,Spain,2,FEB,136,150,286
+LERS,Reus,Spain,3,MAR,110,130,240
+LERS,Reus,Spain,4,APR,535,552,1087
+LERS,Reus,Spain,5,MAY,706,722,1428
+LERS,Reus,Spain,6,JUN,707,731,1438
+LERS,Reus,Spain,7,JUL,769,800,1569
+LERS,Reus,Spain,8,AUG,724,740,1464
+LERS,Reus,Spain,9,SEP,696,725,1421
+LERS,Reus,Spain,10,OCT,608,641,1249
+LERS,Reus,Spain,11,NOV,134,148,282
+LERS,Reus,Spain,12,DEC,91,116,207
+LERT,Rota,Spain,1,JAN,200,200,400
+LERT,Rota,Spain,2,FEB,218,211,429
+LERT,Rota,Spain,3,MAR,261,260,521
+LERT,Rota,Spain,4,APR,240,239,479
+LERT,Rota,Spain,5,MAY,258,254,512
+LERT,Rota,Spain,6,JUN,243,245,488
+LERT,Rota,Spain,7,JUL,208,210,418
+LERT,Rota,Spain,8,AUG,231,230,461
+LERT,Rota,Spain,9,SEP,174,176,350
+LERT,Rota,Spain,10,OCT,231,229,460
+LERT,Rota,Spain,11,NOV,176,174,350
+LERT,Rota,Spain,12,DEC,202,203,405
+LESA,Salamanca Matalan,Spain,1,JAN,99,105,204
+LESA,Salamanca Matalan,Spain,2,FEB,107,115,222
+LESA,Salamanca Matalan,Spain,3,MAR,136,141,277
+LESA,Salamanca Matalan,Spain,4,APR,77,81,158
+LESA,Salamanca Matalan,Spain,5,MAY,121,125,246
+LESA,Salamanca Matalan,Spain,6,JUN,144,147,291
+LESA,Salamanca Matalan,Spain,7,JUL,152,152,304
+LESA,Salamanca Matalan,Spain,8,AUG,133,134,267
+LESA,Salamanca Matalan,Spain,9,SEP,152,159,311
+LESA,Salamanca Matalan,Spain,10,OCT,140,142,282
+LESA,Salamanca Matalan,Spain,11,NOV,127,129,256
+LESA,Salamanca Matalan,Spain,12,DEC,86,82,168
+LESB,Son Bonet,Spain,1,JAN,35,24,59
+LESB,Son Bonet,Spain,2,FEB,31,28,59
+LESB,Son Bonet,Spain,3,MAR,29,29,58
+LESB,Son Bonet,Spain,4,APR,77,70,147
+LESB,Son Bonet,Spain,5,MAY,65,64,129
+LESB,Son Bonet,Spain,6,JUN,78,46,124
+LESB,Son Bonet,Spain,7,JUL,57,59,116
+LESB,Son Bonet,Spain,8,AUG,57,46,103
+LESB,Son Bonet,Spain,9,SEP,54,45,99
+LESB,Son Bonet,Spain,10,OCT,67,60,127
+LESB,Son Bonet,Spain,11,NOV,46,37,83
+LESB,Son Bonet,Spain,12,DEC,33,28,61
+LESJ,Palma - Son San Juan,Spain,1,JAN,1,0,1
+LESJ,Palma - Son San Juan,Spain,2,FEB,3,3,6
+LESJ,Palma - Son San Juan,Spain,3,MAR,3,5,8
+LESJ,Palma - Son San Juan,Spain,4,APR,3,3,6
+LESJ,Palma - Son San Juan,Spain,5,MAY,10,9,19
+LESJ,Palma - Son San Juan,Spain,6,JUN,2,2,4
+LESJ,Palma - Son San Juan,Spain,7,JUL,1,1,2
+LESJ,Palma - Son San Juan,Spain,8,AUG,1,1,2
+LESJ,Palma - Son San Juan,Spain,9,SEP,0,3,3
+LESJ,Palma - Son San Juan,Spain,10,OCT,3,3,6
+LESJ,Palma - Son San Juan,Spain,11,NOV,8,9,17
+LESJ,Palma - Son San Juan,Spain,12,DEC,0,0,0
+LESO,San Sebastian,Spain,1,JAN,150,148,298
+LESO,San Sebastian,Spain,2,FEB,147,149,296
+LESO,San Sebastian,Spain,3,MAR,199,201,400
+LESO,San Sebastian,Spain,4,APR,213,217,430
+LESO,San Sebastian,Spain,5,MAY,285,281,566
+LESO,San Sebastian,Spain,6,JUN,300,302,602
+LESO,San Sebastian,Spain,7,JUL,274,277,551
+LESO,San Sebastian,Spain,8,AUG,235,238,473
+LESO,San Sebastian,Spain,9,SEP,253,258,511
+LESO,San Sebastian,Spain,10,OCT,268,269,537
+LESO,San Sebastian,Spain,11,NOV,179,178,357
+LESO,San Sebastian,Spain,12,DEC,161,164,325
+LEST,Santiago,Spain,1,JAN,514,508,1022
+LEST,Santiago,Spain,2,FEB,742,739,1481
+LEST,Santiago,Spain,3,MAR,927,929,1856
+LEST,Santiago,Spain,4,APR,1046,1045,2091
+LEST,Santiago,Spain,5,MAY,1116,1127,2243
+LEST,Santiago,Spain,6,JUN,1157,1154,2311
+LEST,Santiago,Spain,7,JUL,1176,1177,2353
+LEST,Santiago,Spain,8,AUG,1115,1115,2230
+LEST,Santiago,Spain,9,SEP,1106,1108,2214
+LEST,Santiago,Spain,10,OCT,1060,1058,2118
+LEST,Santiago,Spain,11,NOV,599,602,1201
+LEST,Santiago,Spain,12,DEC,666,669,1335
+LETO,Madrid - Torrejon,Spain,1,JAN,64,69,133
+LETO,Madrid - Torrejon,Spain,2,FEB,70,74,144
+LETO,Madrid - Torrejon,Spain,3,MAR,73,77,150
+LETO,Madrid - Torrejon,Spain,4,APR,68,67,135
+LETO,Madrid - Torrejon,Spain,5,MAY,89,86,175
+LETO,Madrid - Torrejon,Spain,6,JUN,102,113,215
+LETO,Madrid - Torrejon,Spain,7,JUL,72,72,144
+LETO,Madrid - Torrejon,Spain,8,AUG,58,60,118
+LETO,Madrid - Torrejon,Spain,9,SEP,76,80,156
+LETO,Madrid - Torrejon,Spain,10,OCT,105,115,220
+LETO,Madrid - Torrejon,Spain,11,NOV,77,73,150
+LETO,Madrid - Torrejon,Spain,12,DEC,68,69,137
+LEVC,Valencia,Spain,1,JAN,2943,2938,5881
+LEVC,Valencia,Spain,2,FEB,3013,3015,6028
+LEVC,Valencia,Spain,3,MAR,3669,3662,7331
+LEVC,Valencia,Spain,4,APR,3823,3819,7642
+LEVC,Valencia,Spain,5,MAY,3916,3915,7831
+LEVC,Valencia,Spain,6,JUN,3914,3912,7826
+LEVC,Valencia,Spain,7,JUL,4127,4135,8262
+LEVC,Valencia,Spain,8,AUG,4095,4082,8177
+LEVC,Valencia,Spain,9,SEP,3892,3884,7776
+LEVC,Valencia,Spain,10,OCT,3989,3998,7987
+LEVC,Valencia,Spain,11,NOV,3370,3374,6744
+LEVC,Valencia,Spain,12,DEC,3393,3391,6784
+LEVD,Valladolid,Spain,1,JAN,69,72,141
+LEVD,Valladolid,Spain,2,FEB,77,107,184
+LEVD,Valladolid,Spain,3,MAR,79,103,182
+LEVD,Valladolid,Spain,4,APR,100,124,224
+LEVD,Valladolid,Spain,5,MAY,95,154,249
+LEVD,Valladolid,Spain,6,JUN,68,112,180
+LEVD,Valladolid,Spain,7,JUL,97,166,263
+LEVD,Valladolid,Spain,8,AUG,88,143,231
+LEVD,Valladolid,Spain,9,SEP,96,129,225
+LEVD,Valladolid,Spain,10,OCT,98,134,232
+LEVD,Valladolid,Spain,11,NOV,84,121,205
+LEVD,Valladolid,Spain,12,DEC,76,92,168
+LEVT,Vitoria,Spain,1,JAN,438,440,878
+LEVT,Vitoria,Spain,2,FEB,397,410,807
+LEVT,Vitoria,Spain,3,MAR,425,437,862
+LEVT,Vitoria,Spain,4,APR,484,495,979
+LEVT,Vitoria,Spain,5,MAY,515,526,1041
+LEVT,Vitoria,Spain,6,JUN,433,441,874
+LEVT,Vitoria,Spain,7,JUL,473,486,959
+LEVT,Vitoria,Spain,8,AUG,433,451,884
+LEVT,Vitoria,Spain,9,SEP,487,500,987
+LEVT,Vitoria,Spain,10,OCT,501,514,1015
+LEVT,Vitoria,Spain,11,NOV,428,438,866
+LEVT,Vitoria,Spain,12,DEC,462,468,930
+LEVX,Vigo,Spain,1,JAN,343,345,688
+LEVX,Vigo,Spain,2,FEB,359,358,717
+LEVX,Vigo,Spain,3,MAR,398,398,796
+LEVX,Vigo,Spain,4,APR,374,372,746
+LEVX,Vigo,Spain,5,MAY,423,428,851
+LEVX,Vigo,Spain,6,JUN,410,414,824
+LEVX,Vigo,Spain,7,JUL,464,463,927
+LEVX,Vigo,Spain,8,AUG,492,491,983
+LEVX,Vigo,Spain,9,SEP,414,413,827
+LEVX,Vigo,Spain,10,OCT,407,406,813
+LEVX,Vigo,Spain,11,NOV,413,413,826
+LEVX,Vigo,Spain,12,DEC,413,413,826
+LEXJ,Santander,Spain,1,JAN,288,286,574
+LEXJ,Santander,Spain,2,FEB,308,309,617
+LEXJ,Santander,Spain,3,MAR,332,333,665
+LEXJ,Santander,Spain,4,APR,413,414,827
+LEXJ,Santander,Spain,5,MAY,449,448,897
+LEXJ,Santander,Spain,6,JUN,437,437,874
+LEXJ,Santander,Spain,7,JUL,463,464,927
+LEXJ,Santander,Spain,8,AUG,506,504,1010
+LEXJ,Santander,Spain,9,SEP,452,452,904
+LEXJ,Santander,Spain,10,OCT,425,426,851
+LEXJ,Santander,Spain,11,NOV,284,285,569
+LEXJ,Santander,Spain,12,DEC,306,309,615
+LEZG,Zaragoza,Spain,1,JAN,364,360,724
+LEZG,Zaragoza,Spain,2,FEB,319,314,633
+LEZG,Zaragoza,Spain,3,MAR,360,359,719
+LEZG,Zaragoza,Spain,4,APR,424,422,846
+LEZG,Zaragoza,Spain,5,MAY,434,441,875
+LEZG,Zaragoza,Spain,6,JUN,415,415,830
+LEZG,Zaragoza,Spain,7,JUL,414,408,822
+LEZG,Zaragoza,Spain,8,AUG,391,394,785
+LEZG,Zaragoza,Spain,9,SEP,453,448,901
+LEZG,Zaragoza,Spain,10,OCT,503,512,1015
+LEZG,Zaragoza,Spain,11,NOV,443,442,885
+LEZG,Zaragoza,Spain,12,DEC,422,417,839
+LEZL,Sevilla,Spain,1,JAN,2627,2637,5264
+LEZL,Sevilla,Spain,2,FEB,2534,2545,5079
+LEZL,Sevilla,Spain,3,MAR,3002,3001,6003
+LEZL,Sevilla,Spain,4,APR,2998,2995,5993
+LEZL,Sevilla,Spain,5,MAY,3145,3146,6291
+LEZL,Sevilla,Spain,6,JUN,2744,2738,5482
+LEZL,Sevilla,Spain,7,JUL,2628,2627,5255
+LEZL,Sevilla,Spain,8,AUG,2546,2542,5088
+LEZL,Sevilla,Spain,9,SEP,2839,2845,5684
+LEZL,Sevilla,Spain,10,OCT,3137,3138,6275
+LEZL,Sevilla,Spain,11,NOV,2844,2842,5686
+LEZL,Sevilla,Spain,12,DEC,3011,3006,6017
+LFAQ,Albert-Bray,France,1,JAN,55,55,110
+LFAQ,Albert-Bray,France,2,FEB,72,70,142
+LFAQ,Albert-Bray,France,3,MAR,100,102,202
+LFAQ,Albert-Bray,France,4,APR,77,82,159
+LFAQ,Albert-Bray,France,5,MAY,79,77,156
+LFAQ,Albert-Bray,France,6,JUN,86,93,179
+LFAQ,Albert-Bray,France,7,JUL,91,83,174
+LFAQ,Albert-Bray,France,8,AUG,97,94,191
+LFAQ,Albert-Bray,France,9,SEP,88,94,182
+LFAQ,Albert-Bray,France,10,OCT,59,58,117
+LFAQ,Albert-Bray,France,11,NOV,45,46,91
+LFAQ,Albert-Bray,France,12,DEC,62,62,124
+LFBA,Agen-La Garenne,France,1,JAN,65,79,144
+LFBA,Agen-La Garenne,France,2,FEB,57,69,126
+LFBA,Agen-La Garenne,France,3,MAR,50,55,105
+LFBA,Agen-La Garenne,France,4,APR,77,91,168
+LFBA,Agen-La Garenne,France,5,MAY,47,53,100
+LFBA,Agen-La Garenne,France,6,JUN,72,78,150
+LFBA,Agen-La Garenne,France,7,JUL,74,79,153
+LFBA,Agen-La Garenne,France,8,AUG,42,44,86
+LFBA,Agen-La Garenne,France,9,SEP,48,56,104
+LFBA,Agen-La Garenne,France,10,OCT,71,78,149
+LFBA,Agen-La Garenne,France,11,NOV,49,63,112
+LFBA,Agen-La Garenne,France,12,DEC,52,54,106
+LFBD,Bordeaux-Mérignac,France,1,JAN,1708,1712,3420
+LFBD,Bordeaux-Mérignac,France,2,FEB,1606,1610,3216
+LFBD,Bordeaux-Mérignac,France,3,MAR,2034,2024,4058
+LFBD,Bordeaux-Mérignac,France,4,APR,2165,2169,4334
+LFBD,Bordeaux-Mérignac,France,5,MAY,2317,2320,4637
+LFBD,Bordeaux-Mérignac,France,6,JUN,2435,2424,4859
+LFBD,Bordeaux-Mérignac,France,7,JUL,2472,2467,4939
+LFBD,Bordeaux-Mérignac,France,8,AUG,2389,2378,4767
+LFBD,Bordeaux-Mérignac,France,9,SEP,2343,2344,4687
+LFBD,Bordeaux-Mérignac,France,10,OCT,2459,2450,4909
+LFBD,Bordeaux-Mérignac,France,11,NOV,1971,1961,3932
+LFBD,Bordeaux-Mérignac,France,12,DEC,2090,2085,4175
+LFBE,Bergerac-Roumanière,France,1,JAN,7,9,16
+LFBE,Bergerac-Roumanière,France,2,FEB,68,79,147
+LFBE,Bergerac-Roumanière,France,3,MAR,89,101,190
+LFBE,Bergerac-Roumanière,France,4,APR,145,150,295
+LFBE,Bergerac-Roumanière,France,5,MAY,148,166,314
+LFBE,Bergerac-Roumanière,France,6,JUN,214,231,445
+LFBE,Bergerac-Roumanière,France,7,JUL,228,244,472
+LFBE,Bergerac-Roumanière,France,8,AUG,240,249,489
+LFBE,Bergerac-Roumanière,France,9,SEP,179,190,369
+LFBE,Bergerac-Roumanière,France,10,OCT,131,143,274
+LFBE,Bergerac-Roumanière,France,11,NOV,59,67,126
+LFBE,Bergerac-Roumanière,France,12,DEC,80,86,166
+LFBH,La Rochelle-Ile de Ré,France,1,JAN,108,111,219
+LFBH,La Rochelle-Ile de Ré,France,2,FEB,97,110,207
+LFBH,La Rochelle-Ile de Ré,France,3,MAR,154,155,309
+LFBH,La Rochelle-Ile de Ré,France,4,APR,204,207,411
+LFBH,La Rochelle-Ile de Ré,France,5,MAY,208,224,432
+LFBH,La Rochelle-Ile de Ré,France,6,JUN,276,292,568
+LFBH,La Rochelle-Ile de Ré,France,7,JUL,296,311,607
+LFBH,La Rochelle-Ile de Ré,France,8,AUG,312,317,629
+LFBH,La Rochelle-Ile de Ré,France,9,SEP,238,249,487
+LFBH,La Rochelle-Ile de Ré,France,10,OCT,204,222,426
+LFBH,La Rochelle-Ile de Ré,France,11,NOV,101,111,212
+LFBH,La Rochelle-Ile de Ré,France,12,DEC,101,105,206
+LFBI,Poitiers-Biard,France,1,JAN,114,126,240
+LFBI,Poitiers-Biard,France,2,FEB,123,132,255
+LFBI,Poitiers-Biard,France,3,MAR,116,136,252
+LFBI,Poitiers-Biard,France,4,APR,142,147,289
+LFBI,Poitiers-Biard,France,5,MAY,132,145,277
+LFBI,Poitiers-Biard,France,6,JUN,168,179,347
+LFBI,Poitiers-Biard,France,7,JUL,141,146,287
+LFBI,Poitiers-Biard,France,8,AUG,141,156,297
+LFBI,Poitiers-Biard,France,9,SEP,184,200,384
+LFBI,Poitiers-Biard,France,10,OCT,165,180,345
+LFBI,Poitiers-Biard,France,11,NOV,133,145,278
+LFBI,Poitiers-Biard,France,12,DEC,107,112,219
+LFBL,Limoges-Bellegarde,France,1,JAN,191,197,388
+LFBL,Limoges-Bellegarde,France,2,FEB,230,246,476
+LFBL,Limoges-Bellegarde,France,3,MAR,227,235,462
+LFBL,Limoges-Bellegarde,France,4,APR,284,292,576
+LFBL,Limoges-Bellegarde,France,5,MAY,266,269,535
+LFBL,Limoges-Bellegarde,France,6,JUN,297,307,604
+LFBL,Limoges-Bellegarde,France,7,JUL,290,306,596
+LFBL,Limoges-Bellegarde,France,8,AUG,262,278,540
+LFBL,Limoges-Bellegarde,France,9,SEP,346,361,707
+LFBL,Limoges-Bellegarde,France,10,OCT,286,305,591
+LFBL,Limoges-Bellegarde,France,11,NOV,223,233,456
+LFBL,Limoges-Bellegarde,France,12,DEC,237,243,480
+LFBO,Toulouse-Blagnac,France,1,JAN,2629,2613,5242
+LFBO,Toulouse-Blagnac,France,2,FEB,2635,2619,5254
+LFBO,Toulouse-Blagnac,France,3,MAR,3076,3043,6119
+LFBO,Toulouse-Blagnac,France,4,APR,2990,2965,5955
+LFBO,Toulouse-Blagnac,France,5,MAY,3049,3026,6075
+LFBO,Toulouse-Blagnac,France,6,JUN,3069,3059,6128
+LFBO,Toulouse-Blagnac,France,7,JUL,2748,2720,5468
+LFBO,Toulouse-Blagnac,France,8,AUG,2475,2463,4938
+LFBO,Toulouse-Blagnac,France,9,SEP,3146,3116,6262
+LFBO,Toulouse-Blagnac,France,10,OCT,3227,3208,6435
+LFBO,Toulouse-Blagnac,France,11,NOV,2870,2848,5718
+LFBO,Toulouse-Blagnac,France,12,DEC,2985,2920,5905
+LFBP,Pau-Pyrénées,France,1,JAN,334,321,655
+LFBP,Pau-Pyrénées,France,2,FEB,295,281,576
+LFBP,Pau-Pyrénées,France,3,MAR,350,335,685
+LFBP,Pau-Pyrénées,France,4,APR,311,305,616
+LFBP,Pau-Pyrénées,France,5,MAY,266,258,524
+LFBP,Pau-Pyrénées,France,6,JUN,371,354,725
+LFBP,Pau-Pyrénées,France,7,JUL,314,309,623
+LFBP,Pau-Pyrénées,France,8,AUG,257,248,505
+LFBP,Pau-Pyrénées,France,9,SEP,341,332,673
+LFBP,Pau-Pyrénées,France,10,OCT,333,340,673
+LFBP,Pau-Pyrénées,France,11,NOV,311,312,623
+LFBP,Pau-Pyrénées,France,12,DEC,313,309,622
+LFBT,Tarbes-Lourdes Pyrénées,France,1,JAN,172,188,360
+LFBT,Tarbes-Lourdes Pyrénées,France,2,FEB,168,183,351
+LFBT,Tarbes-Lourdes Pyrénées,France,3,MAR,174,176,350
+LFBT,Tarbes-Lourdes Pyrénées,France,4,APR,294,301,595
+LFBT,Tarbes-Lourdes Pyrénées,France,5,MAY,378,379,757
+LFBT,Tarbes-Lourdes Pyrénées,France,6,JUN,301,306,607
+LFBT,Tarbes-Lourdes Pyrénées,France,7,JUL,339,342,681
+LFBT,Tarbes-Lourdes Pyrénées,France,8,AUG,282,280,562
+LFBT,Tarbes-Lourdes Pyrénées,France,9,SEP,346,348,694
+LFBT,Tarbes-Lourdes Pyrénées,France,10,OCT,330,337,667
+LFBT,Tarbes-Lourdes Pyrénées,France,11,NOV,170,174,344
+LFBT,Tarbes-Lourdes Pyrénées,France,12,DEC,172,190,362
+LFBZ,Biarritz-Bayonne-Anglet,France,1,JAN,307,303,610
+LFBZ,Biarritz-Bayonne-Anglet,France,2,FEB,293,290,583
+LFBZ,Biarritz-Bayonne-Anglet,France,3,MAR,372,383,755
+LFBZ,Biarritz-Bayonne-Anglet,France,4,APR,529,535,1064
+LFBZ,Biarritz-Bayonne-Anglet,France,5,MAY,618,616,1234
+LFBZ,Biarritz-Bayonne-Anglet,France,6,JUN,640,647,1287
+LFBZ,Biarritz-Bayonne-Anglet,France,7,JUL,732,736,1468
+LFBZ,Biarritz-Bayonne-Anglet,France,8,AUG,666,672,1338
+LFBZ,Biarritz-Bayonne-Anglet,France,9,SEP,594,602,1196
+LFBZ,Biarritz-Bayonne-Anglet,France,10,OCT,556,561,1117
+LFBZ,Biarritz-Bayonne-Anglet,France,11,NOV,299,299,598
+LFBZ,Biarritz-Bayonne-Anglet,France,12,DEC,332,338,670
+LFCR,Rodez-Marcillac,France,1,JAN,109,110,219
+LFCR,Rodez-Marcillac,France,2,FEB,108,115,223
+LFCR,Rodez-Marcillac,France,3,MAR,116,122,238
+LFCR,Rodez-Marcillac,France,4,APR,143,155,298
+LFCR,Rodez-Marcillac,France,5,MAY,164,167,331
+LFCR,Rodez-Marcillac,France,6,JUN,222,231,453
+LFCR,Rodez-Marcillac,France,7,JUL,223,229,452
+LFCR,Rodez-Marcillac,France,8,AUG,212,218,430
+LFCR,Rodez-Marcillac,France,9,SEP,200,197,397
+LFCR,Rodez-Marcillac,France,10,OCT,191,192,383
+LFCR,Rodez-Marcillac,France,11,NOV,123,126,249
+LFCR,Rodez-Marcillac,France,12,DEC,121,124,245
+LFGJ,Dôle-Tavaux,France,1,JAN,89,95,184
+LFGJ,Dôle-Tavaux,France,2,FEB,134,139,273
+LFGJ,Dôle-Tavaux,France,3,MAR,146,150,296
+LFGJ,Dôle-Tavaux,France,4,APR,190,201,391
+LFGJ,Dôle-Tavaux,France,5,MAY,110,115,225
+LFGJ,Dôle-Tavaux,France,6,JUN,1,0,1
+LFGJ,Dôle-Tavaux,France,7,JUL,82,81,163
+LFGJ,Dôle-Tavaux,France,8,AUG,128,138,266
+LFGJ,Dôle-Tavaux,France,9,SEP,130,135,265
+LFGJ,Dôle-Tavaux,France,10,OCT,129,130,259
+LFGJ,Dôle-Tavaux,France,11,NOV,129,134,263
+LFGJ,Dôle-Tavaux,France,12,DEC,97,101,198
+LFJL,Metz-Nancy-Lorraine,France,1,JAN,65,66,131
+LFJL,Metz-Nancy-Lorraine,France,2,FEB,71,71,142
+LFJL,Metz-Nancy-Lorraine,France,3,MAR,85,89,174
+LFJL,Metz-Nancy-Lorraine,France,4,APR,93,89,182
+LFJL,Metz-Nancy-Lorraine,France,5,MAY,89,89,178
+LFJL,Metz-Nancy-Lorraine,France,6,JUN,102,101,203
+LFJL,Metz-Nancy-Lorraine,France,7,JUL,95,96,191
+LFJL,Metz-Nancy-Lorraine,France,8,AUG,77,80,157
+LFJL,Metz-Nancy-Lorraine,France,9,SEP,94,94,188
+LFJL,Metz-Nancy-Lorraine,France,10,OCT,101,105,206
+LFJL,Metz-Nancy-Lorraine,France,11,NOV,60,68,128
+LFJL,Metz-Nancy-Lorraine,France,12,DEC,68,69,137
+LFJR,Angers-Marcé,France,1,JAN,67,69,136
+LFJR,Angers-Marcé,France,2,FEB,38,39,77
+LFJR,Angers-Marcé,France,3,MAR,64,69,133
+LFJR,Angers-Marcé,France,4,APR,71,70,141
+LFJR,Angers-Marcé,France,5,MAY,79,82,161
+LFJR,Angers-Marcé,France,6,JUN,99,110,209
+LFJR,Angers-Marcé,France,7,JUL,64,73,137
+LFJR,Angers-Marcé,France,8,AUG,53,55,108
+LFJR,Angers-Marcé,France,9,SEP,69,72,141
+LFJR,Angers-Marcé,France,10,OCT,75,71,146
+LFJR,Angers-Marcé,France,11,NOV,64,74,138
+LFJR,Angers-Marcé,France,12,DEC,63,64,127
+LFKB,Bastia-Poretta,France,1,JAN,484,479,963
+LFKB,Bastia-Poretta,France,2,FEB,424,427,851
+LFKB,Bastia-Poretta,France,3,MAR,461,455,916
+LFKB,Bastia-Poretta,France,4,APR,652,647,1299
+LFKB,Bastia-Poretta,France,5,MAY,783,789,1572
+LFKB,Bastia-Poretta,France,6,JUN,822,818,1640
+LFKB,Bastia-Poretta,France,7,JUL,936,941,1877
+LFKB,Bastia-Poretta,France,8,AUG,1018,1016,2034
+LFKB,Bastia-Poretta,France,9,SEP,824,821,1645
+LFKB,Bastia-Poretta,France,10,OCT,745,743,1488
+LFKB,Bastia-Poretta,France,11,NOV,503,498,1001
+LFKB,Bastia-Poretta,France,12,DEC,508,508,1016
+LFKC,Calvi-Sainte-Catherine,France,1,JAN,156,153,309
+LFKC,Calvi-Sainte-Catherine,France,2,FEB,163,168,331
+LFKC,Calvi-Sainte-Catherine,France,3,MAR,147,147,294
+LFKC,Calvi-Sainte-Catherine,France,4,APR,221,224,445
+LFKC,Calvi-Sainte-Catherine,France,5,MAY,328,334,662
+LFKC,Calvi-Sainte-Catherine,France,6,JUN,448,450,898
+LFKC,Calvi-Sainte-Catherine,France,7,JUL,491,506,997
+LFKC,Calvi-Sainte-Catherine,France,8,AUG,560,555,1115
+LFKC,Calvi-Sainte-Catherine,France,9,SEP,344,354,698
+LFKC,Calvi-Sainte-Catherine,France,10,OCT,257,264,521
+LFKC,Calvi-Sainte-Catherine,France,11,NOV,176,177,353
+LFKC,Calvi-Sainte-Catherine,France,12,DEC,146,150,296
+LFKF,Figari-Sud Corse,France,1,JAN,166,172,338
+LFKF,Figari-Sud Corse,France,2,FEB,170,170,340
+LFKF,Figari-Sud Corse,France,3,MAR,178,182,360
+LFKF,Figari-Sud Corse,France,4,APR,390,390,780
+LFKF,Figari-Sud Corse,France,5,MAY,553,558,1111
+LFKF,Figari-Sud Corse,France,6,JUN,752,744,1496
+LFKF,Figari-Sud Corse,France,7,JUL,1117,1112,2229
+LFKF,Figari-Sud Corse,France,8,AUG,1251,1251,2502
+LFKF,Figari-Sud Corse,France,9,SEP,624,630,1254
+LFKF,Figari-Sud Corse,France,10,OCT,447,451,898
+LFKF,Figari-Sud Corse,France,11,NOV,182,181,363
+LFKF,Figari-Sud Corse,France,12,DEC,167,170,337
+LFKJ,Ajaccio-Napoléon-Bonaparte,France,1,JAN,445,439,884
+LFKJ,Ajaccio-Napoléon-Bonaparte,France,2,FEB,365,369,734
+LFKJ,Ajaccio-Napoléon-Bonaparte,France,3,MAR,438,438,876
+LFKJ,Ajaccio-Napoléon-Bonaparte,France,4,APR,656,664,1320
+LFKJ,Ajaccio-Napoléon-Bonaparte,France,5,MAY,780,791,1571
+LFKJ,Ajaccio-Napoléon-Bonaparte,France,6,JUN,869,866,1735
+LFKJ,Ajaccio-Napoléon-Bonaparte,France,7,JUL,1034,1038,2072
+LFKJ,Ajaccio-Napoléon-Bonaparte,France,8,AUG,1119,1123,2242
+LFKJ,Ajaccio-Napoléon-Bonaparte,France,9,SEP,782,784,1566
+LFKJ,Ajaccio-Napoléon-Bonaparte,France,10,OCT,717,709,1426
+LFKJ,Ajaccio-Napoléon-Bonaparte,France,11,NOV,462,466,928
+LFKJ,Ajaccio-Napoléon-Bonaparte,France,12,DEC,463,463,926
+LFLB,Chambéry-Aix-les-Bains,France,1,JAN,700,711,1411
+LFLB,Chambéry-Aix-les-Bains,France,2,FEB,713,720,1433
+LFLB,Chambéry-Aix-les-Bains,France,3,MAR,773,769,1542
+LFLB,Chambéry-Aix-les-Bains,France,4,APR,343,353,696
+LFLB,Chambéry-Aix-les-Bains,France,5,MAY,113,124,237
+LFLB,Chambéry-Aix-les-Bains,France,6,JUN,131,138,269
+LFLB,Chambéry-Aix-les-Bains,France,7,JUL,189,198,387
+LFLB,Chambéry-Aix-les-Bains,France,8,AUG,123,135,258
+LFLB,Chambéry-Aix-les-Bains,France,9,SEP,87,95,182
+LFLB,Chambéry-Aix-les-Bains,France,10,OCT,114,126,240
+LFLB,Chambéry-Aix-les-Bains,France,11,NOV,92,99,191
+LFLB,Chambéry-Aix-les-Bains,France,12,DEC,531,537,1068
+LFLC,Clermont-Ferrand-Auvergne,France,1,JAN,285,295,580
+LFLC,Clermont-Ferrand-Auvergne,France,2,FEB,307,313,620
+LFLC,Clermont-Ferrand-Auvergne,France,3,MAR,329,341,670
+LFLC,Clermont-Ferrand-Auvergne,France,4,APR,399,396,795
+LFLC,Clermont-Ferrand-Auvergne,France,5,MAY,339,341,680
+LFLC,Clermont-Ferrand-Auvergne,France,6,JUN,391,391,782
+LFLC,Clermont-Ferrand-Auvergne,France,7,JUL,338,329,667
+LFLC,Clermont-Ferrand-Auvergne,France,8,AUG,230,243,473
+LFLC,Clermont-Ferrand-Auvergne,France,9,SEP,363,375,738
+LFLC,Clermont-Ferrand-Auvergne,France,10,OCT,366,355,721
+LFLC,Clermont-Ferrand-Auvergne,France,11,NOV,294,292,586
+LFLC,Clermont-Ferrand-Auvergne,France,12,DEC,278,291,569
+LFLI,Annemasse,France,1,JAN,30,29,59
+LFLI,Annemasse,France,2,FEB,60,60,120
+LFLI,Annemasse,France,3,MAR,63,66,129
+LFLI,Annemasse,France,4,APR,81,78,159
+LFLI,Annemasse,France,5,MAY,99,94,193
+LFLI,Annemasse,France,6,JUN,121,118,239
+LFLI,Annemasse,France,7,JUL,99,98,197
+LFLI,Annemasse,France,8,AUG,86,82,168
+LFLI,Annemasse,France,9,SEP,106,104,210
+LFLI,Annemasse,France,10,OCT,53,48,101
+LFLI,Annemasse,France,11,NOV,39,36,75
+LFLI,Annemasse,France,12,DEC,30,26,56
+LFLL,Lyon-Saint-Exupéry,France,1,JAN,3537,3535,7072
+LFLL,Lyon-Saint-Exupéry,France,2,FEB,3435,3442,6877
+LFLL,Lyon-Saint-Exupéry,France,3,MAR,3907,3901,7808
+LFLL,Lyon-Saint-Exupéry,France,4,APR,3932,3934,7866
+LFLL,Lyon-Saint-Exupéry,France,5,MAY,4064,4065,8129
+LFLL,Lyon-Saint-Exupéry,France,6,JUN,4218,4225,8443
+LFLL,Lyon-Saint-Exupéry,France,7,JUL,4195,4199,8394
+LFLL,Lyon-Saint-Exupéry,France,8,AUG,3836,3835,7671
+LFLL,Lyon-Saint-Exupéry,France,9,SEP,4200,4197,8397
+LFLL,Lyon-Saint-Exupéry,France,10,OCT,4261,4266,8527
+LFLL,Lyon-Saint-Exupéry,France,11,NOV,3406,3408,6814
+LFLL,Lyon-Saint-Exupéry,France,12,DEC,3833,3837,7670
+LFLP,Annecy-Meythet,France,1,JAN,146,144,290
+LFLP,Annecy-Meythet,France,2,FEB,184,190,374
+LFLP,Annecy-Meythet,France,3,MAR,168,169,337
+LFLP,Annecy-Meythet,France,4,APR,138,141,279
+LFLP,Annecy-Meythet,France,5,MAY,128,132,260
+LFLP,Annecy-Meythet,France,6,JUN,134,140,274
+LFLP,Annecy-Meythet,France,7,JUL,121,119,240
+LFLP,Annecy-Meythet,France,8,AUG,152,159,311
+LFLP,Annecy-Meythet,France,9,SEP,119,118,237
+LFLP,Annecy-Meythet,France,10,OCT,107,113,220
+LFLP,Annecy-Meythet,France,11,NOV,110,107,217
+LFLP,Annecy-Meythet,France,12,DEC,123,138,261
+LFLS,Grenoble-Isère,France,1,JAN,538,551,1089
+LFLS,Grenoble-Isère,France,2,FEB,595,608,1203
+LFLS,Grenoble-Isère,France,3,MAR,646,650,1296
+LFLS,Grenoble-Isère,France,4,APR,410,424,834
+LFLS,Grenoble-Isère,France,5,MAY,197,201,398
+LFLS,Grenoble-Isère,France,6,JUN,188,197,385
+LFLS,Grenoble-Isère,France,7,JUL,219,237,456
+LFLS,Grenoble-Isère,France,8,AUG,201,198,399
+LFLS,Grenoble-Isère,France,9,SEP,230,236,466
+LFLS,Grenoble-Isère,France,10,OCT,221,239,460
+LFLS,Grenoble-Isère,France,11,NOV,241,242,483
+LFLS,Grenoble-Isère,France,12,DEC,433,436,869
+LFLX,Châteauroux-Déols,France,1,JAN,69,78,147
+LFLX,Châteauroux-Déols,France,2,FEB,67,69,136
+LFLX,Châteauroux-Déols,France,3,MAR,88,84,172
+LFLX,Châteauroux-Déols,France,4,APR,71,72,143
+LFLX,Châteauroux-Déols,France,5,MAY,89,89,178
+LFLX,Châteauroux-Déols,France,6,JUN,90,91,181
+LFLX,Châteauroux-Déols,France,7,JUL,88,95,183
+LFLX,Châteauroux-Déols,France,8,AUG,60,62,122
+LFLX,Châteauroux-Déols,France,9,SEP,88,92,180
+LFLX,Châteauroux-Déols,France,10,OCT,103,102,205
+LFLX,Châteauroux-Déols,France,11,NOV,73,70,143
+LFLX,Châteauroux-Déols,France,12,DEC,80,76,156
+LFLY,Lyon-Bron,France,1,JAN,291,295,586
+LFLY,Lyon-Bron,France,2,FEB,379,384,763
+LFLY,Lyon-Bron,France,3,MAR,363,363,726
+LFLY,Lyon-Bron,France,4,APR,383,389,772
+LFLY,Lyon-Bron,France,5,MAY,336,339,675
+LFLY,Lyon-Bron,France,6,JUN,384,387,771
+LFLY,Lyon-Bron,France,7,JUL,364,377,741
+LFLY,Lyon-Bron,France,8,AUG,303,308,611
+LFLY,Lyon-Bron,France,9,SEP,393,395,788
+LFLY,Lyon-Bron,France,10,OCT,362,374,736
+LFLY,Lyon-Bron,France,11,NOV,344,339,683
+LFLY,Lyon-Bron,France,12,DEC,297,304,601
+LFMD,Cannes-Mandelieu,France,1,JAN,305,290,595
+LFMD,Cannes-Mandelieu,France,2,FEB,305,294,599
+LFMD,Cannes-Mandelieu,France,3,MAR,429,429,858
+LFMD,Cannes-Mandelieu,France,4,APR,499,506,1005
+LFMD,Cannes-Mandelieu,France,5,MAY,873,888,1761
+LFMD,Cannes-Mandelieu,France,6,JUN,1032,1006,2038
+LFMD,Cannes-Mandelieu,France,7,JUL,1115,1135,2250
+LFMD,Cannes-Mandelieu,France,8,AUG,950,963,1913
+LFMD,Cannes-Mandelieu,France,9,SEP,934,918,1852
+LFMD,Cannes-Mandelieu,France,10,OCT,519,524,1043
+LFMD,Cannes-Mandelieu,France,11,NOV,330,328,658
+LFMD,Cannes-Mandelieu,France,12,DEC,302,321,623
+LFMH,Saint-Etienne-Bouthéon,France,1,JAN,51,52,103
+LFMH,Saint-Etienne-Bouthéon,France,2,FEB,68,77,145
+LFMH,Saint-Etienne-Bouthéon,France,3,MAR,94,91,185
+LFMH,Saint-Etienne-Bouthéon,France,4,APR,139,144,283
+LFMH,Saint-Etienne-Bouthéon,France,5,MAY,94,97,191
+LFMH,Saint-Etienne-Bouthéon,France,6,JUN,81,84,165
+LFMH,Saint-Etienne-Bouthéon,France,7,JUL,86,89,175
+LFMH,Saint-Etienne-Bouthéon,France,8,AUG,101,101,202
+LFMH,Saint-Etienne-Bouthéon,France,9,SEP,85,85,170
+LFMH,Saint-Etienne-Bouthéon,France,10,OCT,73,72,145
+LFMH,Saint-Etienne-Bouthéon,France,11,NOV,74,76,150
+LFMH,Saint-Etienne-Bouthéon,France,12,DEC,63,65,128
+LFMI,Istres-Le Tubé,France,1,JAN,180,175,355
+LFMI,Istres-Le Tubé,France,2,FEB,205,191,396
+LFMI,Istres-Le Tubé,France,3,MAR,189,180,369
+LFMI,Istres-Le Tubé,France,4,APR,197,196,393
+LFMI,Istres-Le Tubé,France,5,MAY,235,219,454
+LFMI,Istres-Le Tubé,France,6,JUN,208,208,416
+LFMI,Istres-Le Tubé,France,7,JUL,170,167,337
+LFMI,Istres-Le Tubé,France,8,AUG,108,112,220
+LFMI,Istres-Le Tubé,France,9,SEP,204,199,403
+LFMI,Istres-Le Tubé,France,10,OCT,247,236,483
+LFMI,Istres-Le Tubé,France,11,NOV,218,224,442
+LFMI,Istres-Le Tubé,France,12,DEC,114,110,224
+LFMK,Carcassonne-Salvaza,France,1,JAN,101,102,203
+LFMK,Carcassonne-Salvaza,France,2,FEB,119,123,242
+LFMK,Carcassonne-Salvaza,France,3,MAR,142,150,292
+LFMK,Carcassonne-Salvaza,France,4,APR,190,201,391
+LFMK,Carcassonne-Salvaza,France,5,MAY,236,250,486
+LFMK,Carcassonne-Salvaza,France,6,JUN,255,261,516
+LFMK,Carcassonne-Salvaza,France,7,JUL,270,286,556
+LFMK,Carcassonne-Salvaza,France,8,AUG,257,265,522
+LFMK,Carcassonne-Salvaza,France,9,SEP,271,289,560
+LFMK,Carcassonne-Salvaza,France,10,OCT,235,247,482
+LFMK,Carcassonne-Salvaza,France,11,NOV,120,129,249
+LFMK,Carcassonne-Salvaza,France,12,DEC,138,136,274
+LFML,Marseille-Provence,France,1,JAN,3187,3193,6380
+LFML,Marseille-Provence,France,2,FEB,3186,3198,6384
+LFML,Marseille-Provence,France,3,MAR,3792,3797,7589
+LFML,Marseille-Provence,France,4,APR,4379,4384,8763
+LFML,Marseille-Provence,France,5,MAY,4673,4682,9355
+LFML,Marseille-Provence,France,6,JUN,4737,4751,9488
+LFML,Marseille-Provence,France,7,JUL,4864,4872,9736
+LFML,Marseille-Provence,France,8,AUG,4812,4815,9627
+LFML,Marseille-Provence,France,9,SEP,4507,4508,9015
+LFML,Marseille-Provence,France,10,OCT,4416,4430,8846
+LFML,Marseille-Provence,France,11,NOV,3384,3388,6772
+LFML,Marseille-Provence,France,12,DEC,3501,3493,6994
+LFMN,Nice-Côte d’Azur,France,1,JAN,4060,4074,8134
+LFMN,Nice-Côte d’Azur,France,2,FEB,4066,4055,8121
+LFMN,Nice-Côte d’Azur,France,3,MAR,5002,5007,10009
+LFMN,Nice-Côte d’Azur,France,4,APR,6167,6167,12334
+LFMN,Nice-Côte d’Azur,France,5,MAY,7780,7807,15587
+LFMN,Nice-Côte d’Azur,France,6,JUN,8154,8165,16319
+LFMN,Nice-Côte d’Azur,France,7,JUL,8991,9001,17992
+LFMN,Nice-Côte d’Azur,France,8,AUG,8704,8691,17395
+LFMN,Nice-Côte d’Azur,France,9,SEP,7652,7617,15269
+LFMN,Nice-Côte d’Azur,France,10,OCT,6469,6463,12932
+LFMN,Nice-Côte d’Azur,France,11,NOV,4375,4396,8771
+LFMN,Nice-Côte d’Azur,France,12,DEC,4669,4643,9312
+LFMP,Perpignan-Rivesaltes,France,1,JAN,395,406,801
+LFMP,Perpignan-Rivesaltes,France,2,FEB,397,392,789
+LFMP,Perpignan-Rivesaltes,France,3,MAR,383,382,765
+LFMP,Perpignan-Rivesaltes,France,4,APR,516,507,1023
+LFMP,Perpignan-Rivesaltes,France,5,MAY,466,475,941
+LFMP,Perpignan-Rivesaltes,France,6,JUN,590,580,1170
+LFMP,Perpignan-Rivesaltes,France,7,JUL,479,480,959
+LFMP,Perpignan-Rivesaltes,France,8,AUG,481,488,969
+LFMP,Perpignan-Rivesaltes,France,9,SEP,503,512,1015
+LFMP,Perpignan-Rivesaltes,France,10,OCT,515,532,1047
+LFMP,Perpignan-Rivesaltes,France,11,NOV,451,457,908
+LFMP,Perpignan-Rivesaltes,France,12,DEC,425,426,851
+LFMT,Montpellier-Méditerranée,France,1,JAN,852,846,1698
+LFMT,Montpellier-Méditerranée,France,2,FEB,919,922,1841
+LFMT,Montpellier-Méditerranée,France,3,MAR,1080,1095,2175
+LFMT,Montpellier-Méditerranée,France,4,APR,1127,1126,2253
+LFMT,Montpellier-Méditerranée,France,5,MAY,1095,1104,2199
+LFMT,Montpellier-Méditerranée,France,6,JUN,1157,1161,2318
+LFMT,Montpellier-Méditerranée,France,7,JUL,1087,1073,2160
+LFMT,Montpellier-Méditerranée,France,8,AUG,972,981,1953
+LFMT,Montpellier-Méditerranée,France,9,SEP,1051,1058,2109
+LFMT,Montpellier-Méditerranée,France,10,OCT,1121,1149,2270
+LFMT,Montpellier-Méditerranée,France,11,NOV,968,971,1939
+LFMT,Montpellier-Méditerranée,France,12,DEC,924,927,1851
+LFMU,Béziers-Vias,France,1,JAN,183,182,365
+LFMU,Béziers-Vias,France,2,FEB,235,234,469
+LFMU,Béziers-Vias,France,3,MAR,207,204,411
+LFMU,Béziers-Vias,France,4,APR,331,346,677
+LFMU,Béziers-Vias,France,5,MAY,324,332,656
+LFMU,Béziers-Vias,France,6,JUN,347,349,696
+LFMU,Béziers-Vias,France,7,JUL,325,336,661
+LFMU,Béziers-Vias,France,8,AUG,335,337,672
+LFMU,Béziers-Vias,France,9,SEP,354,357,711
+LFMU,Béziers-Vias,France,10,OCT,335,347,682
+LFMU,Béziers-Vias,France,11,NOV,244,255,499
+LFMU,Béziers-Vias,France,12,DEC,176,176,352
+LFMV,Avignon-Caumont,France,1,JAN,177,188,365
+LFMV,Avignon-Caumont,France,2,FEB,280,303,583
+LFMV,Avignon-Caumont,France,3,MAR,327,348,675
+LFMV,Avignon-Caumont,France,4,APR,355,369,724
+LFMV,Avignon-Caumont,France,5,MAY,389,418,807
+LFMV,Avignon-Caumont,France,6,JUN,426,431,857
+LFMV,Avignon-Caumont,France,7,JUL,513,530,1043
+LFMV,Avignon-Caumont,France,8,AUG,350,348,698
+LFMV,Avignon-Caumont,France,9,SEP,379,405,784
+LFMV,Avignon-Caumont,France,10,OCT,359,368,727
+LFMV,Avignon-Caumont,France,11,NOV,261,281,542
+LFMV,Avignon-Caumont,France,12,DEC,199,213,412
+LFOB,Beauvais-Tillé,France,1,JAN,1156,1157,2313
+LFOB,Beauvais-Tillé,France,2,FEB,1377,1371,2748
+LFOB,Beauvais-Tillé,France,3,MAR,1665,1662,3327
+LFOB,Beauvais-Tillé,France,4,APR,1890,1895,3785
+LFOB,Beauvais-Tillé,France,5,MAY,1922,1932,3854
+LFOB,Beauvais-Tillé,France,6,JUN,1883,1884,3767
+LFOB,Beauvais-Tillé,France,7,JUL,1916,1918,3834
+LFOB,Beauvais-Tillé,France,8,AUG,1970,1977,3947
+LFOB,Beauvais-Tillé,France,9,SEP,1780,1782,3562
+LFOB,Beauvais-Tillé,France,10,OCT,1801,1804,3605
+LFOB,Beauvais-Tillé,France,11,NOV,1242,1245,2487
+LFOB,Beauvais-Tillé,France,12,DEC,1296,1296,2592
+LFOH,Le Havre-Octeville,France,1,JAN,16,20,36
+LFOH,Le Havre-Octeville,France,2,FEB,46,52,98
+LFOH,Le Havre-Octeville,France,3,MAR,58,58,116
+LFOH,Le Havre-Octeville,France,4,APR,65,69,134
+LFOH,Le Havre-Octeville,France,5,MAY,56,54,110
+LFOH,Le Havre-Octeville,France,6,JUN,66,61,127
+LFOH,Le Havre-Octeville,France,7,JUL,51,50,101
+LFOH,Le Havre-Octeville,France,8,AUG,64,71,135
+LFOH,Le Havre-Octeville,France,9,SEP,46,49,95
+LFOH,Le Havre-Octeville,France,10,OCT,37,34,71
+LFOH,Le Havre-Octeville,France,11,NOV,42,46,88
+LFOH,Le Havre-Octeville,France,12,DEC,44,50,94
+LFOK,Châlons-Vatry,France,1,JAN,109,107,216
+LFOK,Châlons-Vatry,France,2,FEB,79,78,157
+LFOK,Châlons-Vatry,France,3,MAR,114,111,225
+LFOK,Châlons-Vatry,France,4,APR,101,101,202
+LFOK,Châlons-Vatry,France,5,MAY,130,134,264
+LFOK,Châlons-Vatry,France,6,JUN,143,145,288
+LFOK,Châlons-Vatry,France,7,JUL,137,142,279
+LFOK,Châlons-Vatry,France,8,AUG,123,124,247
+LFOK,Châlons-Vatry,France,9,SEP,165,162,327
+LFOK,Châlons-Vatry,France,10,OCT,156,160,316
+LFOK,Châlons-Vatry,France,11,NOV,125,129,254
+LFOK,Châlons-Vatry,France,12,DEC,120,124,244
+LFOP,Rouen,France,1,JAN,95,98,193
+LFOP,Rouen,France,2,FEB,134,134,268
+LFOP,Rouen,France,3,MAR,179,192,371
+LFOP,Rouen,France,4,APR,195,201,396
+LFOP,Rouen,France,5,MAY,201,211,412
+LFOP,Rouen,France,6,JUN,214,225,439
+LFOP,Rouen,France,7,JUL,148,149,297
+LFOP,Rouen,France,8,AUG,103,111,214
+LFOP,Rouen,France,9,SEP,50,51,101
+LFOP,Rouen,France,10,OCT,135,143,278
+LFOP,Rouen,France,11,NOV,140,145,285
+LFOP,Rouen,France,12,DEC,118,119,237
+LFOT,Tours-Val de Loire,France,1,JAN,154,157,311
+LFOT,Tours-Val de Loire,France,2,FEB,127,125,252
+LFOT,Tours-Val de Loire,France,3,MAR,182,186,368
+LFOT,Tours-Val de Loire,France,4,APR,203,206,409
+LFOT,Tours-Val de Loire,France,5,MAY,229,229,458
+LFOT,Tours-Val de Loire,France,6,JUN,249,244,493
+LFOT,Tours-Val de Loire,France,7,JUL,237,238,475
+LFOT,Tours-Val de Loire,France,8,AUG,180,185,365
+LFOT,Tours-Val de Loire,France,9,SEP,243,240,483
+LFOT,Tours-Val de Loire,France,10,OCT,216,217,433
+LFOT,Tours-Val de Loire,France,11,NOV,115,117,232
+LFOT,Tours-Val de Loire,France,12,DEC,157,155,312
+LFPB,Paris - Le Bourget,France,1,JAN,2082,2090,4172
+LFPB,Paris - Le Bourget,France,2,FEB,1985,1989,3974
+LFPB,Paris - Le Bourget,France,3,MAR,2299,2322,4621
+LFPB,Paris - Le Bourget,France,4,APR,2237,2207,4444
+LFPB,Paris - Le Bourget,France,5,MAY,2544,2528,5072
+LFPB,Paris - Le Bourget,France,6,JUN,3334,3352,6686
+LFPB,Paris - Le Bourget,France,7,JUL,2785,2767,5552
+LFPB,Paris - Le Bourget,France,8,AUG,1918,1904,3822
+LFPB,Paris - Le Bourget,France,9,SEP,2580,2605,5185
+LFPB,Paris - Le Bourget,France,10,OCT,2768,2736,5504
+LFPB,Paris - Le Bourget,France,11,NOV,2101,2086,4187
+LFPB,Paris - Le Bourget,France,12,DEC,2035,2040,4075
+LFPG,Paris - Charles-de-Gaulle,France,1,JAN,18160,18139,36299
+LFPG,Paris - Charles-de-Gaulle,France,2,FEB,16816,16824,33640
+LFPG,Paris - Charles-de-Gaulle,France,3,MAR,19364,19355,38719
+LFPG,Paris - Charles-de-Gaulle,France,4,APR,20024,20018,40042
+LFPG,Paris - Charles-de-Gaulle,France,5,MAY,20972,20966,41938
+LFPG,Paris - Charles-de-Gaulle,France,6,JUN,20933,20934,41867
+LFPG,Paris - Charles-de-Gaulle,France,7,JUL,21739,21764,43503
+LFPG,Paris - Charles-de-Gaulle,France,8,AUG,22119,22077,44196
+LFPG,Paris - Charles-de-Gaulle,France,9,SEP,20720,20758,41478
+LFPG,Paris - Charles-de-Gaulle,France,10,OCT,20828,20818,41646
+LFPG,Paris - Charles-de-Gaulle,France,11,NOV,18660,18634,37294
+LFPG,Paris - Charles-de-Gaulle,France,12,DEC,19812,19841,39653
+LFPN,Toussus-le-Noble,France,1,JAN,464,452,916
+LFPN,Toussus-le-Noble,France,2,FEB,413,411,824
+LFPN,Toussus-le-Noble,France,3,MAR,568,556,1124
+LFPN,Toussus-le-Noble,France,4,APR,575,566,1141
+LFPN,Toussus-le-Noble,France,5,MAY,632,603,1235
+LFPN,Toussus-le-Noble,France,6,JUN,672,692,1364
+LFPN,Toussus-le-Noble,France,7,JUL,528,511,1039
+LFPN,Toussus-le-Noble,France,8,AUG,379,391,770
+LFPN,Toussus-le-Noble,France,9,SEP,554,563,1117
+LFPN,Toussus-le-Noble,France,10,OCT,615,603,1218
+LFPN,Toussus-le-Noble,France,11,NOV,449,446,895
+LFPN,Toussus-le-Noble,France,12,DEC,419,412,831
+LFPO,Paris - Orly,France,1,JAN,7968,7965,15933
+LFPO,Paris - Orly,France,2,FEB,7213,7232,14445
+LFPO,Paris - Orly,France,3,MAR,8005,7979,15984
+LFPO,Paris - Orly,France,4,APR,9777,9773,19550
+LFPO,Paris - Orly,France,5,MAY,9908,9906,19814
+LFPO,Paris - Orly,France,6,JUN,9984,9988,19972
+LFPO,Paris - Orly,France,7,JUL,10329,10317,20646
+LFPO,Paris - Orly,France,8,AUG,10469,10474,20943
+LFPO,Paris - Orly,France,9,SEP,10078,10086,20164
+LFPO,Paris - Orly,France,10,OCT,9985,10005,19990
+LFPO,Paris - Orly,France,11,NOV,8014,8014,16028
+LFPO,Paris - Orly,France,12,DEC,8563,8567,17130
+LFQQ,Lille-Lesquin,France,1,JAN,399,401,800
+LFQQ,Lille-Lesquin,France,2,FEB,497,507,1004
+LFQQ,Lille-Lesquin,France,3,MAR,517,514,1031
+LFQQ,Lille-Lesquin,France,4,APR,694,689,1383
+LFQQ,Lille-Lesquin,France,5,MAY,732,732,1464
+LFQQ,Lille-Lesquin,France,6,JUN,697,698,1395
+LFQQ,Lille-Lesquin,France,7,JUL,687,691,1378
+LFQQ,Lille-Lesquin,France,8,AUG,712,714,1426
+LFQQ,Lille-Lesquin,France,9,SEP,706,715,1421
+LFQQ,Lille-Lesquin,France,10,OCT,670,682,1352
+LFQQ,Lille-Lesquin,France,11,NOV,468,469,937
+LFQQ,Lille-Lesquin,France,12,DEC,515,499,1014
+LFRB,Brest-Bretagne,France,1,JAN,417,421,838
+LFRB,Brest-Bretagne,France,2,FEB,464,460,924
+LFRB,Brest-Bretagne,France,3,MAR,531,530,1061
+LFRB,Brest-Bretagne,France,4,APR,596,597,1193
+LFRB,Brest-Bretagne,France,5,MAY,587,587,1174
+LFRB,Brest-Bretagne,France,6,JUN,595,608,1203
+LFRB,Brest-Bretagne,France,7,JUL,586,586,1172
+LFRB,Brest-Bretagne,France,8,AUG,552,551,1103
+LFRB,Brest-Bretagne,France,9,SEP,578,573,1151
+LFRB,Brest-Bretagne,France,10,OCT,570,570,1140
+LFRB,Brest-Bretagne,France,11,NOV,455,453,908
+LFRB,Brest-Bretagne,France,12,DEC,448,447,895
+LFRD,Dinard-Pleurtuit-Saint-Malo,France,1,JAN,68,77,145
+LFRD,Dinard-Pleurtuit-Saint-Malo,France,2,FEB,58,62,120
+LFRD,Dinard-Pleurtuit-Saint-Malo,France,3,MAR,84,82,166
+LFRD,Dinard-Pleurtuit-Saint-Malo,France,4,APR,96,99,195
+LFRD,Dinard-Pleurtuit-Saint-Malo,France,5,MAY,102,121,223
+LFRD,Dinard-Pleurtuit-Saint-Malo,France,6,JUN,93,99,192
+LFRD,Dinard-Pleurtuit-Saint-Malo,France,7,JUL,147,153,300
+LFRD,Dinard-Pleurtuit-Saint-Malo,France,8,AUG,106,113,219
+LFRD,Dinard-Pleurtuit-Saint-Malo,France,9,SEP,104,109,213
+LFRD,Dinard-Pleurtuit-Saint-Malo,France,10,OCT,76,95,171
+LFRD,Dinard-Pleurtuit-Saint-Malo,France,11,NOV,68,77,145
+LFRD,Dinard-Pleurtuit-Saint-Malo,France,12,DEC,77,81,158
+LFRG,Deauville-Normandie,France,1,JAN,55,56,111
+LFRG,Deauville-Normandie,France,2,FEB,80,83,163
+LFRG,Deauville-Normandie,France,3,MAR,91,103,194
+LFRG,Deauville-Normandie,France,4,APR,140,147,287
+LFRG,Deauville-Normandie,France,5,MAY,187,194,381
+LFRG,Deauville-Normandie,France,6,JUN,166,169,335
+LFRG,Deauville-Normandie,France,7,JUL,218,222,440
+LFRG,Deauville-Normandie,France,8,AUG,285,294,579
+LFRG,Deauville-Normandie,France,9,SEP,190,193,383
+LFRG,Deauville-Normandie,France,10,OCT,164,166,330
+LFRG,Deauville-Normandie,France,11,NOV,71,79,150
+LFRG,Deauville-Normandie,France,12,DEC,117,120,237
+LFRH,Lorient-Lann Bihoué,France,1,JAN,154,143,297
+LFRH,Lorient-Lann Bihoué,France,2,FEB,134,130,264
+LFRH,Lorient-Lann Bihoué,France,3,MAR,228,219,447
+LFRH,Lorient-Lann Bihoué,France,4,APR,193,187,380
+LFRH,Lorient-Lann Bihoué,France,5,MAY,171,164,335
+LFRH,Lorient-Lann Bihoué,France,6,JUN,194,183,377
+LFRH,Lorient-Lann Bihoué,France,7,JUL,163,164,327
+LFRH,Lorient-Lann Bihoué,France,8,AUG,95,82,177
+LFRH,Lorient-Lann Bihoué,France,9,SEP,187,182,369
+LFRH,Lorient-Lann Bihoué,France,10,OCT,171,173,344
+LFRH,Lorient-Lann Bihoué,France,11,NOV,183,176,359
+LFRH,Lorient-Lann Bihoué,France,12,DEC,137,130,267
+LFRK,Caen-Carpiquet,France,1,JAN,105,109,214
+LFRK,Caen-Carpiquet,France,2,FEB,160,162,322
+LFRK,Caen-Carpiquet,France,3,MAR,196,201,397
+LFRK,Caen-Carpiquet,France,4,APR,229,227,456
+LFRK,Caen-Carpiquet,France,5,MAY,246,263,509
+LFRK,Caen-Carpiquet,France,6,JUN,307,321,628
+LFRK,Caen-Carpiquet,France,7,JUL,248,254,502
+LFRK,Caen-Carpiquet,France,8,AUG,221,231,452
+LFRK,Caen-Carpiquet,France,9,SEP,254,261,515
+LFRK,Caen-Carpiquet,France,10,OCT,237,249,486
+LFRK,Caen-Carpiquet,France,11,NOV,153,151,304
+LFRK,Caen-Carpiquet,France,12,DEC,150,151,301
+LFRM,Le Mans,France,1,JAN,27,26,53
+LFRM,Le Mans,France,2,FEB,45,45,90
+LFRM,Le Mans,France,3,MAR,51,51,102
+LFRM,Le Mans,France,4,APR,34,41,75
+LFRM,Le Mans,France,5,MAY,71,73,144
+LFRM,Le Mans,France,6,JUN,247,250,497
+LFRM,Le Mans,France,7,JUL,126,136,262
+LFRM,Le Mans,France,8,AUG,57,58,115
+LFRM,Le Mans,France,9,SEP,57,60,117
+LFRM,Le Mans,France,10,OCT,38,36,74
+LFRM,Le Mans,France,11,NOV,42,42,84
+LFRM,Le Mans,France,12,DEC,25,27,52
+LFRN,Rennes-Saint-Jacques,France,1,JAN,374,375,749
+LFRN,Rennes-Saint-Jacques,France,2,FEB,401,401,802
+LFRN,Rennes-Saint-Jacques,France,3,MAR,474,486,960
+LFRN,Rennes-Saint-Jacques,France,4,APR,480,483,963
+LFRN,Rennes-Saint-Jacques,France,5,MAY,452,453,905
+LFRN,Rennes-Saint-Jacques,France,6,JUN,540,545,1085
+LFRN,Rennes-Saint-Jacques,France,7,JUL,504,511,1015
+LFRN,Rennes-Saint-Jacques,France,8,AUG,351,354,705
+LFRN,Rennes-Saint-Jacques,France,9,SEP,514,518,1032
+LFRN,Rennes-Saint-Jacques,France,10,OCT,521,528,1049
+LFRN,Rennes-Saint-Jacques,France,11,NOV,447,446,893
+LFRN,Rennes-Saint-Jacques,France,12,DEC,441,445,886
+LFRO,Lannion,France,1,JAN,17,16,33
+LFRO,Lannion,France,2,FEB,20,20,40
+LFRO,Lannion,France,3,MAR,14,16,30
+LFRO,Lannion,France,4,APR,31,35,66
+LFRO,Lannion,France,5,MAY,22,26,48
+LFRO,Lannion,France,6,JUN,25,23,48
+LFRO,Lannion,France,7,JUL,24,23,47
+LFRO,Lannion,France,8,AUG,15,21,36
+LFRO,Lannion,France,9,SEP,20,18,38
+LFRO,Lannion,France,10,OCT,13,12,25
+LFRO,Lannion,France,11,NOV,13,12,25
+LFRO,Lannion,France,12,DEC,18,20,38
+LFRQ,Quimper-Pluguffan,France,1,JAN,29,28,57
+LFRQ,Quimper-Pluguffan,France,2,FEB,46,46,92
+LFRQ,Quimper-Pluguffan,France,3,MAR,33,37,70
+LFRQ,Quimper-Pluguffan,France,4,APR,51,54,105
+LFRQ,Quimper-Pluguffan,France,5,MAY,55,59,114
+LFRQ,Quimper-Pluguffan,France,6,JUN,54,54,108
+LFRQ,Quimper-Pluguffan,France,7,JUL,65,64,129
+LFRQ,Quimper-Pluguffan,France,8,AUG,62,67,129
+LFRQ,Quimper-Pluguffan,France,9,SEP,35,37,72
+LFRQ,Quimper-Pluguffan,France,10,OCT,24,23,47
+LFRQ,Quimper-Pluguffan,France,11,NOV,30,30,60
+LFRQ,Quimper-Pluguffan,France,12,DEC,35,37,72
+LFRS,Nantes-Atlantique,France,1,JAN,1517,1517,3034
+LFRS,Nantes-Atlantique,France,2,FEB,1613,1616,3229
+LFRS,Nantes-Atlantique,France,3,MAR,1897,1900,3797
+LFRS,Nantes-Atlantique,France,4,APR,2486,2488,4974
+LFRS,Nantes-Atlantique,France,5,MAY,2629,2625,5254
+LFRS,Nantes-Atlantique,France,6,JUN,2600,2606,5206
+LFRS,Nantes-Atlantique,France,7,JUL,2568,2572,5140
+LFRS,Nantes-Atlantique,France,8,AUG,2587,2592,5179
+LFRS,Nantes-Atlantique,France,9,SEP,2562,2565,5127
+LFRS,Nantes-Atlantique,France,10,OCT,2645,2646,5291
+LFRS,Nantes-Atlantique,France,11,NOV,1751,1743,3494
+LFRS,Nantes-Atlantique,France,12,DEC,1948,1946,3894
+LFRZ,Saint-Nazaire-Montoir,France,1,JAN,99,107,206
+LFRZ,Saint-Nazaire-Montoir,France,2,FEB,107,119,226
+LFRZ,Saint-Nazaire-Montoir,France,3,MAR,131,140,271
+LFRZ,Saint-Nazaire-Montoir,France,4,APR,116,126,242
+LFRZ,Saint-Nazaire-Montoir,France,5,MAY,118,137,255
+LFRZ,Saint-Nazaire-Montoir,France,6,JUN,169,183,352
+LFRZ,Saint-Nazaire-Montoir,France,7,JUL,114,117,231
+LFRZ,Saint-Nazaire-Montoir,France,8,AUG,94,104,198
+LFRZ,Saint-Nazaire-Montoir,France,9,SEP,153,165,318
+LFRZ,Saint-Nazaire-Montoir,France,10,OCT,142,148,290
+LFRZ,Saint-Nazaire-Montoir,France,11,NOV,134,142,276
+LFRZ,Saint-Nazaire-Montoir,France,12,DEC,106,113,219
+LFSB,Bâle-Mulhouse,France,1,JAN,2440,2445,4885
+LFSB,Bâle-Mulhouse,France,2,FEB,2546,2551,5097
+LFSB,Bâle-Mulhouse,France,3,MAR,2917,2911,5828
+LFSB,Bâle-Mulhouse,France,4,APR,3498,3485,6983
+LFSB,Bâle-Mulhouse,France,5,MAY,3674,3671,7345
+LFSB,Bâle-Mulhouse,France,6,JUN,3825,3817,7642
+LFSB,Bâle-Mulhouse,France,7,JUL,3757,3754,7511
+LFSB,Bâle-Mulhouse,France,8,AUG,3795,3798,7593
+LFSB,Bâle-Mulhouse,France,9,SEP,3762,3749,7511
+LFSB,Bâle-Mulhouse,France,10,OCT,3841,3846,7687
+LFSB,Bâle-Mulhouse,France,11,NOV,2796,2800,5596
+LFSB,Bâle-Mulhouse,France,12,DEC,3186,3170,6356
+LFSL,Brive-Souillac,France,1,JAN,128,139,267
+LFSL,Brive-Souillac,France,2,FEB,140,142,282
+LFSL,Brive-Souillac,France,3,MAR,133,138,271
+LFSL,Brive-Souillac,France,4,APR,143,143,286
+LFSL,Brive-Souillac,France,5,MAY,134,138,272
+LFSL,Brive-Souillac,France,6,JUN,168,172,340
+LFSL,Brive-Souillac,France,7,JUL,182,185,367
+LFSL,Brive-Souillac,France,8,AUG,152,159,311
+LFSL,Brive-Souillac,France,9,SEP,158,158,316
+LFSL,Brive-Souillac,France,10,OCT,146,146,292
+LFSL,Brive-Souillac,France,11,NOV,100,106,206
+LFSL,Brive-Souillac,France,12,DEC,105,112,217
+LFST,Strasbourg-Entzheim,France,1,JAN,416,418,834
+LFST,Strasbourg-Entzheim,France,2,FEB,461,464,925
+LFST,Strasbourg-Entzheim,France,3,MAR,544,547,1091
+LFST,Strasbourg-Entzheim,France,4,APR,571,569,1140
+LFST,Strasbourg-Entzheim,France,5,MAY,588,596,1184
+LFST,Strasbourg-Entzheim,France,6,JUN,584,588,1172
+LFST,Strasbourg-Entzheim,France,7,JUL,506,505,1011
+LFST,Strasbourg-Entzheim,France,8,AUG,423,426,849
+LFST,Strasbourg-Entzheim,France,9,SEP,607,609,1216
+LFST,Strasbourg-Entzheim,France,10,OCT,613,617,1230
+LFST,Strasbourg-Entzheim,France,11,NOV,502,501,1003
+LFST,Strasbourg-Entzheim,France,12,DEC,736,741,1477
+LFTH,Hyères-Le Palyvestre,France,1,JAN,184,193,377
+LFTH,Hyères-Le Palyvestre,France,2,FEB,148,149,297
+LFTH,Hyères-Le Palyvestre,France,3,MAR,218,227,445
+LFTH,Hyères-Le Palyvestre,France,4,APR,363,363,726
+LFTH,Hyères-Le Palyvestre,France,5,MAY,493,498,991
+LFTH,Hyères-Le Palyvestre,France,6,JUN,727,729,1456
+LFTH,Hyères-Le Palyvestre,France,7,JUL,867,861,1728
+LFTH,Hyères-Le Palyvestre,France,8,AUG,659,668,1327
+LFTH,Hyères-Le Palyvestre,France,9,SEP,528,523,1051
+LFTH,Hyères-Le Palyvestre,France,10,OCT,376,375,751
+LFTH,Hyères-Le Palyvestre,France,11,NOV,204,207,411
+LFTH,Hyères-Le Palyvestre,France,12,DEC,156,151,307
+LFTW,Nîmes-Garons,France,1,JAN,351,348,699
+LFTW,Nîmes-Garons,France,2,FEB,290,275,565
+LFTW,Nîmes-Garons,France,3,MAR,334,326,660
+LFTW,Nîmes-Garons,France,4,APR,341,337,678
+LFTW,Nîmes-Garons,France,5,MAY,307,295,602
+LFTW,Nîmes-Garons,France,6,JUN,283,271,554
+LFTW,Nîmes-Garons,France,7,JUL,307,313,620
+LFTW,Nîmes-Garons,France,8,AUG,227,235,462
+LFTW,Nîmes-Garons,France,9,SEP,361,366,727
+LFTW,Nîmes-Garons,France,10,OCT,399,357,756
+LFTW,Nîmes-Garons,France,11,NOV,333,320,653
+LFTW,Nîmes-Garons,France,12,DEC,262,265,527
+LGAV,Athens,Greece,1,JAN,8848,8852,17700
+LGAV,Athens,Greece,2,FEB,7606,7601,15207
+LGAV,Athens,Greece,3,MAR,9342,9336,18678
+LGAV,Athens,Greece,4,APR,11120,11137,22257
+LGAV,Athens,Greece,5,MAY,12674,12781,25455
+LGAV,Athens,Greece,6,JUN,13908,13994,27902
+LGAV,Athens,Greece,7,JUL,15198,15269,30467
+LGAV,Athens,Greece,8,AUG,15154,15214,30368
+LGAV,Athens,Greece,9,SEP,13754,13791,27545
+LGAV,Athens,Greece,10,OCT,12482,12490,24972
+LGAV,Athens,Greece,11,NOV,9760,9766,19526
+LGAV,Athens,Greece,12,DEC,9706,9725,19431
+LGIR,Heraklion,Greece,1,JAN,635,638,1273
+LGIR,Heraklion,Greece,2,FEB,527,527,1054
+LGIR,Heraklion,Greece,3,MAR,650,659,1309
+LGIR,Heraklion,Greece,4,APR,2184,2187,4371
+LGIR,Heraklion,Greece,5,MAY,3531,3545,7076
+LGIR,Heraklion,Greece,6,JUN,4539,4545,9084
+LGIR,Heraklion,Greece,7,JUL,5372,5362,10734
+LGIR,Heraklion,Greece,8,AUG,5481,5480,10961
+LGIR,Heraklion,Greece,9,SEP,4700,4696,9396
+LGIR,Heraklion,Greece,10,OCT,3914,3921,7835
+LGIR,Heraklion,Greece,11,NOV,1037,1036,2073
+LGIR,Heraklion,Greece,12,DEC,716,719,1435
+LGKF,Kefallinia,Greece,1,JAN,50,51,101
+LGKF,Kefallinia,Greece,2,FEB,42,42,84
+LGKF,Kefallinia,Greece,3,MAR,55,57,112
+LGKF,Kefallinia,Greece,4,APR,117,117,234
+LGKF,Kefallinia,Greece,5,MAY,372,370,742
+LGKF,Kefallinia,Greece,6,JUN,646,647,1293
+LGKF,Kefallinia,Greece,7,JUL,870,875,1745
+LGKF,Kefallinia,Greece,8,AUG,922,924,1846
+LGKF,Kefallinia,Greece,9,SEP,639,645,1284
+LGKF,Kefallinia,Greece,10,OCT,225,227,452
+LGKF,Kefallinia,Greece,11,NOV,34,35,69
+LGKF,Kefallinia,Greece,12,DEC,59,60,119
+LGKO,Kos,Greece,1,JAN,231,230,461
+LGKO,Kos,Greece,2,FEB,193,192,385
+LGKO,Kos,Greece,3,MAR,213,213,426
+LGKO,Kos,Greece,4,APR,449,447,896
+LGKO,Kos,Greece,5,MAY,1352,1346,2698
+LGKO,Kos,Greece,6,JUN,1785,1779,3564
+LGKO,Kos,Greece,7,JUL,2039,2037,4076
+LGKO,Kos,Greece,8,AUG,2051,2049,4100
+LGKO,Kos,Greece,9,SEP,1823,1826,3649
+LGKO,Kos,Greece,10,OCT,1371,1370,2741
+LGKO,Kos,Greece,11,NOV,298,298,596
+LGKO,Kos,Greece,12,DEC,240,236,476
+LGKR,Corfu,Greece,1,JAN,90,88,178
+LGKR,Corfu,Greece,2,FEB,159,161,320
+LGKR,Corfu,Greece,3,MAR,203,203,406
+LGKR,Corfu,Greece,4,APR,674,675,1349
+LGKR,Corfu,Greece,5,MAY,1583,1587,3170
+LGKR,Corfu,Greece,6,JUN,2592,2592,5184
+LGKR,Corfu,Greece,7,JUL,3170,3171,6341
+LGKR,Corfu,Greece,8,AUG,3282,3290,6572
+LGKR,Corfu,Greece,9,SEP,2606,2600,5206
+LGKR,Corfu,Greece,10,OCT,1662,1663,3325
+LGKR,Corfu,Greece,11,NOV,235,235,470
+LGKR,Corfu,Greece,12,DEC,191,190,381
+LGMK,Mikonos,Greece,1,JAN,80,81,161
+LGMK,Mikonos,Greece,2,FEB,44,43,87
+LGMK,Mikonos,Greece,3,MAR,116,116,232
+LGMK,Mikonos,Greece,4,APR,278,277,555
+LGMK,Mikonos,Greece,5,MAY,606,609,1215
+LGMK,Mikonos,Greece,6,JUN,1292,1292,2584
+LGMK,Mikonos,Greece,7,JUL,2010,2008,4018
+LGMK,Mikonos,Greece,8,AUG,1993,1991,3984
+LGMK,Mikonos,Greece,9,SEP,1128,1131,2259
+LGMK,Mikonos,Greece,10,OCT,435,433,868
+LGMK,Mikonos,Greece,11,NOV,118,119,237
+LGMK,Mikonos,Greece,12,DEC,77,78,155
+LGPZ,Aktion,Greece,1,JAN,27,30,57
+LGPZ,Aktion,Greece,2,FEB,42,48,90
+LGPZ,Aktion,Greece,3,MAR,47,52,99
+LGPZ,Aktion,Greece,4,APR,89,91,180
+LGPZ,Aktion,Greece,5,MAY,348,353,701
+LGPZ,Aktion,Greece,6,JUN,577,583,1160
+LGPZ,Aktion,Greece,7,JUL,763,772,1535
+LGPZ,Aktion,Greece,8,AUG,771,773,1544
+LGPZ,Aktion,Greece,9,SEP,578,580,1158
+LGPZ,Aktion,Greece,10,OCT,270,269,539
+LGPZ,Aktion,Greece,11,NOV,38,42,80
+LGPZ,Aktion,Greece,12,DEC,41,48,89
+LGRP,Rodos,Greece,1,JAN,341,340,681
+LGRP,Rodos,Greece,2,FEB,333,332,665
+LGRP,Rodos,Greece,3,MAR,414,415,829
+LGRP,Rodos,Greece,4,APR,1460,1463,2923
+LGRP,Rodos,Greece,5,MAY,2722,2731,5453
+LGRP,Rodos,Greece,6,JUN,3502,3503,7005
+LGRP,Rodos,Greece,7,JUL,4101,4098,8199
+LGRP,Rodos,Greece,8,AUG,4259,4259,8518
+LGRP,Rodos,Greece,9,SEP,3606,3606,7212
+LGRP,Rodos,Greece,10,OCT,2753,2753,5506
+LGRP,Rodos,Greece,11,NOV,595,594,1189
+LGRP,Rodos,Greece,12,DEC,370,366,736
+LGSA,Khania - Souda,Greece,1,JAN,371,366,737
+LGSA,Khania - Souda,Greece,2,FEB,338,335,673
+LGSA,Khania - Souda,Greece,3,MAR,407,402,809
+LGSA,Khania - Souda,Greece,4,APR,841,837,1678
+LGSA,Khania - Souda,Greece,5,MAY,1589,1580,3169
+LGSA,Khania - Souda,Greece,6,JUN,2155,2164,4319
+LGSA,Khania - Souda,Greece,7,JUL,2463,2449,4912
+LGSA,Khania - Souda,Greece,8,AUG,2325,2328,4653
+LGSA,Khania - Souda,Greece,9,SEP,2030,2031,4061
+LGSA,Khania - Souda,Greece,10,OCT,1664,1665,3329
+LGSA,Khania - Souda,Greece,11,NOV,401,408,809
+LGSA,Khania - Souda,Greece,12,DEC,350,343,693
+LGSK,Skiathos,Greece,1,JAN,18,18,36
+LGSK,Skiathos,Greece,2,FEB,16,15,31
+LGSK,Skiathos,Greece,3,MAR,19,19,38
+LGSK,Skiathos,Greece,4,APR,43,43,86
+LGSK,Skiathos,Greece,5,MAY,209,209,418
+LGSK,Skiathos,Greece,6,JUN,495,496,991
+LGSK,Skiathos,Greece,7,JUL,636,636,1272
+LGSK,Skiathos,Greece,8,AUG,635,636,1271
+LGSK,Skiathos,Greece,9,SEP,474,476,950
+LGSK,Skiathos,Greece,10,OCT,117,117,234
+LGSK,Skiathos,Greece,11,NOV,20,19,39
+LGSK,Skiathos,Greece,12,DEC,17,17,34
+LGSR,Santorini,Greece,1,JAN,218,217,435
+LGSR,Santorini,Greece,2,FEB,286,285,571
+LGSR,Santorini,Greece,3,MAR,285,287,572
+LGSR,Santorini,Greece,4,APR,655,656,1311
+LGSR,Santorini,Greece,5,MAY,1047,1046,2093
+LGSR,Santorini,Greece,6,JUN,1352,1352,2704
+LGSR,Santorini,Greece,7,JUL,1720,1725,3445
+LGSR,Santorini,Greece,8,AUG,1717,1718,3435
+LGSR,Santorini,Greece,9,SEP,1325,1324,2649
+LGSR,Santorini,Greece,10,OCT,994,994,1988
+LGSR,Santorini,Greece,11,NOV,394,396,790
+LGSR,Santorini,Greece,12,DEC,324,324,648
+LGTS,Thessaloniki,Greece,1,JAN,1895,1896,3791
+LGTS,Thessaloniki,Greece,2,FEB,1640,1644,3284
+LGTS,Thessaloniki,Greece,3,MAR,1951,1949,3900
+LGTS,Thessaloniki,Greece,4,APR,2400,2404,4804
+LGTS,Thessaloniki,Greece,5,MAY,2764,2773,5537
+LGTS,Thessaloniki,Greece,6,JUN,3087,3094,6181
+LGTS,Thessaloniki,Greece,7,JUL,3583,3588,7171
+LGTS,Thessaloniki,Greece,8,AUG,3503,3505,7008
+LGTS,Thessaloniki,Greece,9,SEP,3160,3157,6317
+LGTS,Thessaloniki,Greece,10,OCT,2824,2831,5655
+LGTS,Thessaloniki,Greece,11,NOV,2055,2060,4115
+LGTS,Thessaloniki,Greece,12,DEC,2187,2184,4371
+LGZA,Zakinthos,Greece,1,JAN,51,50,101
+LGZA,Zakinthos,Greece,2,FEB,16,16,32
+LGZA,Zakinthos,Greece,3,MAR,58,58,116
+LGZA,Zakinthos,Greece,4,APR,174,173,347
+LGZA,Zakinthos,Greece,5,MAY,792,791,1583
+LGZA,Zakinthos,Greece,6,JUN,1309,1308,2617
+LGZA,Zakinthos,Greece,7,JUL,1568,1569,3137
+LGZA,Zakinthos,Greece,8,AUG,1591,1587,3178
+LGZA,Zakinthos,Greece,9,SEP,1323,1328,2651
+LGZA,Zakinthos,Greece,10,OCT,585,589,1174
+LGZA,Zakinthos,Greece,11,NOV,67,66,133
+LGZA,Zakinthos,Greece,12,DEC,61,60,121
+LHBP,Budapest - Ferihegy,Hungary,1,JAN,4938,4935,9873
+LHBP,Budapest - Ferihegy,Hungary,2,FEB,4513,4514,9027
+LHBP,Budapest - Ferihegy,Hungary,3,MAR,5352,5345,10697
+LHBP,Budapest - Ferihegy,Hungary,4,APR,5755,5762,11517
+LHBP,Budapest - Ferihegy,Hungary,5,MAY,6093,6080,12173
+LHBP,Budapest - Ferihegy,Hungary,6,JUN,6027,6032,12059
+LHBP,Budapest - Ferihegy,Hungary,7,JUL,6321,6326,12647
+LHBP,Budapest - Ferihegy,Hungary,8,AUG,6369,6358,12727
+LHBP,Budapest - Ferihegy,Hungary,9,SEP,6177,6170,12347
+LHBP,Budapest - Ferihegy,Hungary,10,OCT,6253,6260,12513
+LHBP,Budapest - Ferihegy,Hungary,11,NOV,5542,5551,11093
+LHBP,Budapest - Ferihegy,Hungary,12,DEC,5802,5801,11603
+LIBR,Brindisi,Italy,1,JAN,597,594,1191
+LIBR,Brindisi,Italy,2,FEB,609,609,1218
+LIBR,Brindisi,Italy,3,MAR,716,721,1437
+LIBR,Brindisi,Italy,4,APR,1042,1036,2078
+LIBR,Brindisi,Italy,5,MAY,1211,1211,2422
+LIBR,Brindisi,Italy,6,JUN,1327,1332,2659
+LIBR,Brindisi,Italy,7,JUL,1417,1413,2830
+LIBR,Brindisi,Italy,8,AUG,1444,1444,2888
+LIBR,Brindisi,Italy,9,SEP,1277,1279,2556
+LIBR,Brindisi,Italy,10,OCT,1094,1093,2187
+LIBR,Brindisi,Italy,11,NOV,663,665,1328
+LIBR,Brindisi,Italy,12,DEC,659,658,1317
+LICC,Catania,Italy,1,JAN,2229,2223,4452
+LICC,Catania,Italy,2,FEB,2305,2307,4612
+LICC,Catania,Italy,3,MAR,2816,2823,5639
+LICC,Catania,Italy,4,APR,3579,3577,7156
+LICC,Catania,Italy,5,MAY,3917,3924,7841
+LICC,Catania,Italy,6,JUN,4034,4030,8064
+LICC,Catania,Italy,7,JUL,4290,4317,8607
+LICC,Catania,Italy,8,AUG,4339,4344,8683
+LICC,Catania,Italy,9,SEP,3994,3995,7989
+LICC,Catania,Italy,10,OCT,3738,3755,7493
+LICC,Catania,Italy,11,NOV,2554,2555,5109
+LICC,Catania,Italy,12,DEC,2684,2687,5371
+LICJ,Palermo Falcone-Borsellino,Italy,1,JAN,1766,1767,3533
+LICJ,Palermo Falcone-Borsellino,Italy,2,FEB,1772,1772,3544
+LICJ,Palermo Falcone-Borsellino,Italy,3,MAR,2069,2071,4140
+LICJ,Palermo Falcone-Borsellino,Italy,4,APR,2911,2914,5825
+LICJ,Palermo Falcone-Borsellino,Italy,5,MAY,3191,3192,6383
+LICJ,Palermo Falcone-Borsellino,Italy,6,JUN,3197,3203,6400
+LICJ,Palermo Falcone-Borsellino,Italy,7,JUL,3580,3558,7138
+LICJ,Palermo Falcone-Borsellino,Italy,8,AUG,3525,3522,7047
+LICJ,Palermo Falcone-Borsellino,Italy,9,SEP,3178,3176,6354
+LICJ,Palermo Falcone-Borsellino,Italy,10,OCT,2969,2949,5918
+LICJ,Palermo Falcone-Borsellino,Italy,11,NOV,1971,1970,3941
+LICJ,Palermo Falcone-Borsellino,Italy,12,DEC,2088,2087,4175
+LIMC,Milan - Malpensa,Italy,1,JAN,7818,7814,15632
+LIMC,Milan - Malpensa,Italy,2,FEB,7740,7746,15486
+LIMC,Milan - Malpensa,Italy,3,MAR,8994,8986,17980
+LIMC,Milan - Malpensa,Italy,4,APR,9431,9439,18870
+LIMC,Milan - Malpensa,Italy,5,MAY,9849,9851,19700
+LIMC,Milan - Malpensa,Italy,6,JUN,10091,10083,20174
+LIMC,Milan - Malpensa,Italy,7,JUL,10656,10663,21319
+LIMC,Milan - Malpensa,Italy,8,AUG,10569,10569,21138
+LIMC,Milan - Malpensa,Italy,9,SEP,10460,10463,20923
+LIMC,Milan - Malpensa,Italy,10,OCT,10134,10137,20271
+LIMC,Milan - Malpensa,Italy,11,NOV,8572,8575,17147
+LIMC,Milan - Malpensa,Italy,12,DEC,9034,9034,18068
+LIME,Bergamo,Italy,1,JAN,3650,3653,7303
+LIME,Bergamo,Italy,2,FEB,3439,3432,6871
+LIME,Bergamo,Italy,3,MAR,3957,3960,7917
+LIME,Bergamo,Italy,4,APR,4668,4672,9340
+LIME,Bergamo,Italy,5,MAY,4793,4793,9586
+LIME,Bergamo,Italy,6,JUN,4724,4729,9453
+LIME,Bergamo,Italy,7,JUL,4855,4870,9725
+LIME,Bergamo,Italy,8,AUG,4987,5000,9987
+LIME,Bergamo,Italy,9,SEP,4776,4771,9547
+LIME,Bergamo,Italy,10,OCT,4715,4711,9426
+LIME,Bergamo,Italy,11,NOV,3744,3751,7495
+LIME,Bergamo,Italy,12,DEC,3996,3996,7992
+LIMF,Torino Caselle,Italy,1,JAN,1780,1801,3581
+LIMF,Torino Caselle,Italy,2,FEB,1585,1603,3188
+LIMF,Torino Caselle,Italy,3,MAR,1743,1783,3526
+LIMF,Torino Caselle,Italy,4,APR,1623,1661,3284
+LIMF,Torino Caselle,Italy,5,MAY,1728,1745,3473
+LIMF,Torino Caselle,Italy,6,JUN,1638,1664,3302
+LIMF,Torino Caselle,Italy,7,JUL,1655,1683,3338
+LIMF,Torino Caselle,Italy,8,AUG,1580,1596,3176
+LIMF,Torino Caselle,Italy,9,SEP,1613,1636,3249
+LIMF,Torino Caselle,Italy,10,OCT,1719,1772,3491
+LIMF,Torino Caselle,Italy,11,NOV,1657,1687,3344
+LIMF,Torino Caselle,Italy,12,DEC,1821,1848,3669
+LIML,Milan - Linate,Italy,1,JAN,4749,4792,9541
+LIML,Milan - Linate,Italy,2,FEB,4204,4241,8445
+LIML,Milan - Linate,Italy,3,MAR,4769,4799,9568
+LIML,Milan - Linate,Italy,4,APR,5117,5143,10260
+LIML,Milan - Linate,Italy,5,MAY,5356,5402,10758
+LIML,Milan - Linate,Italy,6,JUN,5458,5515,10973
+LIML,Milan - Linate,Italy,7,JUL,5615,5596,11211
+LIML,Milan - Linate,Italy,8,AUG,4777,4816,9593
+LIML,Milan - Linate,Italy,9,SEP,5608,5630,11238
+LIML,Milan - Linate,Italy,10,OCT,5230,5267,10497
+LIML,Milan - Linate,Italy,11,NOV,4834,4894,9728
+LIML,Milan - Linate,Italy,12,DEC,4945,4961,9906
+LIPE,Bologna,Italy,1,JAN,2730,2726,5456
+LIPE,Bologna,Italy,2,FEB,2535,2538,5073
+LIPE,Bologna,Italy,3,MAR,3146,3142,6288
+LIPE,Bologna,Italy,4,APR,3850,3840,7690
+LIPE,Bologna,Italy,5,MAY,4095,4105,8200
+LIPE,Bologna,Italy,6,JUN,4074,4065,8139
+LIPE,Bologna,Italy,7,JUL,4076,4068,8144
+LIPE,Bologna,Italy,8,AUG,3952,3945,7897
+LIPE,Bologna,Italy,9,SEP,3821,3816,7637
+LIPE,Bologna,Italy,10,OCT,3942,3933,7875
+LIPE,Bologna,Italy,11,NOV,2964,2965,5929
+LIPE,Bologna,Italy,12,DEC,3032,3020,6052
+LIPH,Treviso,Italy,1,JAN,814,808,1622
+LIPH,Treviso,Italy,2,FEB,714,712,1426
+LIPH,Treviso,Italy,3,MAR,815,815,1630
+LIPH,Treviso,Italy,4,APR,885,888,1773
+LIPH,Treviso,Italy,5,MAY,934,932,1866
+LIPH,Treviso,Italy,6,JUN,951,956,1907
+LIPH,Treviso,Italy,7,JUL,972,974,1946
+LIPH,Treviso,Italy,8,AUG,952,949,1901
+LIPH,Treviso,Italy,9,SEP,931,929,1860
+LIPH,Treviso,Italy,10,OCT,899,903,1802
+LIPH,Treviso,Italy,11,NOV,743,746,1489
+LIPH,Treviso,Italy,12,DEC,762,766,1528
+LIPZ,Venice,Italy,1,JAN,2749,2746,5495
+LIPZ,Venice,Italy,2,FEB,2622,2632,5254
+LIPZ,Venice,Italy,3,MAR,3191,3182,6373
+LIPZ,Venice,Italy,4,APR,3893,3891,7784
+LIPZ,Venice,Italy,5,MAY,4284,4278,8562
+LIPZ,Venice,Italy,6,JUN,4355,4352,8707
+LIPZ,Venice,Italy,7,JUL,4233,4231,8464
+LIPZ,Venice,Italy,8,AUG,4209,4216,8425
+LIPZ,Venice,Italy,9,SEP,4239,4237,8476
+LIPZ,Venice,Italy,10,OCT,4080,4085,8165
+LIPZ,Venice,Italy,11,NOV,2942,2943,5885
+LIPZ,Venice,Italy,12,DEC,3154,3164,6318
+LIRA,Rome - Ciampino,Italy,1,JAN,1597,1623,3220
+LIRA,Rome - Ciampino,Italy,2,FEB,1477,1500,2977
+LIRA,Rome - Ciampino,Italy,3,MAR,1665,1685,3350
+LIRA,Rome - Ciampino,Italy,4,APR,1714,1723,3437
+LIRA,Rome - Ciampino,Italy,5,MAY,1994,2018,4012
+LIRA,Rome - Ciampino,Italy,6,JUN,1946,1958,3904
+LIRA,Rome - Ciampino,Italy,7,JUL,2037,2026,4063
+LIRA,Rome - Ciampino,Italy,8,AUG,1657,1668,3325
+LIRA,Rome - Ciampino,Italy,9,SEP,1887,1898,3785
+LIRA,Rome - Ciampino,Italy,10,OCT,1894,1920,3814
+LIRA,Rome - Ciampino,Italy,11,NOV,1685,1691,3376
+LIRA,Rome - Ciampino,Italy,12,DEC,1615,1629,3244
+LIRF,Rome - Fiumicino,Italy,1,JAN,11066,11063,22129
+LIRF,Rome - Fiumicino,Italy,2,FEB,10738,10741,21479
+LIRF,Rome - Fiumicino,Italy,3,MAR,12567,12557,25124
+LIRF,Rome - Fiumicino,Italy,4,APR,14079,14086,28165
+LIRF,Rome - Fiumicino,Italy,5,MAY,14647,14645,29292
+LIRF,Rome - Fiumicino,Italy,6,JUN,14847,14835,29682
+LIRF,Rome - Fiumicino,Italy,7,JUL,15313,15321,30634
+LIRF,Rome - Fiumicino,Italy,8,AUG,15479,15469,30948
+LIRF,Rome - Fiumicino,Italy,9,SEP,14737,14740,29477
+LIRF,Rome - Fiumicino,Italy,10,OCT,14196,14202,28398
+LIRF,Rome - Fiumicino,Italy,11,NOV,11367,11365,22732
+LIRF,Rome - Fiumicino,Italy,12,DEC,12088,12088,24176
+LIRN,Naples,Italy,1,JAN,2475,2483,4958
+LIRN,Naples,Italy,2,FEB,2289,2280,4569
+LIRN,Naples,Italy,3,MAR,2774,2777,5551
+LIRN,Naples,Italy,4,APR,4081,4072,8153
+LIRN,Naples,Italy,5,MAY,4614,4619,9233
+LIRN,Naples,Italy,6,JUN,4787,4790,9577
+LIRN,Naples,Italy,7,JUL,5095,5088,10183
+LIRN,Naples,Italy,8,AUG,5129,5129,10258
+LIRN,Naples,Italy,9,SEP,4612,4619,9231
+LIRN,Naples,Italy,10,OCT,4387,4398,8785
+LIRN,Naples,Italy,11,NOV,2702,2712,5414
+LIRN,Naples,Italy,12,DEC,2898,2892,5790
+LIRP,Pisa San Giusto,Italy,1,JAN,1142,1139,2281
+LIRP,Pisa San Giusto,Italy,2,FEB,1182,1176,2358
+LIRP,Pisa San Giusto,Italy,3,MAR,1408,1400,2808
+LIRP,Pisa San Giusto,Italy,4,APR,2049,2048,4097
+LIRP,Pisa San Giusto,Italy,5,MAY,2298,2297,4595
+LIRP,Pisa San Giusto,Italy,6,JUN,2510,2502,5012
+LIRP,Pisa San Giusto,Italy,7,JUL,2791,2775,5566
+LIRP,Pisa San Giusto,Italy,8,AUG,2545,2540,5085
+LIRP,Pisa San Giusto,Italy,9,SEP,2350,2348,4698
+LIRP,Pisa San Giusto,Italy,10,OCT,2282,2269,4551
+LIRP,Pisa San Giusto,Italy,11,NOV,1370,1370,2740
+LIRP,Pisa San Giusto,Italy,12,DEC,1406,1397,2803
+LJLJ,Ljubljana,Slovenia,1,JAN,681,684,1365
+LJLJ,Ljubljana,Slovenia,2,FEB,619,627,1246
+LJLJ,Ljubljana,Slovenia,3,MAR,759,764,1523
+LJLJ,Ljubljana,Slovenia,4,APR,907,901,1808
+LJLJ,Ljubljana,Slovenia,5,MAY,1029,1030,2059
+LJLJ,Ljubljana,Slovenia,6,JUN,1097,1107,2204
+LJLJ,Ljubljana,Slovenia,7,JUL,1136,1142,2278
+LJLJ,Ljubljana,Slovenia,8,AUG,1111,1120,2231
+LJLJ,Ljubljana,Slovenia,9,SEP,1080,1094,2174
+LJLJ,Ljubljana,Slovenia,10,OCT,1046,1048,2094
+LJLJ,Ljubljana,Slovenia,11,NOV,775,773,1548
+LJLJ,Ljubljana,Slovenia,12,DEC,770,759,1529
+LJMB,Maribor,Slovenia,1,JAN,41,36,77
+LJMB,Maribor,Slovenia,2,FEB,72,69,141
+LJMB,Maribor,Slovenia,3,MAR,105,96,201
+LJMB,Maribor,Slovenia,4,APR,65,68,133
+LJMB,Maribor,Slovenia,5,MAY,99,96,195
+LJMB,Maribor,Slovenia,6,JUN,74,79,153
+LJMB,Maribor,Slovenia,7,JUL,62,55,117
+LJMB,Maribor,Slovenia,8,AUG,80,84,164
+LJMB,Maribor,Slovenia,9,SEP,110,114,224
+LJMB,Maribor,Slovenia,10,OCT,105,110,215
+LJMB,Maribor,Slovenia,11,NOV,114,122,236
+LJMB,Maribor,Slovenia,12,DEC,48,55,103
+LJPZ,Portorož,Slovenia,1,JAN,35,33,68
+LJPZ,Portorož,Slovenia,2,FEB,43,41,84
+LJPZ,Portorož,Slovenia,3,MAR,79,79,158
+LJPZ,Portorož,Slovenia,4,APR,77,88,165
+LJPZ,Portorož,Slovenia,5,MAY,119,129,248
+LJPZ,Portorož,Slovenia,6,JUN,200,198,398
+LJPZ,Portorož,Slovenia,7,JUL,120,113,233
+LJPZ,Portorož,Slovenia,8,AUG,127,128,255
+LJPZ,Portorož,Slovenia,9,SEP,90,87,177
+LJPZ,Portorož,Slovenia,10,OCT,81,90,171
+LJPZ,Portorož,Slovenia,11,NOV,53,50,103
+LJPZ,Portorož,Slovenia,12,DEC,42,49,91
+LKKV,Karlovy Vary,Czech Republic,1,JAN,16,16,32
+LKKV,Karlovy Vary,Czech Republic,2,FEB,75,75,150
+LKKV,Karlovy Vary,Czech Republic,3,MAR,91,89,180
+LKKV,Karlovy Vary,Czech Republic,4,APR,79,86,165
+LKKV,Karlovy Vary,Czech Republic,5,MAY,86,89,175
+LKKV,Karlovy Vary,Czech Republic,6,JUN,63,63,126
+LKKV,Karlovy Vary,Czech Republic,7,JUL,128,135,263
+LKKV,Karlovy Vary,Czech Republic,8,AUG,89,106,195
+LKKV,Karlovy Vary,Czech Republic,9,SEP,68,72,140
+LKKV,Karlovy Vary,Czech Republic,10,OCT,67,74,141
+LKKV,Karlovy Vary,Czech Republic,11,NOV,42,45,87
+LKKV,Karlovy Vary,Czech Republic,12,DEC,32,30,62
+LKMT,Ostrava,Czech Republic,1,JAN,245,250,495
+LKMT,Ostrava,Czech Republic,2,FEB,221,221,442
+LKMT,Ostrava,Czech Republic,3,MAR,261,260,521
+LKMT,Ostrava,Czech Republic,4,APR,290,278,568
+LKMT,Ostrava,Czech Republic,5,MAY,387,389,776
+LKMT,Ostrava,Czech Republic,6,JUN,590,586,1176
+LKMT,Ostrava,Czech Republic,7,JUL,624,631,1255
+LKMT,Ostrava,Czech Republic,8,AUG,569,574,1143
+LKMT,Ostrava,Czech Republic,9,SEP,541,542,1083
+LKMT,Ostrava,Czech Republic,10,OCT,361,373,734
+LKMT,Ostrava,Czech Republic,11,NOV,284,284,568
+LKMT,Ostrava,Czech Republic,12,DEC,297,295,592
+LKPR,Prague,Czech Republic,1,JAN,4686,4685,9371
+LKPR,Prague,Czech Republic,2,FEB,4238,4239,8477
+LKPR,Prague,Czech Republic,3,MAR,5024,5046,10070
+LKPR,Prague,Czech Republic,4,APR,5465,5463,10928
+LKPR,Prague,Czech Republic,5,MAY,6139,6133,12272
+LKPR,Prague,Czech Republic,6,JUN,6736,6756,13492
+LKPR,Prague,Czech Republic,7,JUL,6877,6872,13749
+LKPR,Prague,Czech Republic,8,AUG,6794,6805,13599
+LKPR,Prague,Czech Republic,9,SEP,6815,6830,13645
+LKPR,Prague,Czech Republic,10,OCT,6309,6311,12620
+LKPR,Prague,Czech Republic,11,NOV,5395,5408,10803
+LKPR,Prague,Czech Republic,12,DEC,5683,5677,11360
+LKTB,Brno-Tuřany,Czech Republic,1,JAN,192,192,384
+LKTB,Brno-Tuřany,Czech Republic,2,FEB,171,171,342
+LKTB,Brno-Tuřany,Czech Republic,3,MAR,251,256,507
+LKTB,Brno-Tuřany,Czech Republic,4,APR,270,279,549
+LKTB,Brno-Tuřany,Czech Republic,5,MAY,345,346,691
+LKTB,Brno-Tuřany,Czech Republic,6,JUN,708,715,1423
+LKTB,Brno-Tuřany,Czech Republic,7,JUL,740,747,1487
+LKTB,Brno-Tuřany,Czech Republic,8,AUG,707,702,1409
+LKTB,Brno-Tuřany,Czech Republic,9,SEP,613,615,1228
+LKTB,Brno-Tuřany,Czech Republic,10,OCT,354,358,712
+LKTB,Brno-Tuřany,Czech Republic,11,NOV,230,223,453
+LKTB,Brno-Tuřany,Czech Republic,12,DEC,184,181,365
+LLBG,Tel Aviv - Ben Gurion International,Israel,1,JAN,5784,5766,11550
+LLBG,Tel Aviv - Ben Gurion International,Israel,2,FEB,4328,4314,8642
+LLBG,Tel Aviv - Ben Gurion International,Israel,3,MAR,5437,5443,10880
+LLBG,Tel Aviv - Ben Gurion International,Israel,4,APR,6955,6967,13922
+LLBG,Tel Aviv - Ben Gurion International,Israel,5,MAY,5668,5670,11338
+LLBG,Tel Aviv - Ben Gurion International,Israel,6,JUN,3394,3367,6761
+LLBG,Tel Aviv - Ben Gurion International,Israel,7,JUL,6336,6353,12689
+LLBG,Tel Aviv - Ben Gurion International,Israel,8,AUG,7543,7557,15100
+LLBG,Tel Aviv - Ben Gurion International,Israel,9,SEP,7233,7222,14455
+LLBG,Tel Aviv - Ben Gurion International,Israel,10,OCT,6804,6786,13590
+LLBG,Tel Aviv - Ben Gurion International,Israel,11,NOV,5686,5713,11399
+LLBG,Tel Aviv - Ben Gurion International,Israel,12,DEC,6340,6336,12676
+LMML,Malta,Malta,1,JAN,2459,2455,4914
+LMML,Malta,Malta,2,FEB,2225,2244,4469
+LMML,Malta,Malta,3,MAR,2727,2732,5459
+LMML,Malta,Malta,4,APR,3268,3267,6535
+LMML,Malta,Malta,5,MAY,3427,3437,6864
+LMML,Malta,Malta,6,JUN,3369,3361,6730
+LMML,Malta,Malta,7,JUL,3586,3581,7167
+LMML,Malta,Malta,8,AUG,3541,3529,7070
+LMML,Malta,Malta,9,SEP,3346,3363,6709
+LMML,Malta,Malta,10,OCT,3573,3565,7138
+LMML,Malta,Malta,11,NOV,2802,2809,5611
+LMML,Malta,Malta,12,DEC,2821,2822,5643
+LOWG,Graz,Austria,1,JAN,380,386,766
+LOWG,Graz,Austria,2,FEB,410,406,816
+LOWG,Graz,Austria,3,MAR,535,542,1077
+LOWG,Graz,Austria,4,APR,569,574,1143
+LOWG,Graz,Austria,5,MAY,696,698,1394
+LOWG,Graz,Austria,6,JUN,770,778,1548
+LOWG,Graz,Austria,7,JUL,719,721,1440
+LOWG,Graz,Austria,8,AUG,710,726,1436
+LOWG,Graz,Austria,9,SEP,748,749,1497
+LOWG,Graz,Austria,10,OCT,683,689,1372
+LOWG,Graz,Austria,11,NOV,524,523,1047
+LOWG,Graz,Austria,12,DEC,438,434,872
+LOWI,Innsbruck,Austria,1,JAN,1022,1020,2042
+LOWI,Innsbruck,Austria,2,FEB,1096,1098,2194
+LOWI,Innsbruck,Austria,3,MAR,1054,1055,2109
+LOWI,Innsbruck,Austria,4,APR,384,384,768
+LOWI,Innsbruck,Austria,5,MAY,387,385,772
+LOWI,Innsbruck,Austria,6,JUN,440,439,879
+LOWI,Innsbruck,Austria,7,JUL,440,443,883
+LOWI,Innsbruck,Austria,8,AUG,478,475,953
+LOWI,Innsbruck,Austria,9,SEP,414,423,837
+LOWI,Innsbruck,Austria,10,OCT,349,344,693
+LOWI,Innsbruck,Austria,11,NOV,290,291,581
+LOWI,Innsbruck,Austria,12,DEC,768,774,1542
+LOWK,Klagenfurt,Austria,1,JAN,115,113,228
+LOWK,Klagenfurt,Austria,2,FEB,144,142,286
+LOWK,Klagenfurt,Austria,3,MAR,181,184,365
+LOWK,Klagenfurt,Austria,4,APR,213,219,432
+LOWK,Klagenfurt,Austria,5,MAY,251,257,508
+LOWK,Klagenfurt,Austria,6,JUN,296,296,592
+LOWK,Klagenfurt,Austria,7,JUL,298,304,602
+LOWK,Klagenfurt,Austria,8,AUG,307,314,621
+LOWK,Klagenfurt,Austria,9,SEP,257,258,515
+LOWK,Klagenfurt,Austria,10,OCT,237,230,467
+LOWK,Klagenfurt,Austria,11,NOV,159,156,315
+LOWK,Klagenfurt,Austria,12,DEC,137,132,269
+LOWL,Linz,Austria,1,JAN,253,269,522
+LOWL,Linz,Austria,2,FEB,365,369,734
+LOWL,Linz,Austria,3,MAR,401,402,803
+LOWL,Linz,Austria,4,APR,442,459,901
+LOWL,Linz,Austria,5,MAY,570,570,1140
+LOWL,Linz,Austria,6,JUN,507,501,1008
+LOWL,Linz,Austria,7,JUL,544,556,1100
+LOWL,Linz,Austria,8,AUG,545,546,1091
+LOWL,Linz,Austria,9,SEP,534,543,1077
+LOWL,Linz,Austria,10,OCT,449,447,896
+LOWL,Linz,Austria,11,NOV,323,321,644
+LOWL,Linz,Austria,12,DEC,225,227,452
+LOWS,Salzburg,Austria,1,JAN,1327,1333,2660
+LOWS,Salzburg,Austria,2,FEB,1214,1211,2425
+LOWS,Salzburg,Austria,3,MAR,1246,1244,2490
+LOWS,Salzburg,Austria,4,APR,912,911,1823
+LOWS,Salzburg,Austria,5,MAY,1039,1073,2112
+LOWS,Salzburg,Austria,6,JUN,1117,1108,2225
+LOWS,Salzburg,Austria,7,JUL,1242,1244,2486
+LOWS,Salzburg,Austria,8,AUG,1329,1344,2673
+LOWS,Salzburg,Austria,9,SEP,1071,1072,2143
+LOWS,Salzburg,Austria,10,OCT,1002,1010,2012
+LOWS,Salzburg,Austria,11,NOV,769,775,1544
+LOWS,Salzburg,Austria,12,DEC,1055,1068,2123
+LOWW,Vienna,Austria,1,JAN,8023,8014,16037
+LOWW,Vienna,Austria,2,FEB,7958,7959,15917
+LOWW,Vienna,Austria,3,MAR,9464,9466,18930
+LOWW,Vienna,Austria,4,APR,10783,10779,21562
+LOWW,Vienna,Austria,5,MAY,11526,11522,23048
+LOWW,Vienna,Austria,6,JUN,11633,11648,23281
+LOWW,Vienna,Austria,7,JUL,12065,12066,24131
+LOWW,Vienna,Austria,8,AUG,12084,12089,24173
+LOWW,Vienna,Austria,9,SEP,11845,11864,23709
+LOWW,Vienna,Austria,10,OCT,11726,11718,23444
+LOWW,Vienna,Austria,11,NOV,9581,9596,19177
+LOWW,Vienna,Austria,12,DEC,9728,9767,19495
+LPAZ,Santa Maria,Portugal,1,JAN,84,83,167
+LPAZ,Santa Maria,Portugal,2,FEB,71,71,142
+LPAZ,Santa Maria,Portugal,3,MAR,92,93,185
+LPAZ,Santa Maria,Portugal,4,APR,90,91,181
+LPAZ,Santa Maria,Portugal,5,MAY,107,105,212
+LPAZ,Santa Maria,Portugal,6,JUN,163,158,321
+LPAZ,Santa Maria,Portugal,7,JUL,187,185,372
+LPAZ,Santa Maria,Portugal,8,AUG,180,181,361
+LPAZ,Santa Maria,Portugal,9,SEP,161,162,323
+LPAZ,Santa Maria,Portugal,10,OCT,94,92,186
+LPAZ,Santa Maria,Portugal,11,NOV,74,77,151
+LPAZ,Santa Maria,Portugal,12,DEC,88,88,176
+LPCS,Cascais,Portugal,1,JAN,174,178,352
+LPCS,Cascais,Portugal,2,FEB,117,114,231
+LPCS,Cascais,Portugal,3,MAR,165,161,326
+LPCS,Cascais,Portugal,4,APR,251,254,505
+LPCS,Cascais,Portugal,5,MAY,367,371,738
+LPCS,Cascais,Portugal,6,JUN,407,408,815
+LPCS,Cascais,Portugal,7,JUL,482,476,958
+LPCS,Cascais,Portugal,8,AUG,383,383,766
+LPCS,Cascais,Portugal,9,SEP,444,438,882
+LPCS,Cascais,Portugal,10,OCT,381,380,761
+LPCS,Cascais,Portugal,11,NOV,217,214,431
+LPCS,Cascais,Portugal,12,DEC,194,194,388
+LPFL,Flores,Portugal,1,JAN,41,42,83
+LPFL,Flores,Portugal,2,FEB,42,43,85
+LPFL,Flores,Portugal,3,MAR,54,55,109
+LPFL,Flores,Portugal,4,APR,89,90,179
+LPFL,Flores,Portugal,5,MAY,97,99,196
+LPFL,Flores,Portugal,6,JUN,143,145,288
+LPFL,Flores,Portugal,7,JUL,165,165,330
+LPFL,Flores,Portugal,8,AUG,156,156,312
+LPFL,Flores,Portugal,9,SEP,145,145,290
+LPFL,Flores,Portugal,10,OCT,77,80,157
+LPFL,Flores,Portugal,11,NOV,44,45,89
+LPFL,Flores,Portugal,12,DEC,45,45,90
+LPFR,Faro,Portugal,1,JAN,1304,1297,2601
+LPFR,Faro,Portugal,2,FEB,1341,1342,2683
+LPFR,Faro,Portugal,3,MAR,1983,1991,3974
+LPFR,Faro,Portugal,4,APR,3453,3459,6912
+LPFR,Faro,Portugal,5,MAY,3868,3870,7738
+LPFR,Faro,Portugal,6,JUN,3940,3943,7883
+LPFR,Faro,Portugal,7,JUL,4433,4427,8860
+LPFR,Faro,Portugal,8,AUG,4334,4332,8666
+LPFR,Faro,Portugal,9,SEP,3957,3958,7915
+LPFR,Faro,Portugal,10,OCT,3725,3726,7451
+LPFR,Faro,Portugal,11,NOV,1695,1681,3376
+LPFR,Faro,Portugal,12,DEC,1438,1453,2891
+LPHR,Horta,Portugal,1,JAN,160,159,319
+LPHR,Horta,Portugal,2,FEB,152,150,302
+LPHR,Horta,Portugal,3,MAR,183,186,369
+LPHR,Horta,Portugal,4,APR,231,235,466
+LPHR,Horta,Portugal,5,MAY,240,250,490
+LPHR,Horta,Portugal,6,JUN,309,313,622
+LPHR,Horta,Portugal,7,JUL,330,330,660
+LPHR,Horta,Portugal,8,AUG,344,345,689
+LPHR,Horta,Portugal,9,SEP,309,309,618
+LPHR,Horta,Portugal,10,OCT,204,211,415
+LPHR,Horta,Portugal,11,NOV,160,161,321
+LPHR,Horta,Portugal,12,DEC,157,156,313
+LPMA,Madeira,Portugal,1,JAN,1290,1295,2585
+LPMA,Madeira,Portugal,2,FEB,1225,1225,2450
+LPMA,Madeira,Portugal,3,MAR,1422,1423,2845
+LPMA,Madeira,Portugal,4,APR,1588,1589,3177
+LPMA,Madeira,Portugal,5,MAY,1635,1635,3270
+LPMA,Madeira,Portugal,6,JUN,1631,1629,3260
+LPMA,Madeira,Portugal,7,JUL,1730,1729,3459
+LPMA,Madeira,Portugal,8,AUG,1764,1770,3534
+LPMA,Madeira,Portugal,9,SEP,1668,1664,3332
+LPMA,Madeira,Portugal,10,OCT,1576,1576,3152
+LPMA,Madeira,Portugal,11,NOV,1386,1384,2770
+LPMA,Madeira,Portugal,12,DEC,1373,1372,2745
+LPMT,Montijo,Portugal,1,JAN,32,28,60
+LPMT,Montijo,Portugal,2,FEB,9,11,20
+LPMT,Montijo,Portugal,3,MAR,22,21,43
+LPMT,Montijo,Portugal,4,APR,20,18,38
+LPMT,Montijo,Portugal,5,MAY,17,16,33
+LPMT,Montijo,Portugal,6,JUN,25,22,47
+LPMT,Montijo,Portugal,7,JUL,13,13,26
+LPMT,Montijo,Portugal,8,AUG,25,29,54
+LPMT,Montijo,Portugal,9,SEP,29,25,54
+LPMT,Montijo,Portugal,10,OCT,34,31,65
+LPMT,Montijo,Portugal,11,NOV,31,28,59
+LPMT,Montijo,Portugal,12,DEC,25,26,51
+LPPD,Ponta Delgada,Portugal,1,JAN,771,765,1536
+LPPD,Ponta Delgada,Portugal,2,FEB,693,691,1384
+LPPD,Ponta Delgada,Portugal,3,MAR,833,826,1659
+LPPD,Ponta Delgada,Portugal,4,APR,1202,1196,2398
+LPPD,Ponta Delgada,Portugal,5,MAY,1272,1266,2538
+LPPD,Ponta Delgada,Portugal,6,JUN,1557,1555,3112
+LPPD,Ponta Delgada,Portugal,7,JUL,1673,1668,3341
+LPPD,Ponta Delgada,Portugal,8,AUG,1706,1698,3404
+LPPD,Ponta Delgada,Portugal,9,SEP,1513,1515,3028
+LPPD,Ponta Delgada,Portugal,10,OCT,1089,1075,2164
+LPPD,Ponta Delgada,Portugal,11,NOV,746,738,1484
+LPPD,Ponta Delgada,Portugal,12,DEC,760,765,1525
+LPPR,Porto,Portugal,1,JAN,3699,3698,7397
+LPPR,Porto,Portugal,2,FEB,3551,3548,7099
+LPPR,Porto,Portugal,3,MAR,4208,4205,8413
+LPPR,Porto,Portugal,4,APR,4849,4852,9701
+LPPR,Porto,Portugal,5,MAY,5103,5107,10210
+LPPR,Porto,Portugal,6,JUN,5285,5278,10563
+LPPR,Porto,Portugal,7,JUL,5584,5579,11163
+LPPR,Porto,Portugal,8,AUG,5597,5603,11200
+LPPR,Porto,Portugal,9,SEP,5342,5335,10677
+LPPR,Porto,Portugal,10,OCT,5118,5119,10237
+LPPR,Porto,Portugal,11,NOV,4012,4011,8023
+LPPR,Porto,Portugal,12,DEC,4232,4229,8461
+LPPS,Porto Santo,Portugal,1,JAN,104,99,203
+LPPS,Porto Santo,Portugal,2,FEB,79,77,156
+LPPS,Porto Santo,Portugal,3,MAR,91,88,179
+LPPS,Porto Santo,Portugal,4,APR,124,121,245
+LPPS,Porto Santo,Portugal,5,MAY,131,134,265
+LPPS,Porto Santo,Portugal,6,JUN,171,175,346
+LPPS,Porto Santo,Portugal,7,JUL,197,194,391
+LPPS,Porto Santo,Portugal,8,AUG,183,182,365
+LPPS,Porto Santo,Portugal,9,SEP,164,164,328
+LPPS,Porto Santo,Portugal,10,OCT,140,137,277
+LPPS,Porto Santo,Portugal,11,NOV,86,88,174
+LPPS,Porto Santo,Portugal,12,DEC,91,88,179
+LPPT,Lisbon,Portugal,1,JAN,8701,8689,17390
+LPPT,Lisbon,Portugal,2,FEB,8119,8103,16222
+LPPT,Lisbon,Portugal,3,MAR,9317,9339,18656
+LPPT,Lisbon,Portugal,4,APR,9681,9663,19344
+LPPT,Lisbon,Portugal,5,MAY,10206,10196,20402
+LPPT,Lisbon,Portugal,6,JUN,10065,10077,20142
+LPPT,Lisbon,Portugal,7,JUL,10547,10536,21083
+LPPT,Lisbon,Portugal,8,AUG,10592,10597,21189
+LPPT,Lisbon,Portugal,9,SEP,10118,10127,20245
+LPPT,Lisbon,Portugal,10,OCT,10179,10165,20344
+LPPT,Lisbon,Portugal,11,NOV,8895,8909,17804
+LPPT,Lisbon,Portugal,12,DEC,9029,9047,18076
+LQSA,Sarajevo,Bosnia and Herzegovina,1,JAN,577,576,1153
+LQSA,Sarajevo,Bosnia and Herzegovina,2,FEB,520,520,1040
+LQSA,Sarajevo,Bosnia and Herzegovina,3,MAR,589,588,1177
+LQSA,Sarajevo,Bosnia and Herzegovina,4,APR,776,775,1551
+LQSA,Sarajevo,Bosnia and Herzegovina,5,MAY,848,848,1696
+LQSA,Sarajevo,Bosnia and Herzegovina,6,JUN,980,982,1962
+LQSA,Sarajevo,Bosnia and Herzegovina,7,JUL,1176,1177,2353
+LQSA,Sarajevo,Bosnia and Herzegovina,8,AUG,1170,1171,2341
+LQSA,Sarajevo,Bosnia and Herzegovina,9,SEP,931,929,1860
+LQSA,Sarajevo,Bosnia and Herzegovina,10,OCT,799,800,1599
+LQSA,Sarajevo,Bosnia and Herzegovina,11,NOV,635,631,1266
+LQSA,Sarajevo,Bosnia and Herzegovina,12,DEC,617,611,1228
+LRBS,Bucharest - Băneasa,Romania,1,JAN,515,518,1033
+LRBS,Bucharest - Băneasa,Romania,2,FEB,197,195,392
+LRBS,Bucharest - Băneasa,Romania,3,MAR,258,258,516
+LRBS,Bucharest - Băneasa,Romania,4,APR,360,364,724
+LRBS,Bucharest - Băneasa,Romania,5,MAY,393,401,794
+LRBS,Bucharest - Băneasa,Romania,6,JUN,482,474,956
+LRBS,Bucharest - Băneasa,Romania,7,JUL,421,430,851
+LRBS,Bucharest - Băneasa,Romania,8,AUG,356,363,719
+LRBS,Bucharest - Băneasa,Romania,9,SEP,356,363,719
+LRBS,Bucharest - Băneasa,Romania,10,OCT,438,439,877
+LRBS,Bucharest - Băneasa,Romania,11,NOV,582,586,1168
+LRBS,Bucharest - Băneasa,Romania,12,DEC,552,532,1084
+LROP,Bucharest - Otopeni,Romania,1,JAN,4682,4673,9355
+LROP,Bucharest - Otopeni,Romania,2,FEB,4157,4164,8321
+LROP,Bucharest - Otopeni,Romania,3,MAR,4878,4889,9767
+LROP,Bucharest - Otopeni,Romania,4,APR,5284,5275,10559
+LROP,Bucharest - Otopeni,Romania,5,MAY,5392,5392,10784
+LROP,Bucharest - Otopeni,Romania,6,JUN,5479,5487,10966
+LROP,Bucharest - Otopeni,Romania,7,JUL,5989,5999,11988
+LROP,Bucharest - Otopeni,Romania,8,AUG,6158,6160,12318
+LROP,Bucharest - Otopeni,Romania,9,SEP,5892,5898,11790
+LROP,Bucharest - Otopeni,Romania,10,OCT,5786,5796,11582
+LROP,Bucharest - Otopeni,Romania,11,NOV,4919,4923,9842
+LROP,Bucharest - Otopeni,Romania,12,DEC,5148,5148,10296
+LSGG,Geneva,Switzerland,1,JAN,7134,7121,14255
+LSGG,Geneva,Switzerland,2,FEB,7056,7030,14086
+LSGG,Geneva,Switzerland,3,MAR,7792,7787,15579
+LSGG,Geneva,Switzerland,4,APR,7019,7005,14024
+LSGG,Geneva,Switzerland,5,MAY,7105,7093,14198
+LSGG,Geneva,Switzerland,6,JUN,7140,7173,14313
+LSGG,Geneva,Switzerland,7,JUL,7587,7568,15155
+LSGG,Geneva,Switzerland,8,AUG,7409,7401,14810
+LSGG,Geneva,Switzerland,9,SEP,7333,7322,14655
+LSGG,Geneva,Switzerland,10,OCT,7169,7152,14321
+LSGG,Geneva,Switzerland,11,NOV,5767,5772,11539
+LSGG,Geneva,Switzerland,12,DEC,7191,7184,14375
+LSGS,Sion,Switzerland,1,JAN,466,481,947
+LSGS,Sion,Switzerland,2,FEB,631,624,1255
+LSGS,Sion,Switzerland,3,MAR,540,544,1084
+LSGS,Sion,Switzerland,4,APR,312,310,622
+LSGS,Sion,Switzerland,5,MAY,267,257,524
+LSGS,Sion,Switzerland,6,JUN,325,320,645
+LSGS,Sion,Switzerland,7,JUL,396,400,796
+LSGS,Sion,Switzerland,8,AUG,363,354,717
+LSGS,Sion,Switzerland,9,SEP,291,296,587
+LSGS,Sion,Switzerland,10,OCT,229,223,452
+LSGS,Sion,Switzerland,11,NOV,160,154,314
+LSGS,Sion,Switzerland,12,DEC,482,481,963
+LSZH,Zürich,Switzerland,1,JAN,9937,9919,19856
+LSZH,Zürich,Switzerland,2,FEB,8971,8964,17935
+LSZH,Zürich,Switzerland,3,MAR,10334,10351,20685
+LSZH,Zürich,Switzerland,4,APR,11081,11088,22169
+LSZH,Zürich,Switzerland,5,MAY,11937,11938,23875
+LSZH,Zürich,Switzerland,6,JUN,11972,11980,23952
+LSZH,Zürich,Switzerland,7,JUL,12497,12511,25008
+LSZH,Zürich,Switzerland,8,AUG,12491,12477,24968
+LSZH,Zürich,Switzerland,9,SEP,12103,12126,24229
+LSZH,Zürich,Switzerland,10,OCT,12250,12240,24490
+LSZH,Zürich,Switzerland,11,NOV,10017,10004,20021
+LSZH,Zürich,Switzerland,12,DEC,10548,10571,21119
+LTAC,Ankara - Esenboğa,Türkiye,1,JAN,4091,4079,8170
+LTAC,Ankara - Esenboğa,Türkiye,2,FEB,3309,3314,6623
+LTAC,Ankara - Esenboğa,Türkiye,3,MAR,3510,3514,7024
+LTAC,Ankara - Esenboğa,Türkiye,4,APR,3714,3717,7431
+LTAC,Ankara - Esenboğa,Türkiye,5,MAY,3769,3766,7535
+LTAC,Ankara - Esenboğa,Türkiye,6,JUN,3945,3945,7890
+LTAC,Ankara - Esenboğa,Türkiye,7,JUL,4398,4391,8789
+LTAC,Ankara - Esenboğa,Türkiye,8,AUG,4443,4462,8905
+LTAC,Ankara - Esenboğa,Türkiye,9,SEP,4212,4234,8446
+LTAC,Ankara - Esenboğa,Türkiye,10,OCT,4131,4113,8244
+LTAC,Ankara - Esenboğa,Türkiye,11,NOV,3820,3820,7640
+LTAC,Ankara - Esenboğa,Türkiye,12,DEC,4012,4027,8039
+LTAI,Antalya,Türkiye,1,JAN,3623,3632,7255
+LTAI,Antalya,Türkiye,2,FEB,3118,3128,6246
+LTAI,Antalya,Türkiye,3,MAR,3825,3817,7642
+LTAI,Antalya,Türkiye,4,APR,8452,8441,16893
+LTAI,Antalya,Türkiye,5,MAY,11596,11589,23185
+LTAI,Antalya,Türkiye,6,JUN,14574,14579,29153
+LTAI,Antalya,Türkiye,7,JUL,16054,16051,32105
+LTAI,Antalya,Türkiye,8,AUG,16482,16477,32959
+LTAI,Antalya,Türkiye,9,SEP,14760,14780,29540
+LTAI,Antalya,Türkiye,10,OCT,14418,14429,28847
+LTAI,Antalya,Türkiye,11,NOV,5787,5796,11583
+LTAI,Antalya,Türkiye,12,DEC,3736,3718,7454
+LTBA,Istanbul - Atatürk,Türkiye,1,JAN,709,711,1420
+LTBA,Istanbul - Atatürk,Türkiye,2,FEB,644,653,1297
+LTBA,Istanbul - Atatürk,Türkiye,3,MAR,687,642,1329
+LTBA,Istanbul - Atatürk,Türkiye,4,APR,677,686,1363
+LTBA,Istanbul - Atatürk,Türkiye,5,MAY,892,896,1788
+LTBA,Istanbul - Atatürk,Türkiye,6,JUN,1024,1039,2063
+LTBA,Istanbul - Atatürk,Türkiye,7,JUL,1120,1115,2235
+LTBA,Istanbul - Atatürk,Türkiye,8,AUG,1067,1057,2124
+LTBA,Istanbul - Atatürk,Türkiye,9,SEP,865,884,1749
+LTBA,Istanbul - Atatürk,Türkiye,10,OCT,832,818,1650
+LTBA,Istanbul - Atatürk,Türkiye,11,NOV,743,779,1522
+LTBA,Istanbul - Atatürk,Türkiye,12,DEC,737,729,1466
+LTBJ,Izmir - Adnan Menderes,Türkiye,1,JAN,2888,2902,5790
+LTBJ,Izmir - Adnan Menderes,Türkiye,2,FEB,2233,2231,4464
+LTBJ,Izmir - Adnan Menderes,Türkiye,3,MAR,2400,2400,4800
+LTBJ,Izmir - Adnan Menderes,Türkiye,4,APR,2803,2796,5599
+LTBJ,Izmir - Adnan Menderes,Türkiye,5,MAY,3115,3120,6235
+LTBJ,Izmir - Adnan Menderes,Türkiye,6,JUN,3546,3551,7097
+LTBJ,Izmir - Adnan Menderes,Türkiye,7,JUL,4036,4036,8072
+LTBJ,Izmir - Adnan Menderes,Türkiye,8,AUG,4255,4261,8516
+LTBJ,Izmir - Adnan Menderes,Türkiye,9,SEP,3911,3910,7821
+LTBJ,Izmir - Adnan Menderes,Türkiye,10,OCT,3653,3645,7298
+LTBJ,Izmir - Adnan Menderes,Türkiye,11,NOV,2799,2800,5599
+LTBJ,Izmir - Adnan Menderes,Türkiye,12,DEC,2768,2767,5535
+LTFJ,Istanbul - Sabiha Gökçen,Türkiye,1,JAN,11446,11402,22848
+LTFJ,Istanbul - Sabiha Gökçen,Türkiye,2,FEB,8789,8793,17582
+LTFJ,Istanbul - Sabiha Gökçen,Türkiye,3,MAR,10084,10073,20157
+LTFJ,Istanbul - Sabiha Gökçen,Türkiye,4,APR,10433,10452,20885
+LTFJ,Istanbul - Sabiha Gökçen,Türkiye,5,MAY,10987,10993,21980
+LTFJ,Istanbul - Sabiha Gökçen,Türkiye,6,JUN,11209,11223,22432
+LTFJ,Istanbul - Sabiha Gökçen,Türkiye,7,JUL,12004,12000,24004
+LTFJ,Istanbul - Sabiha Gökçen,Türkiye,8,AUG,12332,12337,24669
+LTFJ,Istanbul - Sabiha Gökçen,Türkiye,9,SEP,11867,11859,23726
+LTFJ,Istanbul - Sabiha Gökçen,Türkiye,10,OCT,11771,11774,23545
+LTFJ,Istanbul - Sabiha Gökçen,Türkiye,11,NOV,11060,11082,22142
+LTFJ,Istanbul - Sabiha Gökçen,Türkiye,12,DEC,11580,11610,23190
+LTFM,Istanbul,Türkiye,1,JAN,22387,22372,44759
+LTFM,Istanbul,Türkiye,2,FEB,18279,18277,36556
+LTFM,Istanbul,Türkiye,3,MAR,20769,20777,41546
+LTFM,Istanbul,Türkiye,4,APR,22220,22211,44431
+LTFM,Istanbul,Türkiye,5,MAY,23080,23095,46175
+LTFM,Istanbul,Türkiye,6,JUN,23396,23389,46785
+LTFM,Istanbul,Türkiye,7,JUL,25065,25070,50135
+LTFM,Istanbul,Türkiye,8,AUG,25378,25364,50742
+LTFM,Istanbul,Türkiye,9,SEP,23981,23989,47970
+LTFM,Istanbul,Türkiye,10,OCT,23972,23970,47942
+LTFM,Istanbul,Türkiye,11,NOV,22081,22088,44169
+LTFM,Istanbul,Türkiye,12,DEC,22514,22526,45040
+LUKK,Chișinău,Moldova,1,JAN,1683,1671,3354
+LUKK,Chișinău,Moldova,2,FEB,1115,1115,2230
+LUKK,Chișinău,Moldova,3,MAR,1355,1362,2717
+LUKK,Chișinău,Moldova,4,APR,1525,1522,3047
+LUKK,Chișinău,Moldova,5,MAY,1905,1909,3814
+LUKK,Chișinău,Moldova,6,JUN,2204,2206,4410
+LUKK,Chișinău,Moldova,7,JUL,2425,2427,4852
+LUKK,Chișinău,Moldova,8,AUG,2540,2539,5079
+LUKK,Chișinău,Moldova,9,SEP,2289,2287,4576
+LUKK,Chișinău,Moldova,10,OCT,2114,2105,4219
+LUKK,Chișinău,Moldova,11,NOV,1720,1722,3442
+LUKK,Chișinău,Moldova,12,DEC,1806,1817,3623
+LWSK,Skopje,Republic of North Macedonia,1,JAN,961,957,1918
+LWSK,Skopje,Republic of North Macedonia,2,FEB,700,702,1402
+LWSK,Skopje,Republic of North Macedonia,3,MAR,896,897,1793
+LWSK,Skopje,Republic of North Macedonia,4,APR,996,1001,1997
+LWSK,Skopje,Republic of North Macedonia,5,MAY,1081,1082,2163
+LWSK,Skopje,Republic of North Macedonia,6,JUN,1140,1138,2278
+LWSK,Skopje,Republic of North Macedonia,7,JUL,1203,1201,2404
+LWSK,Skopje,Republic of North Macedonia,8,AUG,1183,1180,2363
+LWSK,Skopje,Republic of North Macedonia,9,SEP,1092,1091,2183
+LWSK,Skopje,Republic of North Macedonia,10,OCT,1073,1071,2144
+LWSK,Skopje,Republic of North Macedonia,11,NOV,950,948,1898
+LWSK,Skopje,Republic of North Macedonia,12,DEC,960,959,1919
+LYBE,Belgrade - Nikola Tesla,Serbia,1,JAN,3293,3294,6587
+LYBE,Belgrade - Nikola Tesla,Serbia,2,FEB,2760,2761,5521
+LYBE,Belgrade - Nikola Tesla,Serbia,3,MAR,3124,3130,6254
+LYBE,Belgrade - Nikola Tesla,Serbia,4,APR,3431,3427,6858
+LYBE,Belgrade - Nikola Tesla,Serbia,5,MAY,3844,3850,7694
+LYBE,Belgrade - Nikola Tesla,Serbia,6,JUN,4335,4330,8665
+LYBE,Belgrade - Nikola Tesla,Serbia,7,JUL,4665,4666,9331
+LYBE,Belgrade - Nikola Tesla,Serbia,8,AUG,4682,4687,9369
+LYBE,Belgrade - Nikola Tesla,Serbia,9,SEP,4271,4272,8543
+LYBE,Belgrade - Nikola Tesla,Serbia,10,OCT,3886,3880,7766
+LYBE,Belgrade - Nikola Tesla,Serbia,11,NOV,3329,3326,6655
+LYBE,Belgrade - Nikola Tesla,Serbia,12,DEC,3413,3414,6827
+LYPG,Podgorica,Montenegro,1,JAN,445,447,892
+LYPG,Podgorica,Montenegro,2,FEB,399,400,799
+LYPG,Podgorica,Montenegro,3,MAR,477,477,954
+LYPG,Podgorica,Montenegro,4,APR,651,653,1304
+LYPG,Podgorica,Montenegro,5,MAY,746,744,1490
+LYPG,Podgorica,Montenegro,6,JUN,815,813,1628
+LYPG,Podgorica,Montenegro,7,JUL,882,878,1760
+LYPG,Podgorica,Montenegro,8,AUG,907,913,1820
+LYPG,Podgorica,Montenegro,9,SEP,797,800,1597
+LYPG,Podgorica,Montenegro,10,OCT,667,658,1325
+LYPG,Podgorica,Montenegro,11,NOV,444,445,889
+LYPG,Podgorica,Montenegro,12,DEC,462,463,925
+LZIB,Bratislava,Slovakia,1,JAN,929,927,1856
+LZIB,Bratislava,Slovakia,2,FEB,563,560,1123
+LZIB,Bratislava,Slovakia,3,MAR,636,653,1289
+LZIB,Bratislava,Slovakia,4,APR,803,803,1606
+LZIB,Bratislava,Slovakia,5,MAY,912,910,1822
+LZIB,Bratislava,Slovakia,6,JUN,1286,1290,2576
+LZIB,Bratislava,Slovakia,7,JUL,1409,1412,2821
+LZIB,Bratislava,Slovakia,8,AUG,1383,1382,2765
+LZIB,Bratislava,Slovakia,9,SEP,1198,1193,2391
+LZIB,Bratislava,Slovakia,10,OCT,905,904,1809
+LZIB,Bratislava,Slovakia,11,NOV,810,816,1626
+LZIB,Bratislava,Slovakia,12,DEC,935,936,1871
+UDYZ,Yerevan,Armenia,1,JAN,1602,1595,3197
+UDYZ,Yerevan,Armenia,2,FEB,1151,1141,2292
+UDYZ,Yerevan,Armenia,3,MAR,1371,1371,2742
+UDYZ,Yerevan,Armenia,4,APR,1569,1569,3138
+UDYZ,Yerevan,Armenia,5,MAY,1743,1747,3490
+UDYZ,Yerevan,Armenia,6,JUN,1902,1899,3801
+UDYZ,Yerevan,Armenia,7,JUL,2195,2197,4392
+UDYZ,Yerevan,Armenia,8,AUG,2324,2321,4645
+UDYZ,Yerevan,Armenia,9,SEP,1951,1952,3903
+UDYZ,Yerevan,Armenia,10,OCT,1884,1879,3763
+UDYZ,Yerevan,Armenia,11,NOV,1572,1572,3144
+UDYZ,Yerevan,Armenia,12,DEC,1661,1669,3330
+UGKO,Kutaisi,Georgia,1,JAN,404,404,808
+UGKO,Kutaisi,Georgia,2,FEB,333,333,666
+UGKO,Kutaisi,Georgia,3,MAR,360,363,723
+UGKO,Kutaisi,Georgia,4,APR,416,417,833
+UGKO,Kutaisi,Georgia,5,MAY,444,446,890
+UGKO,Kutaisi,Georgia,6,JUN,512,511,1023
+UGKO,Kutaisi,Georgia,7,JUL,559,557,1116
+UGKO,Kutaisi,Georgia,8,AUG,548,546,1094
+UGKO,Kutaisi,Georgia,9,SEP,459,459,918
+UGKO,Kutaisi,Georgia,10,OCT,416,417,833
+UGKO,Kutaisi,Georgia,11,NOV,357,360,717
+UGKO,Kutaisi,Georgia,12,DEC,399,399,798
+UGSB,Batumi,Georgia,1,JAN,221,220,441
+UGSB,Batumi,Georgia,2,FEB,182,181,363
+UGSB,Batumi,Georgia,3,MAR,274,271,545
+UGSB,Batumi,Georgia,4,APR,354,351,705
+UGSB,Batumi,Georgia,5,MAY,443,445,888
+UGSB,Batumi,Georgia,6,JUN,580,578,1158
+UGSB,Batumi,Georgia,7,JUL,708,708,1416
+UGSB,Batumi,Georgia,8,AUG,832,834,1666
+UGSB,Batumi,Georgia,9,SEP,683,685,1368
+UGSB,Batumi,Georgia,10,OCT,435,435,870
+UGSB,Batumi,Georgia,11,NOV,299,299,598
+UGSB,Batumi,Georgia,12,DEC,292,292,584
+UGTB,Tbilisi,Georgia,1,JAN,2155,2151,4306
+UGTB,Tbilisi,Georgia,2,FEB,1585,1588,3173
+UGTB,Tbilisi,Georgia,3,MAR,1862,1853,3715
+UGTB,Tbilisi,Georgia,4,APR,2052,2061,4113
+UGTB,Tbilisi,Georgia,5,MAY,2185,2183,4368
+UGTB,Tbilisi,Georgia,6,JUN,2270,2269,4539
+UGTB,Tbilisi,Georgia,7,JUL,2552,2556,5108
+UGTB,Tbilisi,Georgia,8,AUG,2659,2668,5327
+UGTB,Tbilisi,Georgia,9,SEP,2394,2393,4787
+UGTB,Tbilisi,Georgia,10,OCT,2359,2358,4717
+UGTB,Tbilisi,Georgia,11,NOV,2252,2250,4502
+UGTB,Tbilisi,Georgia,12,DEC,2271,2278,4549
